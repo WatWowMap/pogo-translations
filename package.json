@@ -1,0 +1,15 @@
+{
+  "name": "pogo-translations",
+  "version": "0.1.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bschultz/pogo-translations.git"
+  },
+  "author": "bschultz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bschultz/pogo-translations/issues"
+  },
+  "homepage": "https://github.com/bschultz/pogo-translations#readme"
+}
