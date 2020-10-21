@@ -3274,7 +3274,7 @@
   "quest_reward_3": "Stardust",
   "quest_reward_3_formatted": "%{amount} Stardust",
   "quest_reward_4": "Candy",
-  "quest_reward_4_formatted": "%{amount} %{type} Candy",
+  "quest_reward_4_formatted": "%{amount} %{pokemon} Candy",
   "quest_reward_5": "Avatar Clothing",
   "quest_reward_6": "Quest",
   "quest_reward_7": "Pokemon Encounter",
