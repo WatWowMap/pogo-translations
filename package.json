@@ -1,15 +1,19 @@
 {
   "name": "pogo-translations",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "",
+  "homepage": "https://github.com/bschultz/pogo-translations#readme",
+  "bugs": {
+    "url": "https://github.com/bschultz/pogo-translations/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bschultz/pogo-translations.git"
   },
-  "author": "bschultz",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bschultz/pogo-translations/issues"
-  },
-  "homepage": "https://github.com/bschultz/pogo-translations#readme"
+  "author": "bschultz",
+  "devDependencies": {
+    "Masterfile-Generator": "git+https://github.com/WatWowMap/Masterfile-Generator",
+    "lodash": "^4.17.20"
+  }
 }
