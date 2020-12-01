@@ -11,9 +11,5 @@
     "url": "git+https://github.com/bschultz/pogo-translations.git"
   },
   "license": "ISC",
-  "author": "bschultz",
-  "devDependencies": {
-    "Masterfile-Generator": "git+https://github.com/WatWowMap/Masterfile-Generator",
-    "lodash": "^4.17.20"
-  }
+  "author": "bschultz"
 }
