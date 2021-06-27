@@ -11,5 +11,9 @@
     "url": "git+https://github.com/bschultz/pogo-translations.git"
   },
   "license": "ISC",
-  "author": "bschultz"
+  "author": "bschultz",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "pogo-protos": "github:Furtif/pogo-protos"
+  }
 }
