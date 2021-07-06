@@ -1046,6 +1046,8 @@
   "item_901": "Incubateur ∞",
   "item_902": "Incubateur",
   "item_903": "Super-Incubateur",
+  "item_1001": "Stockage de Pokémon",
+  "item_1002": "Sac d’objets",
   "item_1101": "Pierre Soleil",
   "item_1102": "Roche Royale",
   "item_1103": "Peau Métal",
@@ -3261,6 +3263,10 @@
   "form_2666": "Costume 2020 Deprecated",
   "form_2668": "Costume 2020",
   "form_2669": "Adventure Hat 2020",
+  "form_2675": "Kariyushi",
+  "form_2676": "Pop Star",
+  "form_2677": "Rock Star",
+  "form_2678": "Flying 5th Anniv",
   "form_2670": "Hiver 2020",
   "form_2671": "Hiver 2020",
   "form_2672": "Hiver 2020",
@@ -3478,5 +3484,6 @@
   "team_1": "Sagesse",
   "team_2": "Bravoure",
   "team_3": "Intuition",
-  "poke_0": "Pokémon"
+  "poke_0": "Pokémon",
+  "item_0": "Inconnu"
 }

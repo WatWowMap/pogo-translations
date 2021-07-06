@@ -1046,6 +1046,8 @@
   "item_901": "無限孵化器",
   "item_902": "孵化器",
   "item_903": "超級孵化器",
+  "item_1001": "升級寶可夢盒子",
+  "item_1002": "升級包包",
   "item_1101": "日之石",
   "item_1102": "王者之證",
   "item_1103": "金屬膜",
@@ -3261,6 +3263,10 @@
   "form_2666": "Costume 2020 Deprecated",
   "form_2668": "Costume 2020",
   "form_2669": "Adventure Hat 2020",
+  "form_2675": "Kariyushi",
+  "form_2676": "Pop Star",
+  "form_2677": "Rock Star",
+  "form_2678": "Flying 5th Anniv",
   "form_2670": "Winter 2020",
   "form_2671": "Winter 2020",
   "form_2672": "Winter 2020",
@@ -3385,7 +3391,7 @@
   "quest_condition_28": "With Buddy",
   "quest_condition_37": "With Mega Evo Pokemon",
   "quest_condition_41": "Win in the GO Battle League",
-  "quest_condition_44": "In Under 10 Minutes",
+  "quest_condition_44": "Within certain time",
   "alignment_1": "Shadow",
   "alignment_2": "Purified",
   "character_category_1": "Team Leader",
@@ -3478,5 +3484,6 @@
   "team_1": "Mystic",
   "team_2": "Valor",
   "team_3": "Instinct",
-  "poke_0": "Substitute Pokemon"
+  "poke_0": "Substitute Pokemon",
+  "item_0": "Unknown"
 }

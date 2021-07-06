@@ -66,17 +66,21 @@ function fetchJson(url) {
         }
       })
 
-      const pogoTranslations = fs.readFileSync(
+      const manualKeys = fs.readFileSync(
         path.resolve(pogoLocalesFolder, file),
         { encoding: 'utf8', flag: 'r' },
       )
-      const manualKeys = JSON.parse(pogoTranslations.toString())
+      const enBackup = fs.readFileSync(
+        path.resolve(pogoLocalesFolder, 'en.json'),
+        { encoding: 'utf8', flag: 'r' },
+      )
 
       const final = {
         ...pokemon,
         ...moves,
         ...items,
-        ...manualKeys,
+        ...JSON.parse(enBackup),
+        ...JSON.parse(manualKeys),
       }
       fs.writeFile(
         path.resolve(path.resolve(__dirname, './static/locales'), file),
