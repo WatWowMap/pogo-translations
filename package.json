@@ -10,10 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/bschultz/pogo-translations.git"
   },
+  "scripts": {
+    "getLocales": "node -e 'require(\"./update\").update()'"
+  },
   "license": "ISC",
   "author": "bschultz",
   "dependencies": {
-    "node-fetch": "^2.6.1",
-    "pogo-protos": "github:Furtif/pogo-protos"
+    "pogo-data-generator": "^1.0.6"
   }
 }
