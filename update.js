@@ -1,9 +1,10 @@
 const fs = require('fs')
 const path = require('path')
-const { generate } = require('pogo-data-generator')
 const englishFallback = require('./static/manual/en.json')
 
 module.exports.update = async function update() {
+  const { generate } = require('pogo-data-generator')
+
   const { translations } = await generate({
     template: {
       globalOptions: {
@@ -23,10 +24,12 @@ module.exports.update = async function update() {
             items: 'item_',
             weather: 'weather_',
             types: 'poke_type_',
-            characters: 'grunt_',
-            characterCategory: 'character_category_',
+            grunts: 'grunt_',
+            gruntsAlt: 'grunt_a_',
+            characterCategories: 'character_category_',
             lures: 'lure_',
-            throwTypes: 'throw_type_'
+            throwTypes: 'throw_type_',
+            pokemonCategories: 'pokemon_category_',
           },
           mergeCategories: true,
           masterfileLocale: 'en',
@@ -55,7 +58,8 @@ module.exports.update = async function update() {
           types: true,
           characters: true,
           weather: true,
-          misc: true
+          misc: true,
+          pokemonCategories: true,
         }
       },
     }

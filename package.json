@@ -15,7 +15,7 @@
   },
   "license": "ISC",
   "author": "bschultz",
-  "dependencies": {
-    "pogo-data-generator": "^1.0.6"
+  "optionalDependencies": {
+    "pogo-data-generator": "^1.1.2"
   }
 }
