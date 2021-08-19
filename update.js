@@ -1,86 +1,91 @@
 const fs = require('fs')
-const Fetch = require('node-fetch')
 const path = require('path')
-const POGOProtos = require('pogo-protos')
+const englishFallback = require('./static/manual/en.json')
 
-function fetchJson(url) {
-  return new Promise(resolve => {
-    Fetch(url)
-      .then(res => res.json())
-      .then(json => resolve(json.data))
+module.exports.update = async function update() {
+  const { generate } = require('pogo-data-generator')
+
+  const { translations } = await generate({
+    template: {
+      globalOptions: {
+        includeProtos: true,
+      },
+      translations: {
+        enabled: true,
+        options: {
+          prefix: {
+            pokemon: 'poke_',
+            forms: 'form_',
+            costumes: 'costume_',
+            alignment: 'alignment_',
+            evolutions: 'evo_',
+            descriptions: 'desc_',
+            moves: 'move_',
+            items: 'item_',
+            weather: 'weather_',
+            types: 'poke_type_',
+            grunts: 'grunt_',
+            gruntsAlt: 'grunt_a_',
+            characterCategories: 'character_category_',
+            lures: 'lure_',
+            throwTypes: 'throw_type_',
+            pokemonCategories: 'pokemon_category_',
+          },
+          mergeCategories: true,
+          masterfileLocale: 'en',
+        },
+        locales: {
+          de: true,
+          en: true,
+          es: true,
+          fr: true,
+          it: true,
+          ja: true,
+          ko: true,
+          'pt-br': true,
+          ru: true,
+          th: true,
+          'zh-tw': true
+        },
+        template: {
+          pokemon: {
+            names: true,
+            forms: true,
+            descriptions: true
+          },
+          moves: true,
+          items: true,
+          types: true,
+          characters: true,
+          weather: true,
+          misc: true,
+          pokemonCategories: true,
+        }
+      },
+    }
   })
-}
-
-((async function createLocales() {
-  const available = {
-    de: 'german',
-    en: 'english',
-    es: 'spanish',
-    fr: 'french',
-    it: 'italian',
-    jp: 'japanese',
-    ko: 'korean',
-    'pt-br': 'brazilianportuguese',
-    th: 'thai',
-    'zh-tw': 'chinesetraditional',
-    ru: 'russian',
-  }
-
-  const remoteFiles = {}
-  await Promise.all(Object.entries(available).map(async language => {
-    const [key, value] = language
-    remoteFiles[key] = await fetchJson(`https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Texts/Latest%20APK/JSON/i18n_${value}.json`)
-  }))
 
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
   fs.readdir(pogoLocalesFolder, (err, files) => {
     files.forEach(file => {
       const short = path.basename(file, '.json')
-      const safe = remoteFiles[short] ? short : 'en'
-      const nativeJson = {}
-
-      for (let i = 0; i < remoteFiles[safe].length; i += 2) {
-        nativeJson[remoteFiles[safe][i]] = remoteFiles[safe][i + 1]
-      }
-      const pokemon = {}
-      Object.values(POGOProtos.Rpc.HoloPokemonId).forEach(id => {
-        const key = `pokemon_name_${String(id).padStart(4, '0')}`
-        if (nativeJson[key]) {
-          if (id) {
-            pokemon[`poke_${id}`] = nativeJson[key]
-          }
-        }
-      })
-      const moves = {}
-      Object.values(POGOProtos.Rpc.HoloPokemonMove).forEach(id => {
-        const key = `move_name_${String(id).padStart(4, '0')}`
-        if (nativeJson[key]) {
-          moves[`move_${id}`] = nativeJson[key]
-        }
-      })
-      const items = {}
-      Object.entries(POGOProtos.Rpc.Item).forEach(id => {
-        const [key, value] = id
-        if (nativeJson[`${key.toLowerCase()}_name`]) {
-          items[`item_${value}`] = nativeJson[`${key.toLowerCase()}_name`]
-        }
-      })
-
-      const manualKeys = fs.readFileSync(
+      const safe = translations[short] ? short : 'en'
+      const pogoTranslations = fs.readFileSync(
         path.resolve(pogoLocalesFolder, file),
         { encoding: 'utf8', flag: 'r' },
       )
-      const enBackup = fs.readFileSync(
-        path.resolve(pogoLocalesFolder, 'en.json'),
-        { encoding: 'utf8', flag: 'r' },
-      )
+      const manualKeys = JSON.parse(pogoTranslations.toString())
+      const sortedObj = {}
+      const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
+      const sortedKeys = [...Object.keys(translations[safe]), ...Object.keys(englishFallback)].sort(collator.compare)
+
+      sortedKeys.forEach(key => {
+        sortedObj[key] = translations[safe][key] || englishFallback[key]
+      })
 
       const final = {
-        ...pokemon,
-        ...moves,
-        ...items,
-        ...JSON.parse(enBackup),
-        ...JSON.parse(manualKeys),
+        ...sortedObj,
+        ...manualKeys,
       }
       fs.writeFile(
         path.resolve(path.resolve(__dirname, './static/locales'), file),
@@ -90,4 +95,4 @@ function fetchJson(url) {
       )
     })
   })
-})())
+}
