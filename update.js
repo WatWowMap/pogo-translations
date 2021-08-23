@@ -30,9 +30,11 @@ module.exports.update = async function update() {
             lures: 'lure_',
             throwTypes: 'throw_type_',
             pokemonCategories: 'pokemon_category_',
+            questTypes: "quest_",
+            questConditions: "quest_condition_",
+            questRewardTypes: "quest_reward_",
           },
           mergeCategories: true,
-          masterfileLocale: 'en',
         },
         locales: {
           de: true,
@@ -60,6 +62,7 @@ module.exports.update = async function update() {
           weather: true,
           misc: true,
           pokemonCategories: true,
+          quests: true,
         }
       },
     }
@@ -70,26 +73,25 @@ module.exports.update = async function update() {
     files.forEach(file => {
       const short = path.basename(file, '.json')
       const safe = translations[short] ? short : 'en'
-      const pogoTranslations = fs.readFileSync(
+      const manualTranslations = fs.readFileSync(
         path.resolve(pogoLocalesFolder, file),
         { encoding: 'utf8', flag: 'r' },
       )
-      const manualKeys = JSON.parse(pogoTranslations.toString())
+      const manualKeys = {
+        ...englishFallback,
+        ...JSON.parse(manualTranslations.toString()),
+      }
       const sortedObj = {}
       const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
-      const sortedKeys = [...Object.keys(translations[safe]), ...Object.keys(englishFallback)].sort(collator.compare)
+      const sortedKeys = [...Object.keys(translations[safe]), ...Object.keys(manualKeys)].sort(collator.compare)
 
       sortedKeys.forEach(key => {
-        sortedObj[key] = translations[safe][key] || englishFallback[key]
+        sortedObj[key] = manualKeys[key] || translations[safe][key]
       })
 
-      const final = {
-        ...sortedObj,
-        ...manualKeys,
-      }
       fs.writeFile(
         path.resolve(path.resolve(__dirname, './static/locales'), file),
-        JSON.stringify(final, null, 2),
+        JSON.stringify(sortedObj, null, 2),
         'utf8',
         () => { },
       )
