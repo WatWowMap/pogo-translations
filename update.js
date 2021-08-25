@@ -1,9 +1,11 @@
 const fs = require('fs')
 const path = require('path')
+const { generate } = require('pogo-data-generator')
+
 const englishFallback = require('./static/manual/en.json')
 
 module.exports.update = async function update() {
-  const { generate } = require('pogo-data-generator')
+  console.log('Fetching latest locales')
 
   const { translations } = await generate({
     template: {
@@ -69,8 +71,11 @@ module.exports.update = async function update() {
   })
 
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
+
   fs.readdir(pogoLocalesFolder, (err, files) => {
     files.forEach(file => {
+      console.log(`Starting ${file} merge`)
+
       const short = path.basename(file, '.json')
       const safe = translations[short] ? short : 'en'
       const manualTranslations = fs.readFileSync(
@@ -89,6 +94,7 @@ module.exports.update = async function update() {
         sortedObj[key] = manualKeys[key] || translations[safe][key]
       })
 
+      console.log(`Writing ${file} locale`)
       fs.writeFile(
         path.resolve(path.resolve(__dirname, './static/locales'), file),
         JSON.stringify(sortedObj, null, 2),
@@ -97,4 +103,12 @@ module.exports.update = async function update() {
       )
     })
   })
+
+  console.log('Generating latest index')
+  fs.writeFile(
+    'index.json',
+    JSON.stringify(await fs.promises.readdir(pogoLocalesFolder), null, 2),
+    'utf8',
+    () => { },
+  )
 }
