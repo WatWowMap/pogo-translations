@@ -37,6 +37,10 @@ module.exports.update = async function update() {
             questRewardTypes: "quest_reward_",
           },
           mergeCategories: true,
+          questVariables: {
+            prefix: '%{',
+            suffix: '}',
+          }
         },
         locales: {
           de: true,
