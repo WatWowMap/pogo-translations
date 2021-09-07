@@ -13,6 +13,7 @@ module.exports.update = async function update() {
   const { translations } = await generate({ template: primary })
 
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
+  const available = await fs.promises.readdir(pogoLocalesFolder)
 
   fs.readdir(pogoLocalesFolder, (err, files) => {
     files.forEach(file => {
@@ -48,7 +49,7 @@ module.exports.update = async function update() {
   console.log('Generating latest index')
   fs.writeFile(
     'index.json',
-    JSON.stringify(await fs.promises.readdir(pogoLocalesFolder), null, 2),
+    JSON.stringify(available, null, 2),
     'utf8',
     () => { },
   )
@@ -56,11 +57,12 @@ module.exports.update = async function update() {
   console.log('Generating locales based on English as the reference now')
   const { translations: poracleTranslations } = await generate({ template: poracle })
 
-  Object.keys(poracleTranslations).forEach(locale => {
-    Object.keys(poracleTranslations[locale]).forEach(category => {
+  available.forEach(locale => {
+    const safeLocale = poracleTranslations[locale.replace('.json', '')] || poracleTranslations.en
+    Object.keys(safeLocale).forEach(category => {
       fs.writeFile(
-        path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}.json`),
-        JSON.stringify(poracleTranslations[locale][category], null, 2),
+        path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}`),
+        JSON.stringify(safeLocale[category], null, 2),
         'utf8',
         () => { },
       )
