@@ -1,0 +1,11 @@
+{
+  "Earn {{amount}} hearts with your buddy": "Заработай сердечки с твоим приятелем: {{amount}}",
+  "Give your buddy {{amount}} treats": "Дай приятелю угощения: {{amount}}",
+  "Walk {{amount}} km with your buddy": "Пройди {{amount}} км со своим Покемоном-приятелем",
+  "Catch {{amount}} Dark-type Pokémon": "Поймай {{amount}} тёмных Покемонов",
+  "Catch {{amount}} Poison-type Pokémon": "Поймай {{amount}} ядовитых Покемонов",
+  "Catch {{amount}} Psychic-type Pokémon": "Поймай {{amount}} психических Покемонов",
+  "Use an Incense": "Используй 1 ладан",
+  "Make {{amount}} Excellent Throws": "Сделай прекрасные броски: {{amount}}",
+  "Win {{amount}} raids": "Победи в {{amount}} рейдах"
+}

@@ -1,0 +1,44 @@
+{
+  "globalOptions": {
+    "includeProtos": true
+  },
+  "translations": {
+    "enabled": true,
+    "options": {
+      "useLanguageAsRef": "en",
+      "includeManualTranslations": true,
+      "questVariables": {
+        "prefix": "{{",
+        "suffix": "}}"
+      }
+    },
+    "locales": {
+      "de": true,
+      "en": true,
+      "es": true,
+      "fr": true,
+      "it": true,
+      "ja": true,
+      "ko": true,
+      "pt-br": true,
+      "ru": true,
+      "th": true,
+      "zh-tw": true
+    },
+    "template": {
+      "pokemon": {
+        "names": true,
+        "forms": true,
+        "descriptions": true
+      },
+      "moves": true,
+      "items": true,
+      "types": true,
+      "characters": true,
+      "weather": true,
+      "misc": true,
+      "pokemonCategories": true,
+      "quests": true
+    }
+  }
+}
