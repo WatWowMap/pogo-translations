@@ -2,77 +2,15 @@ const fs = require('fs')
 const path = require('path')
 const { generate } = require('pogo-data-generator')
 
+const primary = require('./templates/primary.json')
+const poracle = require('./templates/poracle.json')
 const englishFallback = require('./static/manual/en.json')
 
 module.exports.update = async function update() {
+  const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
   console.log('Fetching latest locales')
 
-  const { translations } = await generate({
-    template: {
-      globalOptions: {
-        includeProtos: true,
-      },
-      translations: {
-        enabled: true,
-        options: {
-          prefix: {
-            pokemon: 'poke_',
-            forms: 'form_',
-            costumes: 'costume_',
-            alignment: 'alignment_',
-            evolutions: 'evo_',
-            descriptions: 'desc_',
-            moves: 'move_',
-            items: 'item_',
-            weather: 'weather_',
-            types: 'poke_type_',
-            grunts: 'grunt_',
-            gruntsAlt: 'grunt_a_',
-            characterCategories: 'character_category_',
-            lures: 'lure_',
-            throwTypes: 'throw_type_',
-            pokemonCategories: 'pokemon_category_',
-            questTypes: "quest_",
-            questConditions: "quest_condition_",
-            questRewardTypes: "quest_reward_",
-          },
-          mergeCategories: true,
-          questVariables: {
-            prefix: '%{',
-            suffix: '}',
-          }
-        },
-        locales: {
-          de: true,
-          en: true,
-          es: true,
-          fr: true,
-          it: true,
-          ja: true,
-          ko: true,
-          'pt-br': true,
-          ru: true,
-          th: true,
-          'zh-tw': true
-        },
-        template: {
-          pokemon: {
-            names: true,
-            forms: true,
-            descriptions: true
-          },
-          moves: true,
-          items: true,
-          types: true,
-          characters: true,
-          weather: true,
-          misc: true,
-          pokemonCategories: true,
-          quests: true,
-        }
-      },
-    }
-  })
+  const { translations } = await generate({ template: primary })
 
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
 
@@ -91,7 +29,6 @@ module.exports.update = async function update() {
         ...JSON.parse(manualTranslations.toString()),
       }
       const sortedObj = {}
-      const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
       const sortedKeys = [...Object.keys(translations[safe]), ...Object.keys(manualKeys)].sort(collator.compare)
 
       sortedKeys.forEach(key => {
@@ -115,4 +52,18 @@ module.exports.update = async function update() {
     'utf8',
     () => { },
   )
+
+  console.log('Generating locales based on English as the reference now')
+  const { translations: poracleTranslations } = await generate({ template: poracle })
+
+  Object.keys(poracleTranslations).forEach(locale => {
+    Object.keys(poracleTranslations[locale]).forEach(category => {
+      fs.writeFile(
+        path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}.json`),
+        JSON.stringify(poracleTranslations[locale][category], null, 2),
+        'utf8',
+        () => { },
+      )
+    })
+  })
 }
