@@ -1,10 +1,10 @@
 {
-  "Extreme": "Extreme",
-  "Clear": "Clear",
-  "Rain": "Rain",
-  "Partly Cloudy": "Partly Cloudy",
-  "Cloudy": "Cloudy",
-  "Windy": "Windy",
-  "Snow": "Snow",
-  "Fog": "Fog"
+  "Extreme": "None",
+  "Clear": "Klar",
+  "Rain": "Regnigt",
+  "Partly Cloudy": "Delvis molnigt",
+  "Cloudy": "Mulet",
+  "Windy": "Blåsigt",
+  "Snow": "Snö",
+  "Fog": "Dimma"
 }

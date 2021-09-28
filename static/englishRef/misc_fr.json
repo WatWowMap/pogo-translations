@@ -1,11 +1,11 @@
 {
   "Unset": "Unset",
-  "Shadow": "Shadow",
-  "Purified": "Purified",
+  "Shadow": "Obscur",
+  "Purified": "Purifié",
   "Alola": "Alola",
-  "Mega": "Mega",
-  "Mega X": "Mega X",
-  "Mega Y": "Mega Y",
+  "Mega": "Méga",
+  "Mega X": "Méga X",
+  "Mega Y": "Méga Y",
   "Male": "Mâle",
   "Female": "Femelle",
   "Legendary": "Légendaire",
@@ -18,8 +18,8 @@
   "Team Valor": "Bravoure",
   "Team Instinct": "Intuition",
   "First": "First",
-  "Nice": "Nice",
-  "Great": "Great",
+  "Nice": "Joli",
+  "Great": "Super",
   "Excellent": "Excellent",
-  "Curveball": "Curveball"
+  "Curveball": "à effet"
 }

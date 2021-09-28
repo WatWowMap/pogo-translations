@@ -6,7 +6,7 @@
     "enabled": true,
     "options": {
       "useLanguageAsRef": "en",
-      "includeManualTranslations": true,
+      "manualTranslations": true,
       "questVariables": {
         "prefix": "{{",
         "suffix": "}}"
@@ -23,7 +23,8 @@
       "pt-br": true,
       "ru": true,
       "th": true,
-      "zh-tw": true
+      "zh-tw": true,
+      "sv": true
     },
     "template": {
       "pokemon": {

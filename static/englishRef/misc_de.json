@@ -10,7 +10,7 @@
   "Female": "Weiblich",
   "Legendary": "Legendär",
   "Mythical": "Mysteriös",
-  "No Team": "Ohne Team",
+  "No Team": "Neutral",
   "Mystic": "Weisheit",
   "Valor": "Wagemut",
   "Instinct": "Intuition",
@@ -18,8 +18,8 @@
   "Team Valor": "Team Wagemut",
   "Team Instinct": "Team Intuition",
   "First": "First",
-  "Nice": "Nice",
-  "Great": "Great",
-  "Excellent": "Excellent",
-  "Curveball": "Curveball"
+  "Nice": "Gut",
+  "Great": "Großartig",
+  "Excellent": "Einfach Fabelhaft",
+  "Curveball": "Curve"
 }

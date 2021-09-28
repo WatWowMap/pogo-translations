@@ -1,15 +1,15 @@
 {
   "Unset": "Unset",
-  "Experience": "Experience",
+  "Experience": "XP",
   "Item": "Item",
-  "Stardust": "Stardust",
-  "Candy": "Candy",
-  "Avatar Clothing": "Avatar Clothing",
+  "Stardust": "Sternenstaub",
+  "Candy": "Bonbon",
+  "Avatar Clothing": "Avatar-Kleidung",
   "Quest": "Quest",
-  "Pokemon Encounter": "Pokemon Encounter",
-  "Pokecoin": "Pokecoin",
+  "Pokemon Encounter": "Pokemon Begegnung",
+  "Pokecoin": "Pokemünzen",
   "XL Candy": "XL Candy",
   "Level Cap": "Level Cap",
-  "Sticker": "Sticker",
-  "Mega Resource": "Mega Resource"
+  "Sticker": "Aufkleber",
+  "Mega Resource": "Mega Energie"
 }
