@@ -1,0 +1,21 @@
+{
+  "None": "없음",
+  "Normal": "노말",
+  "Fighting": "격투",
+  "Flying": "비행",
+  "Poison": "독",
+  "Ground": "땅",
+  "Rock": "바위",
+  "Bug": "벌레",
+  "Ghost": "고스트",
+  "Steel": "강철",
+  "Fire": "불꽃",
+  "Water": "물",
+  "Grass": "풀",
+  "Electric": "전기",
+  "Psychic": "에스퍼",
+  "Ice": "얼음",
+  "Dragon": "드래곤",
+  "Dark": "악",
+  "Fairy": "페어리"
+}

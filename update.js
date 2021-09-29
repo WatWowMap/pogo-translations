@@ -1,95 +1,68 @@
 const fs = require('fs')
 const path = require('path')
+const { generate } = require('pogo-data-generator')
+
+const primary = require('./templates/primary.json')
+const poracle = require('./templates/poracle.json')
 const englishFallback = require('./static/manual/en.json')
 
 module.exports.update = async function update() {
-  const { generate } = require('pogo-data-generator')
+  const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
+  console.log('Fetching latest locales')
 
-  const { translations } = await generate({
-    template: {
-      globalOptions: {
-        includeProtos: true,
-      },
-      translations: {
-        enabled: true,
-        options: {
-          prefix: {
-            pokemon: 'poke_',
-            forms: 'form_',
-            costumes: 'costume_',
-            alignment: 'alignment_',
-            evolutions: 'evo_',
-            descriptions: 'desc_',
-            moves: 'move_',
-            items: 'item_',
-            weather: 'weather_',
-            types: 'poke_type_',
-            grunts: 'grunt_',
-            gruntsAlt: 'grunt_a_',
-            characterCategories: 'character_category_',
-            lures: 'lure_',
-            throwTypes: 'throw_type_',
-            pokemonCategories: 'pokemon_category_',
-          },
-          mergeCategories: true,
-          masterfileLocale: 'en',
-        },
-        locales: {
-          de: true,
-          en: true,
-          es: true,
-          fr: true,
-          it: true,
-          ja: true,
-          ko: true,
-          'pt-br': true,
-          ru: true,
-          th: true,
-          'zh-tw': true
-        },
-        template: {
-          pokemon: {
-            names: true,
-            forms: true,
-            descriptions: true
-          },
-          moves: true,
-          items: true,
-          types: true,
-          characters: true,
-          weather: true,
-          misc: true,
-          pokemonCategories: true,
-        }
-      },
-    }
-  })
+  const { translations } = await generate({ template: primary })
 
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
+  const available = await fs.promises.readdir(pogoLocalesFolder)
+
   fs.readdir(pogoLocalesFolder, (err, files) => {
     files.forEach(file => {
+      console.log(`Starting ${file} merge`)
+
       const short = path.basename(file, '.json')
       const safe = translations[short] ? short : 'en'
-      const pogoTranslations = fs.readFileSync(
+      const manualTranslations = fs.readFileSync(
         path.resolve(pogoLocalesFolder, file),
         { encoding: 'utf8', flag: 'r' },
       )
-      const manualKeys = JSON.parse(pogoTranslations.toString())
+      const manualKeys = {
+        ...englishFallback,
+        ...JSON.parse(manualTranslations.toString()),
+      }
       const sortedObj = {}
-      const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
-      const sortedKeys = [...Object.keys(translations[safe]), ...Object.keys(englishFallback)].sort(collator.compare)
+      const sortedKeys = [...Object.keys(translations[safe]), ...Object.keys(manualKeys)].sort(collator.compare)
 
       sortedKeys.forEach(key => {
-        sortedObj[key] = translations[safe][key] || englishFallback[key]
+        sortedObj[key] = manualKeys[key] || translations[safe][key]
       })
 
-      const final = {
-        ...sortedObj,
-        ...manualKeys,
-      }
+      console.log(`Writing ${file} locale`)
       fs.writeFile(
         path.resolve(path.resolve(__dirname, './static/locales'), file),
-        JSON.stringify(final, null, 2),
+        JSON.stringify(sortedObj, null, 2),
+        'utf8',
+        () => { },
+      )
+    })
+  })
+
+  console.log('Generating latest index')
+  fs.writeFile(
+    'index.json',
+    JSON.stringify(available, null, 2),
+    'utf8',
+    () => { },
+  )
+
+  console.log('Generating locales based on English as the reference now')
+  const { translations: poracleTranslations } = await generate({ template: poracle })
+
+  available.forEach(locale => {
+    const safeLocale = poracleTranslations[locale.replace('.json', '')] || poracleTranslations.en
+    Object.keys(safeLocale).forEach(category => {
+      fs.writeFile(
+        path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}`),
+        JSON.stringify(safeLocale[category], null, 2),
         'utf8',
         () => { },
       )
