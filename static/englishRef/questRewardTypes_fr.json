@@ -1,15 +1,22 @@
 {
   "Unset": "Indéfini",
-  "Experience": "XP",
+  "XP": "XP",
+  "{{amount}} XP": "{{amount}} XP",
   "Item": "Objet",
+  "{{amount}} {{item}}": "{{amount}} {{item}}",
   "Stardust": "Poussières Étoiles",
+  "{{amount}} Stardust": "{{amount}} Poussières Étoiles",
   "Candy": "Bonbon",
+  "{{amount}} {{pokemon}} Candy": "{{amount}} {{Pokemon}} Bonbon",
   "Avatar Clothing": "Vêtement d'Avatar",
   "Quest": "Quête",
   "Pokemon Encounter": "Rencontre Pokémon",
-  "Pokecoin": "PokéPièce",
+  "{{pokemon}}": "{{Pokemon}}",
+  "PokéCoin": "PokéPièce",
+  "{{amount}} PokéCoins": "{{amount}} PokéPièces",
   "XL Candy": "XL Candy",
   "Level Cap": "Level Cap",
   "Sticker": "Autocollant",
-  "Mega Resource": "Méga-Énergie"
+  "Mega Energy": "Méga-Énergie",
+  "{{amount}} {{pokemon}} Mega Energy": "{{amount}} Méga-Énergie {{Pokemon}}"
 }
