@@ -3,7 +3,7 @@
 Central repository of Pokemon translations for various projects
 
 - Submit manual updates to `/static/manual/`
-- To fetch latest translations from GameMaster and finalize any manual translations, run `npm run generate`
+- Before submitting a PR, run `npm run generate` to fetch the latest translations from GameMaster and finalize any manual translations.
 
 ## Credits
 - [versx](https://github.com/versx)  
