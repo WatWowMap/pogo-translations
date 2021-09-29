@@ -1,10 +1,17 @@
 {
-  "Extreme": "Extreme",
-  "Clear": "Clear",
-  "Rain": "Rain",
-  "Partly Cloudy": "Partly Cloudy",
-  "Cloudy": "Cloudy",
-  "Windy": "Windy",
-  "Snow": "Snow",
-  "Fog": "Fog"
+  "Extreme": "Żadne",
+  "Clear": "Przejrzyście",
+  "Rain": "Deszcz",
+  "Partly Cloudy": "Częściowo pochmurnie",
+  "Cloudy": "Pochmurno",
+  "Windy": "Wietrznie",
+  "Snow": "Śnieg",
+  "Fog": "Mgła",
+  "☀️": "☀️",
+  "☔️": "☔️",
+  "⛅": "⛅",
+  "☁️": "☁️",
+  "💨": "💨",
+  "⛄️": "⛄️",
+  "🌁": "🌁"
 }
