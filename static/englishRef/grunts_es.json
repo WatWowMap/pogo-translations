@@ -46,7 +46,8 @@
   "Ghost - Grunt (Male)": "Fantasma - Recluta (Macho)",
   "Electric - Grunt (Female)": "Eléctrico - Recluta (Hembra)",
   "Electric - Grunt (Male)": "Eléctrico - Recluta (Macho)",
-  "Gruntb": "Gruntb",
+  "Jessie": "Jessie",
+  "James": "James",
   "LenTao9": "LenTao9",
   "oneslapguy": "oneslapguy",
   "DieCurryWurst": "DieCurryWurst",
@@ -95,5 +96,6 @@
   "Ghost ♀": "Fantasma ♀",
   "Ghost ♂": "Fantasma ♂",
   "Electric ♀": "Eléctrico ♀",
-  "Electric ♂": "Eléctrico ♂"
+  "Electric ♂": "Eléctrico ♂",
+  "Gruntb": "Gruntb"
 }

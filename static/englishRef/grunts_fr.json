@@ -46,7 +46,8 @@
   "Ghost - Grunt (Male)": "Spectre - Sbire  (Mâle)",
   "Electric - Grunt (Female)": "Électrik - Sbire  (Femelle)",
   "Electric - Grunt (Male)": "Électrik - Sbire  (Mâle)",
-  "Gruntb": "Gruntb",
+  "Jessie": "Jessie",
+  "James": "James",
   "LenTao9": "LenTao9",
   "oneslapguy": "oneslapguy",
   "DieCurryWurst": "DieCurryWurst",
@@ -95,5 +96,6 @@
   "Ghost ♀": "Spectre ♀",
   "Ghost ♂": "Spectre ♂",
   "Electric ♀": "Électrik ♀",
-  "Electric ♂": "Électrik ♂"
+  "Electric ♂": "Électrik ♂",
+  "Gruntb": "Gruntb"
 }
