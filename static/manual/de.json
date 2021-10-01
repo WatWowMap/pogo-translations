@@ -2350,6 +2350,8 @@
   "character_category_4": "Cliff",
   "character_category_5": "Sierra",
   "character_category_6": "Giovanni",
+  "character_category_7": "Rüpel Ballon \u2640",
+  "character_category_8": "Rüpel Ballon \u2642",
   "character_category_9": "Event NPC",
   "throw_type_10": "Gut",
   "throw_type_11": "Großartig",
@@ -2367,6 +2369,8 @@
   "weather_icon_6": "⛄️",
   "weather_icon_7": "🌁",
   "grunt_0": "keiner",
+  "grunt_53": "Jessie",
+  "grunt_54": "James",
   "team_0": "Neutral",
   "poke_0": "Ersatzpokemon",
   "item_0": "Unbekannt"
