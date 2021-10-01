@@ -10,9 +10,9 @@ module.exports.update = async function update() {
   console.log('Fetching latest locales')
 
   const { translations } = await generate({ template: primary })
-
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
-  const available = await fs.promises.readdir(pogoLocalesFolder)
+
+  const inMemory = {}
 
   fs.readdir(pogoLocalesFolder, (err, files) => {
     files.forEach(file => {
@@ -35,6 +35,7 @@ module.exports.update = async function update() {
         sortedObj[key] = manualKeys[key] || translations[safe][key]
       })
 
+      inMemory[short] = sortedObj
       console.log(`Writing ${file} locale`)
       fs.writeFile(
         path.resolve(path.resolve(__dirname, './static/locales'), file),
@@ -45,6 +46,7 @@ module.exports.update = async function update() {
     })
   })
 
+  const available = await fs.promises.readdir(pogoLocalesFolder)
   console.log('Generating latest index')
   fs.writeFile(
     'index.json',
@@ -54,72 +56,91 @@ module.exports.update = async function update() {
   )
 
   console.log('Generating locales based on English as the reference now')
-
-  const categories = [
-    { file: 'characterCategories', prefix: 'character_category_' },
-    { file: 'costumes', prefix: 'costume_' },
-    { file: 'descriptions', prefix: 'desc' },
-    { file: 'evolutionQuests', prefix: 'challenge_buddy_affection_plural' },
-    { file: 'evolutionQuests', prefix: 'challenge_buddy_treat_plural' },
-    { file: 'evolutionQuests', prefix: 'quest_buddy_walk_km_plural' },
-    { file: 'evolutionQuests', prefix: 'quest_catch_type_dark_plural' },
-    { file: 'evolutionQuests', prefix: 'quest_catch_type_poison_plural' },
-    { file: 'evolutionQuests', prefix: 'quest_catch_type_psychic_plural' },
-    { file: 'evolutionQuests', prefix: 'quest_incense_singular' },
-    { file: 'evolutionQuests', prefix: 'quest_land_excellent_plural' },
-    { file: 'evolutionQuests', prefix: 'quest_win_raid_plural' },
-    { file: 'misc', prefix: 'alignment_' },
-    { file: 'misc', prefix: 'alola' },
-    { file: 'misc', prefix: 'evo_' },
-    { file: 'misc', prefix: 'gender_' },
-    { file: 'misc', prefix: 'mythical' },
-    { file: 'misc', prefix: 'legendary' },
-    { file: 'misc', prefix: 'team_' },
-    { file: 'misc', prefix: 'throw_' },
-    { file: 'forms', prefix: 'form_' },
-    { file: 'grunts', prefix: 'grunt_' },
-    { file: 'items', prefix: 'item_' },
-    { file: 'lures', prefix: 'lure_' },
-    { file: 'moves', prefix: 'move_' },
-    { file: 'types', prefix: 'poke_type_' },
-    { file: 'pokemon', prefix: 'poke_' },
-    { file: 'pokemonCategories', prefix: 'pokemon_category_' },
-    { file: 'questConditions', prefix: 'quest_condition_' },
-    { file: 'questRewardTypes', prefix: 'quest_reward_' },
-    { file: 'questTypes', prefix: 'quest_' },
-    { file: 'weather', prefix: 'weather_' },
-  ]
-
-  const enFallback = JSON.parse(fs.readFileSync(path.resolve(path.resolve(__dirname, './static/locales/en.json'))))
+  const manualCategories = {
+    characterCategories: {},
+    costumes: {},
+    descriptions: {},
+    evolutionQuests: {},
+    forms: {},
+    grunts: {},
+    items: {},
+    lures: {},
+    misc: {},
+    moves: {},
+    pokemon: {},
+    pokemonCategories: {},
+    questConditions: {},
+    questRewardTypes: {},
+    questTypes: {},
+    types: {},
+    weather: {},
+  }
+  Object.entries(inMemory.en).forEach(([key, value]) => {
+    if (key.startsWith('poke_type')) {
+      manualCategories.types[key] = value
+    } else if (key.startsWith('pokemon_category')) {
+      manualCategories.pokemonCategories[key] = value
+    } else if (key.startsWith('poke')) {
+      manualCategories.pokemon[key] = value
+    } else if (key.startsWith('form')) {
+      manualCategories.forms[key] = value
+    } else if (key.startsWith('costume')) {
+      manualCategories.costumes[key] = value
+    } else if (key.startsWith('quest_') || key.startsWith('challenge_')) {
+      const newValue =
+        value && value.includes('%{')
+          ? value
+            .replace(/%\{/g, '{{')
+            .replace(/\}/g, '}}')
+          : value
+      if (key.startsWith('quest_condition_')) {
+        manualCategories.questConditions[key] = newValue
+      } else if (key.startsWith('quest_reward_')) {
+        manualCategories.questRewardTypes[key] = newValue
+      } else if (key.endsWith('plural') || key.endsWith('singular')) {
+        manualCategories.evolutionQuests[key] = newValue
+      } else {
+        manualCategories.questTypes[key] = newValue
+      }
+    } else if (key.startsWith('grunt')) {
+      manualCategories.grunts[key] = value
+    } else if (key.startsWith('character')) {
+      manualCategories.characterCategories[key] = value
+    } else if (key.startsWith('weather')) {
+      manualCategories.weather[key] = value
+    } else if (key.startsWith('desc')) {
+      manualCategories.descriptions[key] = value
+    } else if (key.startsWith('item')) {
+      manualCategories.items[key] = value
+    } else if (key.startsWith('lure')) {
+      manualCategories.lures[key] = value
+    } else if (key.startsWith('move')) {
+      manualCategories.moves[key] = value
+    } else {
+      manualCategories.misc[key] = value
+    }
+  })
 
   available.forEach(locale => {
-    const localeRef = JSON.parse(fs.readFileSync(path.resolve(path.resolve(__dirname, './static/locales', locale))))
     const languageRef = {}
     const mergedRef = {}
-    categories.forEach(category => {
-      if (!languageRef[category.file]) {
-        languageRef[category.file] = {}
-      }
-      Object.keys(localeRef).forEach(key => {
-        if (key.startsWith(category.prefix)
-          && (category.prefix === 'poke_' ? !key.startsWith('poke_type') : true)
-          && key !== 'form_133') {
-          let value = localeRef[key]
-          let enValue = enFallback[key]
-          if (value.includes('%{')) {
-            value = value
-              .replace(/%\{/g, '{{')
-              .replace(/\}/g, '}}')
-            enValue = enValue
+    const short = locale.replace('.json', '')
+
+    Object.keys(manualCategories).forEach(category => {
+      languageRef[category] = {}
+
+      Object.entries(manualCategories[category]).forEach(([key, value]) => {
+        if (key !== 'form_133') {
+          let localeValue = inMemory[short][key]
+          if (localeValue && localeValue.includes('%{')) {
+            localeValue = localeValue
               .replace(/%\{/g, '{{')
               .replace(/\}/g, '}}')
           }
-          languageRef[category.file][enValue] = value
-          mergedRef[enValue] = value
+          languageRef[category][value] = localeValue
+          mergedRef[value] = localeValue  
         }
       })
-    })
-    Object.keys(languageRef).forEach(category => {
       fs.writeFile(
         path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}`),
         JSON.stringify(languageRef[category], null, 2),
@@ -127,6 +148,7 @@ module.exports.update = async function update() {
         () => { },
       )
     })
+
     fs.writeFile(
       path.resolve(path.resolve(__dirname, './static/enRefMerged'), locale),
       JSON.stringify(mergedRef, null, 2),
