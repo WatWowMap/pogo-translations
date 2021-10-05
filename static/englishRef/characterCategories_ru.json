@@ -1,12 +1,12 @@
 {
   "Unset": "Unset",
-  "Team Leader": "Team Leader",
-  "Grunt": "Grunt",
-  "Arlo": "Arlo",
-  "Cliff": "Cliff",
-  "Sierra": "Sierra",
-  "Giovanni": "Giovanni",
-  "Grunt Balloon ♀": "Grunt Balloon ♀",
-  "Grunt Balloon ♂": "Grunt Balloon ♂",
-  "Event NPC": "Event NPC"
+  "Team Leader": "Лидер команды",
+  "Grunt": "Приспешник",
+  "Arlo": "Арло",
+  "Cliff": "Клифф",
+  "Sierra": "Сьерра",
+  "Giovanni": "Джованни",
+  "Grunt Balloon ♀": "Приспешник БЖ",
+  "Grunt Balloon ♂": "Приспешник БМ",
+  "Event NPC": "Ивентовый NPC"
 }
