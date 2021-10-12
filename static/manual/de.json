@@ -2401,7 +2401,7 @@
   "raid_4": "4 Stern Raid",
   "raid_4_plural": "4 Stern Raids",
   "raid_5": "Legendärer Raid",
-  "raid_5_plural": "Legendärer Raids",
+  "raid_5_plural": "Legendäre Raids",
   "raid_6": "Mega Raid",
   "raid_6_plural": "Mega Raids",
   "egg_1": "1 Stern Ei",
@@ -2412,8 +2412,8 @@
   "egg_3_plural": "3 Stern Eier",
   "egg_4": "4 Stern Ei",
   "egg_4_plural": "4 Stern Eier",
-  "egg_5": "Legendärer Ei",
-  "egg_5_plural": "Legendärer Eier",
+  "egg_5": "Legendäres Ei",
+  "egg_5_plural": "Legendäre Eier",
   "egg_6": "Mega Ei",
   "egg_6_plural": "Mega Eier"
 }
