@@ -72,6 +72,7 @@ module.exports.update = async function update() {
     questConditions: {},
     questRewardTypes: {},
     questTypes: {},
+    questTitles: {},
     types: {},
     weather: {},
   }
@@ -97,6 +98,8 @@ module.exports.update = async function update() {
         manualCategories.questConditions[key] = newValue
       } else if (key.startsWith('quest_reward_')) {
         manualCategories.questRewardTypes[key] = newValue
+      } else if (key.startsWith('quest_title_')) {
+        manualCategories.questTitles[key] = newValue
       } else if (key.endsWith('plural') || key.endsWith('singular')) {
         manualCategories.evolutionQuests[key] = newValue
       } else {
