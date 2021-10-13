@@ -1,1 +1,26 @@
-{}
+{
+  "raid_1": "1 Estrella Incursión",
+  "raid_1_plural": "1 Estrella Incursións",
+  "raid_2": "2 Estrella Incursión",
+  "raid_2_plural": "2 Estrella Incursións",
+  "raid_3": "3 Estrella Incursión",
+  "raid_3_plural": "3 Estrella Incursións",
+  "raid_4": "4 Estrella Incursión",
+  "raid_4_plural": "4 Estrella Incursións",
+  "raid_5": "Legendär Incursión",
+  "raid_5_plural": "Legendär Incursións",
+  "raid_6": "Mega Incursión",
+  "raid_6_plural": "Mega Incursións",
+  "egg_1": "1 Estrella Huevos",
+  "egg_1_plural": "1 Estrella Huevos",
+  "egg_2": "2 Estrella Huevo",
+  "egg_2_plural": "2 Estrella Huevos",
+  "egg_3": "3 Estrella Huevos",
+  "egg_3_plural": "3 Estrella Huevos",
+  "egg_4": "4 Estrella Huevos",
+  "egg_4_plural": "4 Estrella Huevos",
+  "egg_5": "Legendär Huevo",
+  "egg_5_plural": "Huevos Legendarios",
+  "egg_6": "Mega Huevo",
+  "egg_6_plural": "Mega Huevos"
+}
