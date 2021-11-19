@@ -5,7 +5,7 @@ const { generate } = require('pogo-data-generator')
 const primary = require('./templates/primary.json')
 const enManualFallback = require('./static/manual/en.json')
 
-module.exports.update = async function update() {
+const update = async () => {
   const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
   console.log('Fetching latest locales')
 
@@ -141,7 +141,7 @@ module.exports.update = async function update() {
               .replace(/\}/g, '}}')
           }
           languageRef[category][value] = localeValue
-          mergedRef[value] = localeValue  
+          mergedRef[value] = localeValue
         }
       })
       fs.writeFile(
@@ -159,4 +159,10 @@ module.exports.update = async function update() {
       () => { },
     )
   })
+}
+
+module.exports.update = update
+
+if (require.main === module) {
+  update().then(() => console.log('Translations generated'))
 }
