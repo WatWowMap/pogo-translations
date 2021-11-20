@@ -124,6 +124,7 @@
   "quest_condition_37": "With Mega Evo Pokemon",
   "quest_condition_37_formatted": "Mega Evolution(s): %{evolutions}",
   "quest_condition_41": "Win in the GO Battle League",
+  "quest_condition_42": "Geotargeted POI Scan",
   "quest_condition_42_formatted": "Geotargeted POI %{poi}",
   "quest_condition_43": "With Item Type",
   "quest_condition_43_formatted": "With Item Types: %{types}",

@@ -76,89 +76,92 @@ const update = async () => {
     types: {},
     weather: {},
   }
-  Object.entries(inMemory.en).forEach(([key, value]) => {
-    if (key.startsWith('poke_type')) {
-      manualCategories.types[key] = value
-    } else if (key.startsWith('pokemon_category')) {
-      manualCategories.pokemonCategories[key] = value
-    } else if (key.startsWith('poke')) {
-      manualCategories.pokemon[key] = value
-    } else if (key.startsWith('form')) {
-      manualCategories.forms[key] = value
-    } else if (key.startsWith('costume')) {
-      manualCategories.costumes[key] = value
-    } else if (key.startsWith('quest_') || key.startsWith('challenge_')) {
-      const newValue =
-        value && value.includes('%{')
-          ? value
-            .replace(/%\{/g, '{{')
-            .replace(/\}/g, '}}')
-          : value
-      if (key.startsWith('quest_condition_')) {
-        manualCategories.questConditions[key] = newValue
-      } else if (key.startsWith('quest_reward_')) {
-        manualCategories.questRewardTypes[key] = newValue
-      } else if (key.startsWith('quest_title_')) {
-        manualCategories.questTitles[key] = newValue
-      } else if (key.endsWith('plural') || key.endsWith('singular')) {
-        manualCategories.evolutionQuests[key] = newValue
-      } else {
-        manualCategories.questTypes[key] = newValue
-      }
-    } else if (key.startsWith('grunt')) {
-      manualCategories.grunts[key] = value
-    } else if (key.startsWith('character')) {
-      manualCategories.characterCategories[key] = value
-    } else if (key.startsWith('weather')) {
-      manualCategories.weather[key] = value
-    } else if (key.startsWith('desc')) {
-      manualCategories.descriptions[key] = value
-    } else if (key.startsWith('item')) {
-      manualCategories.items[key] = value
-    } else if (key.startsWith('lure')) {
-      manualCategories.lures[key] = value
-    } else if (key.startsWith('move')) {
-      manualCategories.moves[key] = value
-    } else {
-      manualCategories.misc[key] = value
-    }
-  })
 
-  available.forEach(locale => {
-    const languageRef = {}
-    const mergedRef = {}
-    const short = locale.replace('.json', '')
-
-    Object.keys(manualCategories).forEach(category => {
-      languageRef[category] = {}
-
-      Object.entries(manualCategories[category]).forEach(([key, value]) => {
-        if (key !== 'form_133') {
-          let localeValue = inMemory[short][key]
-          if (localeValue && localeValue.includes('%{')) {
-            localeValue = localeValue
+  if (inMemory.en) {
+    Object.entries(inMemory.en).forEach(([key, value]) => {
+      if (key.startsWith('poke_type')) {
+        manualCategories.types[key] = value
+      } else if (key.startsWith('pokemon_category')) {
+        manualCategories.pokemonCategories[key] = value
+      } else if (key.startsWith('poke')) {
+        manualCategories.pokemon[key] = value
+      } else if (key.startsWith('form')) {
+        manualCategories.forms[key] = value
+      } else if (key.startsWith('costume')) {
+        manualCategories.costumes[key] = value
+      } else if (key.startsWith('quest_') || key.startsWith('challenge_')) {
+        const newValue =
+          value && value.includes('%{')
+            ? value
               .replace(/%\{/g, '{{')
               .replace(/\}/g, '}}')
-          }
-          languageRef[category][value] = localeValue
-          mergedRef[value] = localeValue
+            : value
+        if (key.startsWith('quest_condition_')) {
+          manualCategories.questConditions[key] = newValue
+        } else if (key.startsWith('quest_reward_')) {
+          manualCategories.questRewardTypes[key] = newValue
+        } else if (key.startsWith('quest_title_')) {
+          manualCategories.questTitles[key] = newValue
+        } else if (key.endsWith('plural') || key.endsWith('singular')) {
+          manualCategories.evolutionQuests[key] = newValue
+        } else {
+          manualCategories.questTypes[key] = newValue
         }
+      } else if (key.startsWith('grunt')) {
+        manualCategories.grunts[key] = value
+      } else if (key.startsWith('character')) {
+        manualCategories.characterCategories[key] = value
+      } else if (key.startsWith('weather')) {
+        manualCategories.weather[key] = value
+      } else if (key.startsWith('desc')) {
+        manualCategories.descriptions[key] = value
+      } else if (key.startsWith('item')) {
+        manualCategories.items[key] = value
+      } else if (key.startsWith('lure')) {
+        manualCategories.lures[key] = value
+      } else if (key.startsWith('move')) {
+        manualCategories.moves[key] = value
+      } else {
+        manualCategories.misc[key] = value
+      }
+    })
+
+    available.forEach(locale => {
+      const languageRef = {}
+      const mergedRef = {}
+      const short = locale.replace('.json', '')
+
+      Object.keys(manualCategories).forEach(category => {
+        languageRef[category] = {}
+
+        Object.entries(manualCategories[category]).forEach(([key, value]) => {
+          if (key !== 'form_133') {
+            let localeValue = inMemory[short][key]
+            if (localeValue && localeValue.includes('%{')) {
+              localeValue = localeValue
+                .replace(/%\{/g, '{{')
+                .replace(/\}/g, '}}')
+            }
+            languageRef[category][value] = localeValue
+            mergedRef[value] = localeValue
+          }
+        })
+        fs.writeFile(
+          path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}`),
+          JSON.stringify(languageRef[category], null, 2),
+          'utf8',
+          () => { },
+        )
       })
+
       fs.writeFile(
-        path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}`),
-        JSON.stringify(languageRef[category], null, 2),
+        path.resolve(path.resolve(__dirname, './static/enRefMerged'), locale),
+        JSON.stringify(mergedRef, null, 2),
         'utf8',
         () => { },
       )
     })
-
-    fs.writeFile(
-      path.resolve(path.resolve(__dirname, './static/enRefMerged'), locale),
-      JSON.stringify(mergedRef, null, 2),
-      'utf8',
-      () => { },
-    )
-  })
+  }
 }
 
 module.exports.update = update
