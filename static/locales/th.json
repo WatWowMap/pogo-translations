@@ -5796,7 +5796,7 @@
   "quest_condition_39": "Catches In A Row",
   "quest_condition_40": "Encounter Type",
   "quest_condition_41": "Win in the GO Battle League",
-  "quest_condition_42": "Geotargeted POI",
+  "quest_condition_42": "Geotargeted POI Scan",
   "quest_condition_42_formatted": "Geotargeted POI %{poi}",
   "quest_condition_43": "With Item Type",
   "quest_condition_43_formatted": "With Item Types: %{types}",
