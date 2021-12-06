@@ -52,5 +52,8 @@
   "Battle {{amount}} Event NPC(s)": "Combats {{amount}} NPC(s) d'évènement",
   "Earn {{amount}} Fort Power Up Points": "Earn {{amount}} Fort Power Up Points",
   "Take {{amount}} Snapshot(s) of wild Pokemon": "Prends {{amount}} Photo(s) de Pokémon sauvage(s)",
-  "Use {{amount}} Pokemon Item(s)": "Use {{amount}} Pokemon Item(s)"
+  "Use {{amount}} Pokemon Item(s)": "Use {{amount}} Pokemon Item(s)",
+  "Open Gift": "Open Gift",
+  "Earn Xp": "Earn Xp",
+  "Battle Player Team Leader": "Battle Player Team Leader"
 }

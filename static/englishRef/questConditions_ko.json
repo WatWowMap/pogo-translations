@@ -55,5 +55,10 @@
   "With Item Type": "With Item Type",
   "With Item Types: {{types}}": "With Item Types: {{types}}",
   "Within certain time": "Within certain time",
-  "Within {{time}}s": "Within {{time}}s"
+  "Within {{time}}s": "Within {{time}}s",
+  "Friend Level": "Friend Level",
+  "Sticker": "Sticker",
+  "Pokemon CP": "Pokemon CP",
+  "Raid Location": "Raid Location",
+  "Friends Raid": "Friends Raid"
 }

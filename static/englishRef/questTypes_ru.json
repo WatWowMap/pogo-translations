@@ -52,5 +52,8 @@
   "Battle {{amount}} Event NPC(s)": "Победить ивентовых NPC: {{amount}}",
   "Earn {{amount}} Fort Power Up Points": "Заработать очки улучшений фортов {{amount}}",
   "Take {{amount}} Snapshot(s) of wild Pokemon": "Сделать снапшоты покемонов в дикой природе: {{amount}}",
-  "Use {{amount}} Pokemon Item(s)": "Использовать предметы на покемонов: {{amount}}"
+  "Use {{amount}} Pokemon Item(s)": "Использовать предметы на покемонов: {{amount}}",
+  "Open Gift": "Open Gift",
+  "Earn Xp": "Earn Xp",
+  "Battle Player Team Leader": "Battle Player Team Leader"
 }
