@@ -2284,6 +2284,8 @@
   "quest_46": "%{amount} ortsbasierende AR Scan(s)",
   "quest_53": "Verwende %{amount} Ladeattacken",
   "quest_57": "Mache %{amount} Schnappschuss/Schnappschüsse von wilden Pokemon",
+  "quest_58": "Use %{amount} Pokemon Item(s)",
+  "quest_59": "Öffne %{amount} Geschenk(e)",
   "quest_reward_0": "Unset",
   "quest_reward_1": "XP",
   "quest_reward_1_formatted": "%{amount} XP",

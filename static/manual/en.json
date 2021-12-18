@@ -64,6 +64,7 @@
   "quest_56": "Earn %{amount} Fort Power Up Points",
   "quest_57": "Take %{amount} Snapshot(s) of wild Pokemon",
   "quest_58": "Use %{amount} Pokemon Item(s)",
+  "quest_59": "Open %{amount} Gift(s)",
   "quest_reward_0": "Unset",
   "quest_reward_1": "XP",
   "quest_reward_1_formatted": "%{amount} XP",
