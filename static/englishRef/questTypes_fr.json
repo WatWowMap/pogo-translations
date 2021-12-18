@@ -3,7 +3,7 @@
   "{{amount}} time(s) First Catch OTD": "{{amount}} fois Première Capture du Jour",
   "{{amount}} time(s) First Pokestop OTD": "{{amount}} fois Premier Pokéstop du Jour",
   "Multi Part Quest": "Quête Multiple",
-  "Catch {{amount}} Pokemon": "Attrape {{amount}} Pokémon(s)",
+  "Catch {{amount}} Pokemon": "Attrape {{amount}} Pokémon",
   "Spin {{amount}} Pokestop(s)": "Fais tourner {{amount}} Pokéstop(s)",
   "Hatch {{amount}} Egg(s)": "Fais éclore {{amount}} Œuf(s)",
   "Complete {{amount}} Gym Battle(s)": "Combats {{amount}} fois dans une Arène",
@@ -52,8 +52,8 @@
   "Battle {{amount}} Event NPC(s)": "Combats {{amount}} NPC(s) d'évènement",
   "Earn {{amount}} Fort Power Up Points": "Earn {{amount}} Fort Power Up Points",
   "Take {{amount}} Snapshot(s) of wild Pokemon": "Prends {{amount}} Photo(s) de Pokémon sauvage(s)",
-  "Use {{amount}} Pokemon Item(s)": "Use {{amount}} Pokemon Item(s)",
-  "Open Gift": "Open Gift",
+  "Use {{amount}} Pokemon Item(s)": "Utilise {{amount}} Objet(s) de Pokémon",
+  "Open {{amount}} Gift(s)": "Ouvre {{amount}} Cadeau(x)",
   "Earn Xp": "Earn Xp",
   "Battle Player Team Leader": "Battle Player Team Leader"
 }
