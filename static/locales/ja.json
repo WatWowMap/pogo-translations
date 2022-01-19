@@ -6828,6 +6828,8 @@
   "quest_title_send_gifts_daily_row": "ギフトを%{amount_0}日連続で贈る",
   "quest_title_send_gifts_plural": "ギフトを%{amount_0}個贈る",
   "quest_title_send_gifts_singular": "フレンドにギフトを贈る",
+  "quest_title_send_gifts_sticker_plural": "ステッカー付きのギフトを%{amount_0}個贈る",
+  "quest_title_send_gifts_sticker_singular": "ステッカー付きのギフトを贈る",
   "quest_title_shint_catch_b": "コリンクを%{amount_0}匹捕まえる",
   "quest_title_shint_evolve_b": "コリンクを%{amount_0}匹進化させる",
   "quest_title_shint_evolve_s1": "ルクシオを%{amount_0}匹進化させる",

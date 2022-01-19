@@ -6828,6 +6828,8 @@
   "quest_title_send_gifts_daily_row": "Invia pacchi amicizia per %{amount_0} giorni di fila",
   "quest_title_send_gifts_plural": "Invia %{amount_0} pacchi amicizia",
   "quest_title_send_gifts_singular": "Invia un pacco amicizia a un amico",
+  "quest_title_send_gifts_sticker_plural": "Send %{amount_0} Gifts with a Sticker",
+  "quest_title_send_gifts_sticker_singular": "Send a Gift with a Sticker",
   "quest_title_shint_catch_b": "Cattura %{amount_0} Shinx",
   "quest_title_shint_evolve_b": "Fai evolvere %{amount_0} Shinx",
   "quest_title_shint_evolve_s1": "Fai evolvere %{amount_0} Luxio",
