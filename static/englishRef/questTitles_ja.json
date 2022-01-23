@@ -947,6 +947,8 @@
   "Send Gifts {{amount_0}} Days in a Row": "ギフトを{{amount_0}}日連続で贈る",
   "Send {{amount_0}} Gifts to friends": "ギフトを{{amount_0}}個贈る",
   "Send a Gift to a friend": "フレンドにギフトを贈る",
+  "Send {{amount_0}} Gifts and add a sticker to each": "ステッカー付きのギフトを{{amount_0}}個贈る",
+  "Send a Gift with a sticker": "ステッカー付きのギフトを贈る",
   "Catch {{amount_0}} Shinx": "コリンクを{{amount_0}}匹捕まえる",
   "Evolve {{amount_0}} Shinx": "コリンクを{{amount_0}}匹進化させる",
   "Evolve {{amount_0}} Luxio": "ルクシオを{{amount_0}}匹進化させる",
