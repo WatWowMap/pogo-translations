@@ -55,11 +55,5 @@
   "With Item Type": "Тип предмета",
   "With Item Types: {{types}}": "With Item Types: {{types}}",
   "Within certain time": "в течение определенного времени",
-  "Within {{time}}s": "в течение {{time}}с",
-  "Friend Level": "Friend Level",
-  "Sticker": "Sticker",
-  "Pokemon CP": "Pokemon CP",
-  "Raid Location": "Raid Location",
-  "Friends Raid": "Friends Raid",
-  "Pokemon Costume": "Pokemon Costume"
+  "Within {{time}}s": "в течение {{time}}с"
 }
