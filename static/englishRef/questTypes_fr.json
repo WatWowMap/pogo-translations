@@ -53,5 +53,7 @@
   "Earn {{amount}} Fort Power Up Points": "Earn {{amount}} Fort Power Up Points",
   "Take {{amount}} Snapshot(s) of wild Pokemon": "Prends {{amount}} Photo(s) de Pokémon sauvage(s)",
   "Use {{amount}} Pokemon Item(s)": "Utilise {{amount}} Objet(s) de Pokémon",
-  "Open {{amount}} Gift(s)": "Ouvre {{amount}} Cadeau(x)"
+  "Open {{amount}} Gift(s)": "Ouvre {{amount}} Cadeau(x)",
+  "Earn Xp": "Earn Xp",
+  "Battle Player Team Leader": "Battle Player Team Leader"
 }

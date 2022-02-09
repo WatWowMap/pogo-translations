@@ -19,5 +19,6 @@
   "Sticker": "Стикер",
   "{{amount}}x {{sticker_id}} Sticker": "{{amount}}x {{sticker_id}} Sticker",
   "Mega Energy": "мега-энергия",
-  "{{amount}} {{pokemon}} Mega Energy": "{{amount}} {{pokemon}} мега-энергии"
+  "{{amount}} {{pokemon}} Mega Energy": "{{amount}} {{pokemon}} мега-энергии",
+  "Incident": "Incident"
 }
