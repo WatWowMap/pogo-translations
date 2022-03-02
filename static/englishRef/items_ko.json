@@ -36,7 +36,7 @@
   "Poffin": "포핀",
   "Camera": "카메라",
   "Stickers": "스티커",
-  "Postcard Inventory": "Postcard Inventory",
+  "Postcard Book": "엽서 앨범",
   "Egg Incubator ∞": "무한 부화장치",
   "Egg Incubator": "부화장치",
   "Super Incubator": "슈퍼 부화장치",
@@ -66,6 +66,5 @@
   "Mysterious Component": "이상한파츠",
   "Rocket Radar": "로켓레이더",
   "Super Rocket Radar": "슈퍼 로켓레이더",
-  "Ticket": "티켓",
-  "Event Ticket Gray": "Event Ticket Gray"
+  "Ticket": "티켓"
 }

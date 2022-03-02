@@ -36,7 +36,7 @@
   "Poffin": "Поффин",
   "Camera": "Камера",
   "Stickers": "Наклейки",
-  "Postcard Inventory": "Postcard Inventory",
+  "Postcard Book": "Альбом для открыток",
   "Egg Incubator ∞": "Инкубатор для яиц ∞",
   "Egg Incubator": "Инкубатор для яиц",
   "Super Incubator": "Супер-инкубатор",
@@ -66,6 +66,5 @@
   "Mysterious Component": "Загадочный компонент",
   "Rocket Radar": "Радар команды Р",
   "Super Rocket Radar": "Супер-радар команды Р",
-  "Ticket": "Билет",
-  "Event Ticket Gray": "Event Ticket Gray"
+  "Ticket": "Event Ticket Gray"
 }

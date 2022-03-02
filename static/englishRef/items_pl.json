@@ -36,7 +36,7 @@
   "Poffin": "Poffin",
   "Camera": "Camera",
   "Stickers": "Stickers",
-  "Postcard Inventory": "Postcard Inventory",
+  "Postcard Book": "Postcard Book",
   "Egg Incubator ∞": "Egg Incubator ∞",
   "Egg Incubator": "Egg Incubator",
   "Super Incubator": "Super Incubator",
@@ -66,6 +66,5 @@
   "Mysterious Component": "Mysterious Component",
   "Rocket Radar": "Rocket Radar",
   "Super Rocket Radar": "Super Rocket Radar",
-  "Ticket": "Ticket",
-  "Event Ticket Gray": "Event Ticket Gray"
+  "Ticket": "Ticket"
 }
