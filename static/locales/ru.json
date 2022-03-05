@@ -5863,6 +5863,7 @@
   "quest_reward_12": "мега-энергия",
   "quest_reward_12_formatted": "%{amount} %{pokemon} мега-энергии",
   "quest_reward_13": "Incident",
+  "quest_reward_14": "Player Attribute",
   "quest_title_adventure_evolve_singular": "Неделя приключений – Эволюционируй 1 Оманайта или Кабуто",
   "quest_title_adventure_hatch_egg_plural": "Неделя приключений – Выносить яйца: %{amount_0}",
   "quest_title_adventure_visit_pokestop_new_plural": "Неделя приключений – Покрути новые Покестопы: %{amount_0}",

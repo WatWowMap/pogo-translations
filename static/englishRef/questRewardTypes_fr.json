@@ -20,5 +20,6 @@
   "{{amount}}x {{sticker_id}} Sticker": "{{amount}}x {{sticker_id}} Sticker",
   "Mega Energy": "Méga-Énergie",
   "{{amount}} {{pokemon}} Mega Energy": "{{amount}} Méga-Énergie {{Pokemon}}",
-  "Incident": "Incident"
+  "Incident": "Incident",
+  "Player Attribute": "Player Attribute"
 }

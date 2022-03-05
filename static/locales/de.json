@@ -5862,6 +5862,7 @@
   "quest_reward_12": "Mega Energie",
   "quest_reward_12_formatted": "%{amount} %{pokemon} Mega Energie",
   "quest_reward_13": "Incident",
+  "quest_reward_14": "Player Attribute",
   "quest_title_challenge_2019_battle_leader": "Kämpfe %{amount_0}-mal gegen einen Teamleiter.",
   "quest_title_challenge_2019_battle_trainer": "Kämpfe gegen einen anderen Trainer.",
   "quest_title_challenge_2019_battle_trainer_plural": "Kämpfe %{amount_0}-mal gegen einen anderen Trainer.",

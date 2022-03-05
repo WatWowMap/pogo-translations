@@ -5862,6 +5862,7 @@
   "quest_reward_12": "Méga-Énergie",
   "quest_reward_12_formatted": "%{amount} Méga-Énergie %{Pokemon}",
   "quest_reward_13": "Incident",
+  "quest_reward_14": "Player Attribute",
   "quest_title_challenge_2019_battle_leader": "Combats %{amount_0} fois contre un capitaine d’équipe",
   "quest_title_challenge_2019_battle_trainer": "Combats un autre Dresseur",
   "quest_title_challenge_2019_battle_trainer_plural": "Combat %{amount_0} fois contre un autre Dresseur",
