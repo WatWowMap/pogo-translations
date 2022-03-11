@@ -7583,7 +7583,7 @@
   "quest_title_quest_send_gifts_daily_row": "Отправляй подарки %{amount_0} дн. подряд",
   "quest_title_quest_send_gifts_plural": "Отправь подарки друзьям: %{amount_0}",
   "quest_title_quest_send_gifts_singular": "Отправь 1 подарок другу",
-  "quest_title_quest_send_gifts_sticker_plural": "Отправить %{amount_0} подарков и добавить наклейку к каждому",
+  "quest_title_quest_send_gifts_sticker_plural": "Отправь подарки с наклейкой: %{amount_0}",
   "quest_title_quest_send_gifts_sticker_singular": "Отправить подарок с наклейкой",
   "quest_title_quest_shint_catch_b": "Поймай %{amount_0} Шинксов",
   "quest_title_quest_shint_evolve_b": "Эволюционируй %{amount_0} Шинксов",
