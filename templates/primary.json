@@ -44,7 +44,8 @@
       "pt-br": true,
       "ru": true,
       "th": true,
-      "zh-tw": true
+      "zh-tw": true,
+      "tr": true
     },
     "template": {
       "pokemon": {
