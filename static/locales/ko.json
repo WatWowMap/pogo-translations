@@ -1,5 +1,5 @@
 {
-  "alignment_0": "Unset",
+  "alignment_0": "Alignment Unset",
   "alignment_1": "Shadow",
   "alignment_2": "Purified",
   "alola": "알로라",
@@ -6892,7 +6892,7 @@
   "quest_title_quest_snapshot_wild_geodude_sandshrew_cacnea": "야생 꼬마돌 또는 모래두지 또는 선인왕의 GO스냅샷을 찍는다",
   "quest_title_quest_snapshot_wild_ghost_plural": "고스트타입 야생 포켓몬의 GO스냅샷을 %{amount_0}장 찍는다",
   "quest_title_quest_snapshot_wild_grass_plural": "풀타입 야생 포켓몬의 GO스냅샷을 %{amount_0}장 찍는다",
-  "quest_title_quest_snapshot_wild_grass_singular": "Take a snapshot of a wild Grass-type Pokémon",
+  "quest_title_quest_snapshot_wild_grass_singular": "풀타입 야생 포켓몬의 GO스냅샷을 1장 찍는다",
   "quest_title_quest_snapshot_wild_ground_plural": "땅타입 야생 포켓몬의 GO스냅샷을 %{amount_0}장 찍는다",
   "quest_title_quest_snapshot_wild_hoothoot": "야생 부우부의 GO스냅샷을 찍는다",
   "quest_title_quest_snapshot_wild_ice_plural": "얼음타입 야생 포켓몬의 GO스냅샷을 %{amount_0}장 찍는다",

@@ -1,5 +1,5 @@
 {
-  "alignment_0": "Unset",
+  "alignment_0": "Alignment Unset",
   "alignment_1": "Shadow",
   "alignment_2": "Purified",
   "alola": "阿羅拉",
@@ -6892,7 +6892,7 @@
   "quest_title_quest_snapshot_wild_geodude_sandshrew_cacnea": "為野生的穿山鼠、小拳石或刺球仙人掌拍攝1張GO Snapshot照片",
   "quest_title_quest_snapshot_wild_ghost_plural": "為野生的幽靈屬性寶可夢拍攝 %{amount_0} 張GO Snapshot照片",
   "quest_title_quest_snapshot_wild_grass_plural": "為野生的草屬性寶可夢拍攝 %{amount_0} 張GO Snapshot照片",
-  "quest_title_quest_snapshot_wild_grass_singular": "Take a snapshot of a wild Grass-type Pokémon",
+  "quest_title_quest_snapshot_wild_grass_singular": "為野生的草屬性寶可夢拍攝1張GO Snapshot照片",
   "quest_title_quest_snapshot_wild_ground_plural": "為野生的地面屬性寶可夢拍攝 %{amount_0} 張GO Snapshot照片",
   "quest_title_quest_snapshot_wild_hoothoot": "為咕咕拍攝1張GO Snapshot照片",
   "quest_title_quest_snapshot_wild_ice_plural": "為野生的冰屬性寶可夢拍攝 %{amount_0} 張GO Snapshot照片",
