@@ -6157,6 +6157,7 @@
   "quest_title_quest_catch_special44_plural": "Captura %{amount_0} Seedot",
   "quest_title_quest_catch_special45_plural": "Captura %{amount_0} Grimer",
   "quest_title_quest_catch_special46_plural": "Captura %{amount_0} Porygon",
+  "quest_title_quest_catch_transform_pokemon_plural": "Captura %{amount_0} veces al Pokémon Transformación",
   "quest_title_quest_catch_trubbish_plural": "Captura %{amount_0} Trubbish",
   "quest_title_quest_catch_type_bug_plural": "Captura %{amount_0} Pokémon de tipo Bicho",
   "quest_title_quest_catch_type_bug_plural_unique": "Captura %{amount_0} especies diferentes de Pokémon de tipo Bicho",

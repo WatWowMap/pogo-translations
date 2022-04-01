@@ -6157,6 +6157,7 @@
   "quest_title_quest_catch_special44_plural": "도토링을 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_special45_plural": "질퍽이를 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_special46_plural": "폴리곤을 %{amount_0}마리 잡는다",
+  "quest_title_quest_catch_transform_pokemon_plural": "변신포켓몬을 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_trubbish_plural": "깨봉이를 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_type_bug_plural": "벌레타입 포켓몬을 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_type_bug_plural_unique": "벌레타입 포켓몬 %{amount_0}종류 잡는다",

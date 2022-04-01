@@ -6938,6 +6938,7 @@
   "quest_title_quest_catch_special44_plural": "Поймай %{amount_0} Сидотов",
   "quest_title_quest_catch_special45_plural": "Поймай %{amount_0} Граймеров",
   "quest_title_quest_catch_special46_plural": "Поймай %{amount_0} Поригонов",
+  "quest_title_quest_catch_transform_pokemon_plural": "Поймай %{amount_0} Превращающихся Покемонов",
   "quest_title_quest_catch_trubbish_plural": "Поймай %{amount_0} Траббишей",
   "quest_title_quest_catch_type_bug_plural": "Поймай %{amount_0} насекомых Покемонов",
   "quest_title_quest_catch_type_bug_plural_unique": "Поймай %{amount_0} разныx особей насекомых Покемонов",

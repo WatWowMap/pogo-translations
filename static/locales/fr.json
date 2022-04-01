@@ -6156,6 +6156,7 @@
   "quest_title_quest_catch_special44_plural": "Attrape %{amount_0} Grainipiot",
   "quest_title_quest_catch_special45_plural": "Attrape %{amount_0} Tadmorv",
   "quest_title_quest_catch_special46_plural": "Attrape %{amount_0} Porygon",
+  "quest_title_quest_catch_transform_pokemon_plural": "Attrape %{amount_0} Pokémon Morphing",
   "quest_title_quest_catch_trubbish_plural": "Attrape %{amount_0} Miamiasme",
   "quest_title_quest_catch_type_bug_plural": "Attrape %{amount_0} Pokémon de type Insecte",
   "quest_title_quest_catch_type_bug_plural_unique": "Attrape %{amount_0} espèces de Pokémon de type Insecte",

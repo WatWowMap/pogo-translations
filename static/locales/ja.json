@@ -6157,6 +6157,7 @@
   "quest_title_quest_catch_special44_plural": "タネボーを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_special45_plural": "ベトベターを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_special46_plural": "ポリゴンを%{amount_0}匹捕まえる",
+  "quest_title_quest_catch_transform_pokemon_plural": "へんしんポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_trubbish_plural": "ヤブクロンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_type_bug_plural": "むしタイプのポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_type_bug_plural_unique": "むしタイプのポケモンを%{amount_0}種類捕まえる",
