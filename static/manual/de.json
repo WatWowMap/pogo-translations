@@ -2406,6 +2406,8 @@
   "raid_5_plural": "Legendäre Raids",
   "raid_6": "Mega Raid",
   "raid_6_plural": "Mega Raids",
+  "raid_7": "Mega Legendärer Raid",
+  "raid_7_plural": "Mega Legendäre Raids",
   "egg_1": "1 Stern Ei",
   "egg_1_plural": "1 Stern Eier",
   "egg_2": "2 Stern Ei",
@@ -2418,5 +2420,7 @@
   "egg_5_plural": "Legendäre Eier",
   "egg_6": "Mega Ei",
   "egg_6_plural": "Mega Eier",
+  "egg_7": "Mega Legendäres Ei",
+  "egg_7_plural": "Mega Legendäre Eier",
   "generation_5": "Einall"
 }

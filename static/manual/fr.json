@@ -2397,6 +2397,8 @@
   "raid_5_plural": "Raids Légendaires",
   "raid_6": "Raid Méga",
   "raid_6_plural": "Raids Méga",
+  "raid_7": "Raid Méga Légendaire",
+  "raid_7_plural": "Raids Méga Légendaires",
   "egg_1": "Œuf Niveau 1",
   "egg_1_plural": "Œufs Niveau 1",
   "egg_2": "Œuf Niveau 2",
@@ -2408,5 +2410,7 @@
   "egg_5": "Œuf Légendaire",
   "egg_5_plural": "Œufs Légendaires",
   "egg_6": "Œuf Méga",
-  "egg_6_plural": "Œufs Méga"
+  "egg_6_plural": "Œufs Méga",
+  "egg_7": "Œuf Méga Légendaire",
+  "egg_7_plural": "Œufs Méga Légendaires"
 }

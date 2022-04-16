@@ -11,6 +11,8 @@
   "raid_5_plural": "Legendär Incursións",
   "raid_6": "Mega Incursión",
   "raid_6_plural": "Mega Incursións",
+  "raid_7": "Mega Legendär Incursión",
+  "raid_7_plural": "Mega Legendär Incursións",
   "egg_1": "1 Estrella Huevos",
   "egg_1_plural": "1 Estrella Huevos",
   "egg_2": "2 Estrella Huevo",
@@ -22,5 +24,7 @@
   "egg_5": "Legendär Huevo",
   "egg_5_plural": "Huevos Legendarios",
   "egg_6": "Mega Huevo",
-  "egg_6_plural": "Mega Huevos"
+  "egg_6_plural": "Mega Huevos",
+  "egg_7": "Mega Legendär Huevo",
+  "egg_7_plural": "Mega Legendär Huevos"
 }
