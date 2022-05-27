@@ -95,8 +95,8 @@
   "Blue-Striped": "Blaulinig",
   "Standard": "Standard",
   "Zen": "Trance",
-  "Incarnate Forme": "Inkarnation",
-  "Therian Forme": "Tiergeist",
+  "Incarnate Forme": "Inkarnationsform",
+  "Therian Forme": "Tiergeistform",
   "Black Kyurem": "Schwarz",
   "White Kyurem": "Weiß",
   "Ordinary": "Standard",
@@ -116,7 +116,7 @@
   "Noevolve": "Noevolve",
   "Fall 2019": "Herbst 2019",
   "Vs 2019": "Vs 2019",
-  "Galarian": "Galar",
+  "Galarian": "Galarian",
   "Copy 2019": "Copy 2019",
   "Spring 2020": "Frühjahr 2020",
   "Female": "Weiblich",
@@ -224,5 +224,7 @@
   "Meteor Orange": "Meteor Orange",
   "Meteor Red": "Meteor Red",
   "Meteor Violet": "Meteor Violet",
-  "Meteor Yellow": "Meteor Yellow"
+  "Meteor Yellow": "Meteor Yellow",
+  "White Striped": "White Striped",
+  "Gofest 2022": "Gofest 2022"
 }

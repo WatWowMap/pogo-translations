@@ -1,6 +1,7 @@
 {
   "name": "pogo-translations",
   "version": "0.2.0",
+  "main": "update.js",
   "description": "",
   "homepage": "https://github.com/bschultz/pogo-translations#readme",
   "bugs": {
@@ -11,11 +12,12 @@
     "url": "git+https://github.com/bschultz/pogo-translations.git"
   },
   "scripts": {
+    "start": "node .",
     "generate": "node update.js"
   },
   "license": "ISC",
   "author": "bschultz",
   "optionalDependencies": {
-    "pogo-data-generator": "^1.4.13"
+    "pogo-data-generator": "^1.6.0"
   }
 }

@@ -96,7 +96,7 @@
   "Standard": "Обычная форма",
   "Zen": "Дзен",
   "Incarnate Forme": "Воплощённая форма",
-  "Therian Forme": "Териан форма",
+  "Therian Forme": "Форма Териан",
   "Black Kyurem": "Чёрный Кьюрем",
   "White Kyurem": "Белый Кьюрем",
   "Ordinary": "Обычная форма",
@@ -116,7 +116,7 @@
   "Noevolve": "Noevolve",
   "Fall 2019": "Fall 2019",
   "Vs 2019": "Vs 2019",
-  "Galarian": "Галарская форма",
+  "Galarian": "Galarian",
   "Copy 2019": "Клон 2019",
   "Spring 2020": "Весна 2020",
   "Female": "Женская форма",
@@ -224,5 +224,7 @@
   "Meteor Orange": "Meteor Orange",
   "Meteor Red": "Meteor Red",
   "Meteor Violet": "Meteor Violet",
-  "Meteor Yellow": "Meteor Yellow"
+  "Meteor Yellow": "Meteor Yellow",
+  "White Striped": "White Striped",
+  "Gofest 2022": "Gofest 2022"
 }
