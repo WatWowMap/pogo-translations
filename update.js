@@ -54,7 +54,10 @@ const update = async () => {
     'utf8',
     () => { },
   )
+  return { inMemory, available }
+}
 
+const enRef = async (inMemory, available) => {
   console.log('Generating locales based on English as the reference now')
   const manualCategories = {
     characterCategories: {},
@@ -165,7 +168,10 @@ const update = async () => {
 }
 
 module.exports.update = update
+module.exports.enRef = enRef
 
 if (require.main === module) {
-  update().then(() => console.log('Translations generated'))
+  update()
+    .then(async ({ inMemory, available }) => enRef(inMemory, available))
+    .then(() => console.log('Translations generated'))
 }
