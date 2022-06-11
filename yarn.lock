@@ -77,7 +77,7 @@ node-fetch@^2.6.7:
   dependencies:
     whatwg-url "^5.0.0"
 
-pogo-data-generator@^1.6.0:
+pogo-data-generator@^1.6.2:
   version "1.6.2"
   resolved "https://registry.yarnpkg.com/pogo-data-generator/-/pogo-data-generator-1.6.2.tgz#f911b93b894eb05d0e4cdd1c80343d3b37f3baf6"
   integrity sha512-3DSzYpxtfdUs81kh8NrSdcWPwCfu3J44ebppkTOZmvequx87Su4RT+ExVShjcCA735wnHEOcCf6FEd1+qT4gkQ==
