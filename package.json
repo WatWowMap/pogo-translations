@@ -3,13 +3,13 @@
   "version": "0.2.0",
   "main": "update.js",
   "description": "",
-  "homepage": "https://github.com/bschultz/pogo-translations#readme",
+  "homepage": "https://github.com/WatWowMap/pogo-translations#readme",
   "bugs": {
-    "url": "https://github.com/bschultz/pogo-translations/issues"
+    "url": "https://github.com/WatWowMap/pogo-translations/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bschultz/pogo-translations.git"
+    "url": "git+https://github.com/WatWowMap/pogo-translations.git"
   },
   "scripts": {
     "start": "node .",
@@ -18,6 +18,6 @@
   "license": "ISC",
   "author": "bschultz",
   "dependencies": {
-    "pogo-data-generator": "^1.6.3"
+    "pogo-data-generator": "^1.6.4"
   }
 }
