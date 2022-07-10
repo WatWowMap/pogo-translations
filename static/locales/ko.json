@@ -6100,7 +6100,7 @@
   "quest_title_challenge_snapshot_pkmn_grass_single": "풀타입 포켓몬의 GO스냅샷을 1장 찍는다",
   "quest_title_challenge_snapshot_pkmn_ground_single": "땅타입 포켓몬의 GO스냅샷을 1장 찍는다",
   "quest_title_challenge_snapshot_pkmn_ice_single": "얼음타입 포켓몬의 GO스냅샷을 1장 찍는다",
-  "quest_title_challenge_snapshot_pkmn_normal_single": "노말꽃타입 포켓몬의 GO스냅샷을 1장 찍는다",
+  "quest_title_challenge_snapshot_pkmn_normal_single": "노말타입 포켓몬의 GO스냅샷을 1장 찍는다",
   "quest_title_challenge_snapshot_pkmn_poison": "독타입 포켓몬의 GO스냅샷을 %{amount_0}장 찍는다",
   "quest_title_challenge_snapshot_pkmn_poison_single": "독타입 포켓몬의 GO스냅샷을 1장 찍는다",
   "quest_title_challenge_snapshot_pkmn_psychic_single": "에스퍼타입 포켓몬의 GO스냅샷을 1장 찍는다",
