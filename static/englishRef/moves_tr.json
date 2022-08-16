@@ -16,7 +16,7 @@
   "Hyper Beam": "Hiper Işın",
   "Lick": "Yala",
   "Dark Pulse": "Karanlık Darbe",
-  "Smog": "Pus",
+  "Smog": "Duman",
   "Sludge": "Balçık",
   "Metal Claw": "Metal Pençe",
   "Vise Grip": "Mengene Tutuşu",
@@ -176,7 +176,7 @@
   "Future Sight": "Gelecek Görüşü",
   "Mirror Coat": "Ayna Kalkan",
   "Outrage": "Öfke Krizi",
-  "Snarl": "Hırlama",
+  "Snarl": "Gürleme",
   "Crunch": "Çiğne",
   "Foul Play": "Hileli Oyun",
   "Hidden Power": "Saklı Güç",
@@ -259,6 +259,8 @@
   "Brutal Swing": "Vahşi Savurma",
   "Rollout": "Yuvarlanma",
   "Seed Flare": "Tohum Meşalesi",
-  "Obstruct": "Obstruct",
-  "Shadow Force": "Shadow Force"
+  "Obstruct": "Engelleme",
+  "Shadow Force": "Shadow Force",
+  "Meteor Beam": "Meteor Beam",
+  "Water Shuriken Fast": "Water Shuriken Fast"
 }
