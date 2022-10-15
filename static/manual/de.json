@@ -2408,6 +2408,10 @@
   "raid_6_plural": "Mega Raids",
   "raid_7": "Mega Legendärer Raid",
   "raid_7_plural": "Mega Legendäre Raids",
+  "raid_8": "Ultra Bestien Raid",
+  "raid_8_plural": "Ultra Bestien Raids",
+  "raid_9": "Elite Raid",
+  "raid_9_plural": "Elite Raids",
   "egg_1": "1 Stern Ei",
   "egg_1_plural": "1 Stern Eier",
   "egg_2": "2 Stern Ei",
@@ -2422,5 +2426,9 @@
   "egg_6_plural": "Mega Eier",
   "egg_7": "Mega Legendäres Ei",
   "egg_7_plural": "Mega Legendäre Eier",
+  "egg_8": "Ultra Bestien Ei",
+  "egg_8_plural": "Ultra Bestien Eier",
+  "egg_9": "Elite Ei",
+  "egg_9_plural": "Elite Eier",
   "generation_5": "Einall"
 }
