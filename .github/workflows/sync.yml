@@ -1,8 +1,8 @@
-name: Sync Hourly
+name: Sync Daily
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       recipe:
@@ -10,31 +10,29 @@ on:
         required: false
 
 jobs:
-  Sync:
+  sync:
     runs-on: ubuntu-latest
+    name: Check For Changes
     steps:
-      - name: Checkout code
-        id: checkout-code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           fetch-depth: 2
       - name: Setup Node.js environment
-        if: steps.changed-files.outputs.any_changed == 'true'
         uses: actions/setup-node@v3
         with:
-          node-version: 16
+          node-version: 18
           cache: 'npm'
-      - name: Configure git
-        if: steps.changed-files.outputs.any_changed == 'true'
-        run: |
-          git config --global user.name "turtlesocks-bot"
-          git config --global user.email "turtlesocks-bot@users.noreply.github.com"
       - name: Generate Stuff
-        if: steps.changed-files.outputs.any_changed == 'true'
         run: |
           npm install
           npm upgrade pogo-data-generator
           npm start
+      - name: Configure git
+        run: |
+          git config --global user.name "turtlesocks-bot"
+          git config --global user.email "turtlesocks-bot@users.noreply.github.com"
+      - name: Generate Stuff
+        run: |
           git add --all
-          git commit --message "Hourly Sync"
+          git commit --message "Daily Sync"
           git push
