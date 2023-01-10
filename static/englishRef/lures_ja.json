@@ -1,8 +1,8 @@
 {
-  "Normal": "Normal",
-  "Glacial": "Glacial",
-  "Mossy": "Mossy",
-  "Magnetic": "Magnetic",
-  "Rainy": "Rainy",
+  "Normal": "通常",
+  "Glacial": "アイスルアー",
+  "Mossy": "ハーブルアー",
+  "Magnetic": "マグネットルアー",
+  "Rainy": "レイニールアー",
   "Item troy disk sparkly": "Item troy disk sparkly"
 }
