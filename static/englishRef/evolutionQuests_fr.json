@@ -1,11 +1,11 @@
 {
-  "Earn {{amount}} hearts with your buddy": "Earn {{amount}} hearts with your buddy",
-  "Give your buddy {{amount}} treats": "Give your buddy {{amount}} treats",
-  "Walk {{amount}} km with your buddy": "Walk {{amount}} km with your buddy",
-  "Catch {{amount}} Dark-type Pokémon": "Catch {{amount}} Dark-type Pokémon",
-  "Catch {{amount}} Poison-type Pokémon": "Catch {{amount}} Poison-type Pokémon",
-  "Catch {{amount}} Psychic-type Pokémon": "Catch {{amount}} Psychic-type Pokémon",
-  "Use an Incense": "Use an Incense",
-  "Make {{amount}} Excellent Throws": "Make {{amount}} Excellent Throws",
-  "Win {{amount}} raids": "Win {{amount}} raids"
+  "Earn {{amount}} hearts with your buddy": "Gagne {{amount}} cœurs avec ton copain",
+  "Give your buddy {{amount}} treats": "Donne {{amount}} friandises à ton copain",
+  "Walk {{amount}} km with your buddy": "Marche {{amount}} km avec ton copain",
+  "Catch {{amount}} Dark-type Pokémon": "Attrape {{amount}} Pokémon de type Ténèbres",
+  "Catch {{amount}} Poison-type Pokémon": "Attrape {{amount}} Pokémon de type Poison",
+  "Catch {{amount}} Psychic-type Pokémon": "Attrape {{amount}} Pokémon de type Psy",
+  "Use an Incense": "Utilise un Encens",
+  "Make {{amount}} Excellent Throws": "Fais {{amount}} Excellents lancers",
+  "Win {{amount}} raids": "Gagne {{amount}} Raids"
 }
