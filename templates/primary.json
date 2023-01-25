@@ -25,7 +25,9 @@
         "questTypes": "quest_",
         "questConditions": "quest_condition_",
         "questRewardTypes": "quest_reward_",
-        "questTitles": "quest_title_"
+        "questTitles": "quest_title_",
+        "raidLevel": "raid_",
+        "eggLevel": "egg_"
       },
       "mergeCategories": true,
       "questVariables": {
