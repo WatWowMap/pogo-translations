@@ -1,8 +1,8 @@
 {
-  "Normal": "Normal",
-  "Glacial": "Glacial",
-  "Mossy": "Mossy",
-  "Magnetic": "Magnetic",
-  "Rainy": "Rainy",
+  "Normal": "보통",
+  "Glacial": "아이스",
+  "Mossy": "허브",
+  "Magnetic": "마그네틱",
+  "Rainy": "레이니",
   "Sparkly": "Sparkly"
 }
