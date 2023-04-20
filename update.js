@@ -6,32 +6,42 @@ const primary = require('./templates/primary.json')
 const enManualFallback = require('./static/manual/en.json')
 
 const update = async () => {
-  const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: 'base' })
+  const collator = new Intl.Collator(undefined, {
+    numeric: true,
+    sensitivity: 'base',
+  })
   console.log('Fetching latest locales')
 
-  const { translations } = await generate({ template: primary })
+  const { translations } = await generate({
+    template: primary,
+    translationApkUrl:
+      'https://raw.githubusercontent.com/turtiesocks/pogo_assets/master/Texts/Latest%20APK/JSON/i18n_english.json',
+  })
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
 
   const inMemory = {}
 
   fs.readdir(pogoLocalesFolder, (err, files) => {
-    files.forEach(file => {
+    files.forEach((file) => {
       console.log(`Starting ${file} merge`)
 
       const short = path.basename(file, '.json')
       const safe = translations[short] ? short : 'en'
       const manualTranslations = fs.readFileSync(
         path.resolve(pogoLocalesFolder, file),
-        { encoding: 'utf8', flag: 'r' },
+        { encoding: 'utf8', flag: 'r' }
       )
       const manualKeys = {
         ...enManualFallback,
         ...JSON.parse(manualTranslations.toString()),
       }
       const sortedObj = {}
-      const sortedKeys = [...Object.keys(translations[safe]), ...Object.keys(manualKeys)].sort(collator.compare)
+      const sortedKeys = [
+        ...Object.keys(translations[safe]),
+        ...Object.keys(manualKeys),
+      ].sort(collator.compare)
 
-      sortedKeys.forEach(key => {
+      sortedKeys.forEach((key) => {
         sortedObj[key] = manualKeys[key] || translations[safe][key]
       })
 
@@ -41,7 +51,7 @@ const update = async () => {
         path.resolve(path.resolve(__dirname, './static/locales'), file),
         JSON.stringify(sortedObj, null, 2),
         'utf8',
-        () => { },
+        () => {}
       )
     })
   })
@@ -52,7 +62,7 @@ const update = async () => {
     'index.json',
     JSON.stringify(available, null, 2),
     'utf8',
-    () => { },
+    () => {}
   )
   return { inMemory, available }
 }
@@ -95,9 +105,7 @@ const enRef = async (inMemory, available) => {
       } else if (key.startsWith('quest_') || key.startsWith('challenge_')) {
         const newValue =
           value && value.includes('%{')
-            ? value
-              .replace(/%\{/g, '{{')
-              .replace(/\}/g, '}}')
+            ? value.replace(/%\{/g, '{{').replace(/\}/g, '}}')
             : value
         if (key.startsWith('quest_condition_')) {
           manualCategories.questConditions[key] = newValue
@@ -129,12 +137,12 @@ const enRef = async (inMemory, available) => {
       }
     })
 
-    available.forEach(locale => {
+    available.forEach((locale) => {
       const languageRef = {}
       const mergedRef = {}
       const short = locale.replace('.json', '')
 
-      Object.keys(manualCategories).forEach(category => {
+      Object.keys(manualCategories).forEach((category) => {
         languageRef[category] = {}
 
         Object.entries(manualCategories[category]).forEach(([key, value]) => {
@@ -150,10 +158,13 @@ const enRef = async (inMemory, available) => {
           }
         })
         fs.writeFile(
-          path.resolve(path.resolve(__dirname, './static/englishRef'), `${category}_${locale}`),
+          path.resolve(
+            path.resolve(__dirname, './static/englishRef'),
+            `${category}_${locale}`
+          ),
           JSON.stringify(languageRef[category], null, 2),
           'utf8',
-          () => { },
+          () => {}
         )
       })
 
@@ -161,7 +172,7 @@ const enRef = async (inMemory, available) => {
         path.resolve(path.resolve(__dirname, './static/enRefMerged'), locale),
         JSON.stringify(mergedRef, null, 2),
         'utf8',
-        () => { },
+        () => {}
       )
     })
   }
