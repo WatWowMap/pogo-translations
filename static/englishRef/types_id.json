@@ -1,21 +1,3 @@
 {
-  "None": "Tidak ada",
-  "Normal": "Normal",
-  "Fighting": "Petarung",
-  "Flying": "Terbang",
-  "Poison": "Racun",
-  "Ground": "Tanah",
-  "Rock": "Bebatuan",
-  "Bug": "Serangga",
-  "Ghost": "Hantu",
-  "Steel": "Logam",
-  "Fire": "Api",
-  "Water": "Air",
-  "Grass": "Daun",
-  "Electric": "Listrik",
-  "Psychic": "Psychic",
-  "Ice": "Es",
-  "Dragon": "Naga",
-  "Dark": "Kegelapan",
-  "Fairy": "Peri"
+  "None": "Tidak ada"
 }

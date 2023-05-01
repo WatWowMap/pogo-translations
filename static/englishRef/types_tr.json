@@ -1,21 +1,3 @@
 {
-  "None": "Hiçbiri",
-  "Normal": "Normal",
-  "Fighting": "Dövüşçü",
-  "Flying": "Uçan",
-  "Poison": "Zehir",
-  "Ground": "Yer",
-  "Rock": "Kaya",
-  "Bug": "Böcek",
-  "Ghost": "Hayalet",
-  "Steel": "Çelik",
-  "Fire": "Ateş",
-  "Water": "Su",
-  "Grass": "Bitki",
-  "Electric": "Elektrik",
-  "Psychic": "Psişik",
-  "Ice": "Buz",
-  "Dragon": "Ejderha",
-  "Dark": "Karanlık",
-  "Fairy": "Peri"
+  "None": "Hiçbiri"
 }

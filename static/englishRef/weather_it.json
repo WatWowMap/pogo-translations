@@ -1,12 +1,5 @@
 {
-  "Extreme": "Condizioni estreme",
-  "Clear": "Sereno",
-  "Rain": "Pioggia",
-  "Partly Cloudy": "Parzialmente nuvoloso",
-  "Cloudy": "Coperto",
-  "Windy": "Vento",
-  "Snow": "Neve",
-  "Fog": "Nebbia",
+  "None": "Condizioni estreme",
   "☀️": "☀️",
   "☔️": "☔️",
   "⛅": "⛅",

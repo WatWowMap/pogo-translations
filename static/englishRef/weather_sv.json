@@ -1,12 +1,5 @@
 {
-  "Extreme": "None",
-  "Clear": "Klar",
-  "Rain": "Regnigt",
-  "Partly Cloudy": "Delvis molnigt",
-  "Cloudy": "Mulet",
-  "Windy": "Blåsigt",
-  "Snow": "Snö",
-  "Fog": "Dimma",
+  "None": "None",
   "☀️": "☀️",
   "☔️": "☔️",
   "⛅": "⛅",
