@@ -1,3 +1,21 @@
 {
-  "None": "Keiner"
+  "None": "Keiner",
+  "Normal": "Normal",
+  "Fighting": "Kampf",
+  "Flying": "Flug",
+  "Poison": "Gift",
+  "Ground": "Boden",
+  "Rock": "Gestein",
+  "Bug": "Käfer",
+  "Ghost": "Geist",
+  "Steel": "Stahl",
+  "Fire": "Feuer",
+  "Water": "Wasser",
+  "Grass": "Pflanze",
+  "Electric": "Elektro",
+  "Psychic": "Psycho",
+  "Ice": "Eis",
+  "Dragon": "Drache",
+  "Dark": "Unlicht",
+  "Fairy": "Fee"
 }

@@ -1,5 +1,12 @@
 {
-  "None": "None",
+  "Extreme": "Extreme",
+  "Clear": "Clear",
+  "Rain": "Rain",
+  "Partly Cloudy": "Partly Cloudy",
+  "Cloudy": "Cloudy",
+  "Windy": "Windy",
+  "Snow": "Snow",
+  "Fog": "Fog",
   "☀️": "☀️",
   "☔️": "☔️",
   "⛅": "⛅",

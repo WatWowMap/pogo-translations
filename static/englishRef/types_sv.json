@@ -1,3 +1,21 @@
 {
-  "None": "None"
+  "None": "None",
+  "Normal": "Normal",
+  "Fighting": "Fighting",
+  "Flying": "Flying",
+  "Poison": "Poison",
+  "Ground": "Ground",
+  "Rock": "Rock",
+  "Bug": "Bug",
+  "Ghost": "Ghost",
+  "Steel": "Steel",
+  "Fire": "Fire",
+  "Water": "Water",
+  "Grass": "Grass",
+  "Electric": "Electric",
+  "Psychic": "Psychic",
+  "Ice": "Ice",
+  "Dragon": "Dragon",
+  "Dark": "Dark",
+  "Fairy": "Fairy"
 }

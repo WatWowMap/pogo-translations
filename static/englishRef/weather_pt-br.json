@@ -1,5 +1,12 @@
 {
-  "None": "Extremo",
+  "Extreme": "Extremo",
+  "Clear": "Limpo",
+  "Rain": "Chuvoso",
+  "Partly Cloudy": "Parcialmente nublado",
+  "Cloudy": "Nublado",
+  "Windy": "Ventos fortes",
+  "Snow": "Neve",
+  "Fog": "Neblina",
   "☀️": "☀️",
   "☔️": "☔️",
   "⛅": "⛅",

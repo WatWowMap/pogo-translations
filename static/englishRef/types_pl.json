@@ -1,3 +1,21 @@
 {
-  "None": "Żaden"
+  "None": "Żaden",
+  "Normal": "Normalny",
+  "Fighting": "Walczący",
+  "Flying": "Latający",
+  "Poison": "Trujący",
+  "Ground": "Ziemny",
+  "Rock": "Kamienny",
+  "Bug": "Robaczy",
+  "Ghost": "Duch",
+  "Steel": "Stalowy",
+  "Fire": "Ognisty",
+  "Water": "Wodny",
+  "Grass": "Trawiasty",
+  "Electric": "Elektryczny",
+  "Psychic": "Psychiczny",
+  "Ice": "Lodowy",
+  "Dragon": "Smoczy",
+  "Dark": "Ciemny",
+  "Fairy": "Wróżkowy"
 }

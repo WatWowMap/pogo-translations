@@ -1,5 +1,12 @@
 {
-  "None": "Żadne",
+  "Extreme": "Żadne",
+  "Clear": "Przejrzyście",
+  "Rain": "Deszcz",
+  "Partly Cloudy": "Częściowo pochmurnie",
+  "Cloudy": "Pochmurno",
+  "Windy": "Wietrznie",
+  "Snow": "Śnieg",
+  "Fog": "Mgła",
   "☀️": "☀️",
   "☔️": "☔️",
   "⛅": "⛅",

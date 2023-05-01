@@ -1,5 +1,12 @@
 {
-  "None": "Conditions extrêmes",
+  "Extreme": "Conditions extrêmes",
+  "Clear": "Temps clair",
+  "Rain": "Pluvieux",
+  "Partly Cloudy": "Quelques nuages",
+  "Cloudy": "Couvert",
+  "Windy": "Vent",
+  "Snow": "Neige",
+  "Fog": "Brouillard",
   "☀️": "☀️",
   "☔️": "☔️",
   "⛅": "⛅",

@@ -1,3 +1,21 @@
 {
-  "None": "ไม่มี"
+  "None": "ไม่มี",
+  "Normal": "ปกติ",
+  "Fighting": "ตอสู",
+  "Flying": "บิน",
+  "Poison": "พิษ",
+  "Ground": "ดิน",
+  "Rock": "หิน",
+  "Bug": "แมลง",
+  "Ghost": "ผี",
+  "Steel": "โลหะ",
+  "Fire": "ไฟ",
+  "Water": "น้ำ",
+  "Grass": "หญา",
+  "Electric": "ไฟฟา",
+  "Psychic": "พลังจิต",
+  "Ice": "น้ำแข็ง",
+  "Dragon": "มังกร",
+  "Dark": "ความมืด",
+  "Fairy": "แฟรี่"
 }

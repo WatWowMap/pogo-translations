@@ -1,1 +1,8 @@
-{}
+{
+  "Normal": "Normal",
+  "Glacial": "Glacial",
+  "Mossy": "Mossy",
+  "Magnetic": "Magnetic",
+  "Rainy": "Rainy",
+  "Golden": "Golden"
+}

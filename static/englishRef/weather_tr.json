@@ -1,5 +1,12 @@
 {
-  "None": "Hiçbiri",
+  "Extreme": "Ağır Koşullar",
+  "Clear": "Açık",
+  "Rain": "Yağmur",
+  "Partly Cloudy": "Parçalı Bulutlu",
+  "Cloudy": "Bulutlu",
+  "Windy": "Rüzgârlı",
+  "Snow": "Kar",
+  "Fog": "Sis",
   "☀️": "☀️",
   "☔️": "☔️",
   "⛅": "⛅",
