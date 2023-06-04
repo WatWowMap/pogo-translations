@@ -1,11 +1,11 @@
 {
-  "Earn {{amount}} hearts with your buddy": "Earn {{amount}} hearts with your buddy",
-  "Give your buddy {{amount}} treats": "Give your buddy {{amount}} treats",
-  "Walk {{amount}} km with your buddy": "Walk {{amount}} km with your buddy",
-  "Catch {{amount}} Dark-type Pokémon": "Catch {{amount}} Dark-type Pokémon",
-  "Catch {{amount}} Poison-type Pokémon": "Catch {{amount}} Poison-type Pokémon",
-  "Catch {{amount}} Psychic-type Pokémon": "Catch {{amount}} Psychic-type Pokémon",
-  "Use an Incense": "Use an Incense",
-  "Make {{amount}} Excellent Throws": "Make {{amount}} Excellent Throws",
-  "Win {{amount}} raids": "Win {{amount}} raids"
+  "Earn {{amount}} hearts with your buddy": "Dostunuzla {{amount}} kalp kazanın",
+  "Give your buddy {{amount}} treats": "Dostunuza {{amount}} adet atıştırmalık verin",
+  "Walk {{amount}} km with your buddy": "Dostunuzla {{amount}} km yürüyün",
+  "Catch {{amount}} Dark-type Pokémon": "{{amount}} Karanlık türü Pokémon yakalayın",
+  "Catch {{amount}} Poison-type Pokémon": "{{amount}} Zehir türü Pokémon yakalayın",
+  "Catch {{amount}} Psychic-type Pokémon": "{{amount}} Psişik türü Pokémon yakalayın",
+  "Use an Incense": "Tütsü kullanın",
+  "Make {{amount}} Excellent Throws": "{{amount}} Mükemmel Atış yapın",
+  "Win {{amount}} raids": "{{amount}} akın kazanın."
 }

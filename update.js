@@ -14,8 +14,8 @@ const update = async () => {
 
   const { translations } = await generate({
     template: primary,
-    translationApkUrl:
-      'https://raw.githubusercontent.com/turtiesocks/pogo_assets/master/Texts/Latest%20APK/JSON/i18n_english.json',
+    // translationApkUrl:
+    //   'https://raw.githubusercontent.com/turtiesocks/pogo_assets/master/Texts/Latest%20APK/JSON/i18n_english.json',
   })
   const pogoLocalesFolder = path.resolve(__dirname, './static/manual')
 
