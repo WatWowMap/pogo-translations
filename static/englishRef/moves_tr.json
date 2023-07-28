@@ -262,7 +262,7 @@
   "Obstruct": "Engelleme",
   "Shadow Force": "Gölge Gücü",
   "Meteor Beam": "Meteor Işını",
-  "Water Shuriken Fast": "Water Shuriken Fast",
+  "Water Shuriken": "Yağmur Hançeri",
   "Fusion Bolt": "Füzyon Yıldırımı",
   "Fusion Flare": "Füzyon Alevi",
   "Poltergeist": "Poltergeist",
@@ -271,12 +271,12 @@
   "Breaking Swipe": "Kıran Vuruş",
   "Boomburst": "Büyük Patlama",
   "Double Iron Bash": "Çifte Demir Darbe",
-  "Mystical Fire": "Mystical Fire",
-  "Liquidation": "Liquidation",
+  "Mystical Fire": "Mistik Alev",
+  "Liquidation": "Sıvılaştırma",
   "Dragon Ascent": "Dragon Ascent",
-  "Leafage Fast": "Leafage Fast",
-  "Magma Storm": "Magma Storm",
-  "Geomancy Fast": "Geomancy Fast",
-  "Spacial Rend": "Spacial Rend",
-  "Oblivion Wing": "Oblivion Wing"
+  "Leafage": "Yeşillik",
+  "Magma Storm": "Magma Fırtınası",
+  "Geomancy": "Yer Kontrolü",
+  "Spacial Rend": "Uzamsal Yırtış",
+  "Oblivion Wing": "Yok Edici Kanat"
 }
