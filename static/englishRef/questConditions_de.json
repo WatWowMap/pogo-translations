@@ -71,5 +71,8 @@
   "Tappable Type": "Tappable Type",
   "In Party": "In Party",
   "Shiny Pokemon": "Shiny Pokemon",
-  "Ability Party Power Damage Dealt": "Ability Party Power Damage Dealt"
+  "Ability Party Power Damage Dealt": "Ability Party Power Damage Dealt",
+  "Auth Provider Type": "Auth Provider Type",
+  "Opponent Pokemon Battle Status": "Opponent Pokemon Battle Status",
+  "Fort Id": "Fort Id"
 }
