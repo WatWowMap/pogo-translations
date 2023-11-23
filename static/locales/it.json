@@ -6736,7 +6736,7 @@
   "quest_title_quest_catch_kanto_pokemon": "Cattura %{amount_0} Pokémon originariamente scoperti nella regione di Kanto",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Cattura %{amount_0} Pokémon di tipo Acqua, Elettro o Coleottero",
   "quest_title_quest_catch_kyogre_type": "Cattura %{amount_0} Pokémon di tipo Acqua, Elettro o Coleottero",
-  "quest_title_quest_catch_legendary_inarow_plural": "Cattura almeno un Pokémon leggendario o misterioso nei tuoi prossimi %{amount_0} incontri con Pokémon leggendari o misteriosi",
+  "quest_title_quest_catch_legendary_inarow_plural": "Cattura i prossimi %{amount_0} Pokémon leggendari o misteriosi che incontri",
   "quest_title_quest_catch_legendary_plural": "Cattura %{amount_0} Pokémon leggendari o misteriosi",
   "quest_title_quest_catch_legendary_singular": "Cattura un Pokémon leggendario o misterioso",
   "quest_title_quest_catch_lunatone_plural": "Cattura %{amount_0} Lunatone",

@@ -6736,7 +6736,7 @@
   "quest_title_quest_catch_kanto_pokemon": "관동지방에서 처음으로 발견된 포켓몬 %{amount_0}마리를 잡는다",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "물, 전기, 벌레 중 한 가지 타입 포켓몬을 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_kyogre_type": "물, 전기, 벌레 중 한 가지 타입 포켓몬을 %{amount_0}마리 잡는다",
-  "quest_title_quest_catch_legendary_inarow_plural": "다음에 만날 전설, 환상의 포켓몬 %{amount_0}마리 중 1마리를 잡는다",
+  "quest_title_quest_catch_legendary_inarow_plural": "다음에 만날 전설, 환상의 포켓몬 %{amount_0}마리를 연속으로 잡는다",
   "quest_title_quest_catch_legendary_plural": "전설 또는 환상의 포켓몬을 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_legendary_singular": "전설 또는 환상의 포켓몬을 1마리 잡는다",
   "quest_title_quest_catch_lunatone_plural": "루나톤을 %{amount_0}마리 잡는다",
