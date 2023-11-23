@@ -6735,7 +6735,7 @@
   "quest_title_quest_catch_kanto_pokemon": "Attrape %{amount_0} Pokémon découverts dans la région de Kanto",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Attrape %{amount_0} Pokémon de type Eau, Électrik ou Insecte",
   "quest_title_quest_catch_kyogre_type": "Attrape %{amount_0} Pokémon de type Eau, Électrik ou Insecte",
-  "quest_title_quest_catch_legendary_inarow_plural": "Attrape au moins un Pokémon légendaire ou fabuleux lors de tes %{amount_0} prochaines rencontres avec de tels Pokémon.",
+  "quest_title_quest_catch_legendary_inarow_plural": "Attrape les %{amount_0} prochains Pokémon légendaires ou fabuleux que tu rencontreras",
   "quest_title_quest_catch_legendary_plural": "Attrape %{amount_0} Pokémon légendaires ou fabuleux",
   "quest_title_quest_catch_legendary_singular": "Attrape un Pokémon légendaire ou fabuleux",
   "quest_title_quest_catch_lunatone_plural": "Attrape %{amount_0} Séléroc",

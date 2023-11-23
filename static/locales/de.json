@@ -6735,7 +6735,7 @@
   "quest_title_quest_catch_kanto_pokemon": "Fange %{amount_0} Pokémon, die ursprünglich in der Kanto-Region entdeckt wurden.",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Fange %{amount_0} Pokémon vom Typ Wasser, Elektro oder Käfer.",
   "quest_title_quest_catch_kyogre_type": "Fange %{amount_0} Pokémon vom Typ Wasser, Elektro oder Käfer.",
-  "quest_title_quest_catch_legendary_inarow_plural": "Fange mindestens eines der nächsten %{amount_0} Legendären oder Mysteriösen Pokémon, denen du begegnest.",
+  "quest_title_quest_catch_legendary_inarow_plural": "Fange die nächsten %{amount_0} Legendären oder Mysteriösen Pokémon, denen du begegnest.",
   "quest_title_quest_catch_legendary_plural": "Fange %{amount_0} Legendäre oder Mysteriöse Pokémon.",
   "quest_title_quest_catch_legendary_singular": "Fange 1 Legendäres oder Mysteriöses Pokémon.",
   "quest_title_quest_catch_lunatone_plural": "Fange %{amount_0} Lunastein.",

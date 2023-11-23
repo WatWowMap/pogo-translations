@@ -6736,7 +6736,7 @@
   "quest_title_quest_catch_kanto_pokemon": "Pegar %{amount_0} Pokémon originalmente descobertos na região de Kanto.",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Pegar %{amount_0} Pokémon de tipo Água, Elétrico ou Inseto.",
   "quest_title_quest_catch_kyogre_type": "Pegar %{amount_0} Pokémon de tipo Água, Elétrico ou Inseto.",
-  "quest_title_quest_catch_legendary_inarow_plural": "Pegar pelo menos 1 Pokémon Lendário ou Mítico em seus próximos %{amount_0} encontros com eles.",
+  "quest_title_quest_catch_legendary_inarow_plural": "Pegar os próximos %{amount_0} Pokémon Lendários ou Míticos que você encontrar.",
   "quest_title_quest_catch_legendary_plural": "Pegar %{amount_0} Pokémon Lendários ou Míticos",
   "quest_title_quest_catch_legendary_singular": "Pegar um Pokémon Lendário ou Mítico",
   "quest_title_quest_catch_lunatone_plural": "Pegar %{amount_0} Lunatone.",

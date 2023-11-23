@@ -6736,7 +6736,7 @@
   "quest_title_quest_catch_kanto_pokemon": "捕捉%{amount_0}隻在關都地區首次被發現的寶可夢",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "捕捉 %{amount_0} 隻水、電或蟲屬性的寶可夢",
   "quest_title_quest_catch_kyogre_type": "捕捉 %{amount_0} 隻水、電或蟲屬性的寶可夢",
-  "quest_title_quest_catch_legendary_inarow_plural": "在接下來出現的 %{amount_0} 隻傳說的寶可夢和幻之寶可夢中至少捕捉到1隻",
+  "quest_title_quest_catch_legendary_inarow_plural": "連續捕捉%{amount_0}隻接下來出現的傳說的寶可夢或幻之寶可夢",
   "quest_title_quest_catch_legendary_plural": "捕捉 %{amount_0} 隻傳說的寶可夢或幻之寶可夢",
   "quest_title_quest_catch_legendary_singular": "捕捉1隻傳說的寶可夢或幻之寶可夢",
   "quest_title_quest_catch_lunatone_plural": "捕捉 %{amount_0} 隻月石",
