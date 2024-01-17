@@ -6524,6 +6524,7 @@
   "quest_condition_62": "Opponent Pokemon Battle Status",
   "quest_condition_63": "Fort Id",
   "quest_condition_64": "Pokemon Move",
+  "quest_fight_type_ghost_psychic_plural": "Победи Покемонов типа Психо или Привидение ×%{amount}",
   "quest_incense_singular": "Использовать 1 приманку",
   "quest_land_excellent_plural": "Сделать отличные броски: %{amount}",
   "quest_reward_0": "Неустановленно",

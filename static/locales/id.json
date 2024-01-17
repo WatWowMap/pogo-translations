@@ -6524,6 +6524,7 @@
   "quest_condition_62": "Opponent Pokemon Battle Status",
   "quest_condition_63": "Fort Id",
   "quest_condition_64": "Pokemon Move",
+  "quest_fight_type_ghost_psychic_plural": "Kalahkan %{amount} Pokémon tipe Psychic atau Hantu",
   "quest_incense_singular": "Gunakan Pewangi",
   "quest_land_excellent_plural": "Lakukan %{amount} Excellent Throw",
   "quest_reward_0": "Unset",

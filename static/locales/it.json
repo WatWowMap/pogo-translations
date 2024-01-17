@@ -6524,6 +6524,7 @@
   "quest_condition_62": "Opponent Pokemon Battle Status",
   "quest_condition_63": "Fort Id",
   "quest_condition_64": "Pokemon Move",
+  "quest_fight_type_ghost_psychic_plural": "Defeat %{amount} Psychic- or Ghost-type Pokémon",
   "quest_incense_singular": "Utilizza un aroma",
   "quest_land_excellent_plural": "Effettua %{amount} tiri eccellenti",
   "quest_reward_0": "Unset",
