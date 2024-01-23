@@ -235,7 +235,7 @@
   "V-create": "V Generate",
   "Leaf Storm": "Leaf Storm",
   "Tri Attack": "Tri Attack",
-  "Gust": "Hembusan Angin",
+  "Gust": "Embusan Angin",
   "Incinerate": "Membakar Habis",
   "Dark Void": "Dark Void",
   "Feather Dance": "Tarian Bulu",
@@ -284,8 +284,8 @@
   "Trailblaze": "Perintis",
   "Scorching Sands": "Daratan Pasir Membara",
   "Roar of Time": "Raungan Waktu",
-  "Bleakwind Storm": "Bleakwind Storm",
-  "Sandsear Storm": "Sandsear Storm",
-  "Wildbolt Storm": "Wildbolt Storm",
-  "Spirit Shackle": "Spirit Shackle"
+  "Bleakwind Storm": "Badai Angin Dingin",
+  "Sandsear Storm": "Badai Pasir Membara",
+  "Wildbolt Storm": "Badai Halilintar",
+  "Spirit Shackle": "Menjahit Bayangan"
 }
