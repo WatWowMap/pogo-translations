@@ -6504,6 +6504,8 @@
   "quest_70": "Ptc Oauth Link",
   "quest_71": "Fight Pokemon",
   "quest_72": "Use Non Combat Move",
+  "quest_73": "Fuse Pokemon",
+  "quest_74": "Unfuse Pokemon",
   "quest_buddy_walk_km_plural": "Jalan %{amount} km dengan partner",
   "quest_catch_type_dark_plural": "Tangkap %{amount} Pokémon tipe Kegelapan",
   "quest_catch_type_poison_plural": "Tangkap %{amount} Pokémon tipe Racun",

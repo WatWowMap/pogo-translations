@@ -6504,6 +6504,8 @@
   "quest_70": "Ptc Oauth Link",
   "quest_71": "Fight Pokemon",
   "quest_72": "Use Non Combat Move",
+  "quest_73": "Fuse Pokemon",
+  "quest_74": "Unfuse Pokemon",
   "quest_buddy_walk_km_plural": "相棒のポケモンと一緒に%{amount}km歩く",
   "quest_catch_type_dark_plural": "あくタイプのポケモンを%{amount}匹捕まえる",
   "quest_catch_type_poison_plural": "どくタイプのポケモンを%{amount}匹捕まえる",
