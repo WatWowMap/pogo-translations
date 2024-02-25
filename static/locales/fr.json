@@ -6503,6 +6503,8 @@
   "quest_70": "Ptc Oauth Link",
   "quest_71": "Fight Pokemon",
   "quest_72": "Use Non Combat Move",
+  "quest_73": "Fuse Pokemon",
+  "quest_74": "Unfuse Pokemon",
   "quest_buddy_walk_km_plural": "Marche %{amount} km avec ton copain",
   "quest_catch_type_dark_plural": "Attrape %{amount} Pokémon de type Ténèbres",
   "quest_catch_type_poison_plural": "Attrape %{amount} Pokémon de type Poison",
