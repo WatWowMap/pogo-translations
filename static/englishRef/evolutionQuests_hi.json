@@ -5,7 +5,9 @@
   "Catch {{amount}} Dark-type Pokémon": "{{amount}} डाक टाइप पोकमॉन पकड़ें",
   "Catch {{amount}} Poison-type Pokémon": "{{amount}} पॉइज़न टाइप पोकमॉन पकड़ें",
   "Catch {{amount}} Psychic-type Pokémon": "{{amount}} साइकक टाइप पोकमॉन पकड़ें",
+  "Defeat {{amount}} Ghost-type Pokémon": "{{amount}} घोट टाइप पोकमॉन हराएँ",
   "Defeat {{amount}} Psychic- or Ghost-type Pokémon": "{{amount}} साइकक या घोट टाइप पोकमॉन हराएँ",
+  "Defeat {{amount}} Psychic-type Pokémon": "{{amount}} साइकक टाइप पोकमॉन हराएँ",
   "Use an Incense": "इंसेंस का इतेमाल करं",
   "Make {{amount}} Excellent Throws": "{{amount}} बेहतरन ो करं",
   "Win {{amount}} raids": "{{amount}} रड जीतें"

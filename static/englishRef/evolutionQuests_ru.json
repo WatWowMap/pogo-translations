@@ -5,7 +5,9 @@
   "Catch {{amount}} Dark-type Pokémon": "Поймай {{amount}} тёмных Покемонов",
   "Catch {{amount}} Poison-type Pokémon": "Поймай {{amount}} ядовитых Покемонов",
   "Catch {{amount}} Psychic-type Pokémon": "Поймай {{amount}} психических Покемонов",
+  "Defeat {{amount}} Ghost-type Pokémon": "Победи Покемонов типа Привидение ×{{amount}}",
   "Defeat {{amount}} Psychic- or Ghost-type Pokémon": "Победи Покемонов типа Психо или Привидение ×{{amount}}",
+  "Defeat {{amount}} Psychic-type Pokémon": "Победи Покемонов типа Психо ×{{amount}}",
   "Use an Incense": "Использовать 1 приманку",
   "Make {{amount}} Excellent Throws": "Сделать отличные броски: {{amount}}",
   "Win {{amount}} raids": "Победи в {{amount}} рейдах"
