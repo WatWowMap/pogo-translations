@@ -5,7 +5,9 @@
   "Catch {{amount}} Dark-type Pokémon": "あくタイプのポケモンを{{amount}}匹捕まえる",
   "Catch {{amount}} Poison-type Pokémon": "どくタイプのポケモンを{{amount}}匹捕まえる",
   "Catch {{amount}} Psychic-type Pokémon": "エスパータイプのポケモンを{{amount}}匹捕まえる",
+  "Defeat {{amount}} Ghost-type Pokémon": "ゴーストタイプのポケモン{{amount}}匹に勝つ",
   "Defeat {{amount}} Psychic- or Ghost-type Pokémon": "エスパータイプかゴーストタイプのポケモン{{amount}}匹に勝つ",
+  "Defeat {{amount}} Psychic-type Pokémon": "エスパータイプのポケモン{{amount}}匹に勝つ",
   "Use an Incense": "おこうを使う",
   "Make {{amount}} Excellent Throws": "エクセレントスローを{{amount}}回投げる",
   "Win {{amount}} raids": "レイドバトルで{{amount}}回勝つ"

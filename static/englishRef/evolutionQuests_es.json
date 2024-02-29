@@ -5,7 +5,9 @@
   "Catch {{amount}} Dark-type Pokémon": "Captura {{amount}} Pokémon de tipo Siniestro",
   "Catch {{amount}} Poison-type Pokémon": "Captura {{amount}} Pokémon de tipo Veneno",
   "Catch {{amount}} Psychic-type Pokémon": "Captura {{amount}} Pokémon de tipo Psíquico",
+  "Defeat {{amount}} Ghost-type Pokémon": "Derrota a {{amount}} Pokémon de tipo Fantasma",
   "Defeat {{amount}} Psychic- or Ghost-type Pokémon": "Derrota a {{amount}} Pokémon de tipo Psíquico o Fantasma",
+  "Defeat {{amount}} Psychic-type Pokémon": "Derrota a {{amount}} Pokémon de tipo Psíquico",
   "Use an Incense": "Usa un Incienso",
   "Make {{amount}} Excellent Throws": "Haz {{amount}} lanzamientos excelentes",
   "Win {{amount}} raids": "Gana en {{amount}} incursiones"
