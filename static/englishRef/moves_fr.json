@@ -279,7 +279,7 @@
   "Geomancy": "Géo-Contrôle",
   "Spacial Rend": "Spatio-Rift",
   "Oblivion Wing": "Mort-Ailes",
-  "Natures Madness": "Natures Madness",
+  "Nature’s Madness": "Ire de la Nature",
   "Triple Axel": "Triple Axel",
   "Trailblaze": "Désherbaffe",
   "Scorching Sands": "Sable Ardent",
@@ -288,9 +288,9 @@
   "Sandsear Storm": "Typhon Pyrosable",
   "Wildbolt Storm": "Typhon Fulgurant",
   "Spirit Shackle": "Tisse Ombre",
-  "Volt Tackle": "Volt Tackle",
-  "Darkest Lariat": "Darkest Lariat",
-  "Psywave Fast": "Psywave Fast",
-  "Metal Sound Fast": "Metal Sound Fast",
-  "Sand Attack Fast": "Sand Attack Fast"
+  "Volt Tackle": "Électacle",
+  "Darkest Lariat": "Dark Lariat",
+  "Psywave": "Vague Psy",
+  "Metal Sound": "Strido-Son",
+  "Sand Attack": "Jet de Sable"
 }

@@ -279,7 +279,7 @@
   "Geomancy": "Geocontrol",
   "Spacial Rend": "Corte Vacío",
   "Oblivion Wing": "Ala Mortífera",
-  "Natures Madness": "Natures Madness",
+  "Nature’s Madness": "Furia Natural",
   "Triple Axel": "Triple Axel",
   "Trailblaze": "Abrecaminos",
   "Scorching Sands": "Arenas Ardientes",
@@ -288,9 +288,9 @@
   "Sandsear Storm": "Simún de Arena",
   "Wildbolt Storm": "Electormenta",
   "Spirit Shackle": "Puntada Sombría",
-  "Volt Tackle": "Volt Tackle",
-  "Darkest Lariat": "Darkest Lariat",
-  "Psywave Fast": "Psywave Fast",
-  "Metal Sound Fast": "Metal Sound Fast",
-  "Sand Attack Fast": "Sand Attack Fast"
+  "Volt Tackle": "Placaje Eléctrico",
+  "Darkest Lariat": "Lariat Oscuro",
+  "Psywave": "Psicoonda",
+  "Metal Sound": "Eco Metálico",
+  "Sand Attack": "Ataque Arena"
 }
