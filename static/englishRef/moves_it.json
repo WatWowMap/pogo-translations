@@ -279,7 +279,7 @@
   "Geomancy": "Geocontrollo",
   "Spacial Rend": "Fendispazio",
   "Oblivion Wing": "Ali del Fato",
-  "Natures Madness": "Natures Madness",
+  "Nature’s Madness": "Ira della Natura",
   "Triple Axel": "Triplo Axel",
   "Trailblaze": "Apripista",
   "Scorching Sands": "Sabbiardente",
@@ -288,9 +288,9 @@
   "Sandsear Storm": "Tempesta Ardente",
   "Wildbolt Storm": "Tempesta Tonante",
   "Spirit Shackle": "Cucitura d’Ombra",
-  "Volt Tackle": "Volt Tackle",
-  "Darkest Lariat": "Darkest Lariat",
-  "Psywave Fast": "Psywave Fast",
-  "Metal Sound Fast": "Metal Sound Fast",
-  "Sand Attack Fast": "Sand Attack Fast"
+  "Volt Tackle": "Locomovolt",
+  "Darkest Lariat": "Braccioteso",
+  "Psywave": "Psiconda",
+  "Metal Sound": "Ferrostrido",
+  "Sand Attack": "Turbosabbia"
 }
