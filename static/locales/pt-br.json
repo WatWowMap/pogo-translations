@@ -6602,6 +6602,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "Caminhar %{amount} km com seu companheiro",
   "quest_catch_type_dark_plural": "Pegar %{amount} Pokémon de tipo Sombrio.",
+  "quest_catch_type_dragon_plural": "Pegar %{amount} Pokémon de tipo Dragão.",
   "quest_catch_type_poison_plural": "Pegar %{amount} Pokémon de tipo Venenoso.",
   "quest_catch_type_psychic_plural": "Pegar %{amount} Pokémon de tipo Psíquico.",
   "quest_condition_0": "Unset",

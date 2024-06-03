@@ -6602,6 +6602,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "파트너 포켓몬과 %{amount} km 걷는다",
   "quest_catch_type_dark_plural": "악타입 포켓몬을 %{amount}마리 잡는다",
+  "quest_catch_type_dragon_plural": "드래곤타입 포켓몬을 %{amount}마리 잡는다",
   "quest_catch_type_poison_plural": "독타입 포켓몬을 %{amount}마리 잡는다",
   "quest_catch_type_psychic_plural": "에스퍼타입 포켓몬을 %{amount}마리 잡는다",
   "quest_condition_0": "Unset",

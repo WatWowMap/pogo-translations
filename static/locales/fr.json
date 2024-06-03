@@ -6601,6 +6601,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "Marche %{amount} km avec ton copain",
   "quest_catch_type_dark_plural": "Attrape %{amount} Pokémon de type Ténèbres",
+  "quest_catch_type_dragon_plural": "Attrape %{amount} Pokémon de type Dragon",
   "quest_catch_type_poison_plural": "Attrape %{amount} Pokémon de type Poison",
   "quest_catch_type_psychic_plural": "Attrape %{amount} Pokémon de type Psy",
   "quest_condition_0": "Unset",

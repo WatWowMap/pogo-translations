@@ -6602,6 +6602,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "和夥伴一起步行 %{amount} 公里",
   "quest_catch_type_dark_plural": "捕捉 %{amount} 隻惡屬性的寶可夢",
+  "quest_catch_type_dragon_plural": "捕捉 %{amount} 隻龍屬性的寶可夢",
   "quest_catch_type_poison_plural": "捕捉 %{amount} 隻毒屬性的寶可夢",
   "quest_catch_type_psychic_plural": "捕捉 %{amount} 隻超能力屬性的寶可夢",
   "quest_condition_0": "Unset",
