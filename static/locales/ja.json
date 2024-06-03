@@ -6602,6 +6602,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "相棒のポケモンと一緒に%{amount}km歩く",
   "quest_catch_type_dark_plural": "あくタイプのポケモンを%{amount}匹捕まえる",
+  "quest_catch_type_dragon_plural": "ドラゴンタイプのポケモンを%{amount}匹捕まえる",
   "quest_catch_type_poison_plural": "どくタイプのポケモンを%{amount}匹捕まえる",
   "quest_catch_type_psychic_plural": "エスパータイプのポケモンを%{amount}匹捕まえる",
   "quest_condition_0": "Unset",

@@ -6604,6 +6604,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "Dostunuzla %{amount} km yürüyün",
   "quest_catch_type_dark_plural": "%{amount} Karanlık türü Pokémon yakalayın",
+  "quest_catch_type_dragon_plural": "%{amount} Ejderha türü Pokémon yakalayın",
   "quest_catch_type_poison_plural": "%{amount} Zehir türü Pokémon yakalayın",
   "quest_catch_type_psychic_plural": "%{amount} Psişik türü Pokémon yakalayın",
   "quest_condition_0": "Unset",

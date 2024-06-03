@@ -6602,6 +6602,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "Jalan %{amount} km dengan partner",
   "quest_catch_type_dark_plural": "Tangkap %{amount} Pokémon tipe Kegelapan",
+  "quest_catch_type_dragon_plural": "Tangkap %{amount} Pokémon tipe Naga",
   "quest_catch_type_poison_plural": "Tangkap %{amount} Pokémon tipe Racun",
   "quest_catch_type_psychic_plural": "Tangkap %{amount} Pokémon tipe Psychic",
   "quest_condition_0": "Unset",

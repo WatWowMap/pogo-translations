@@ -6602,6 +6602,7 @@
   "quest_78": "Unfuse Into Pokemon",
   "quest_buddy_walk_km_plural": "अपने पाटनर क साथ %{amount} km चलं!",
   "quest_catch_type_dark_plural": "%{amount} डाक टाइप पोकमॉन पकड़ें",
+  "quest_catch_type_dragon_plural": "%{amount} डैगन टाइप पोकमॉन पकड़ें",
   "quest_catch_type_poison_plural": "%{amount} पॉइज़न टाइप पोकमॉन पकड़ें",
   "quest_catch_type_psychic_plural": "%{amount} साइकक टाइप पोकमॉन पकड़ें",
   "quest_condition_0": "Unset",
