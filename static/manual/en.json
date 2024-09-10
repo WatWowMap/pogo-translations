@@ -232,5 +232,15 @@
   "generation_9": "Paldea",
   "display_type_7": "Gold Coins",
   "display_type_8": "Kecleon",
-  "display_type_9": "Showcase"
+  "display_type_9": "Showcase",
+  "max_battle_1": "1 Star Max Battle",
+  "max_battle_1_plural": "1 Star Max Battles",
+  "max_battle_2": "2 Star Max Battle",
+  "max_battle_2_plural": "2 Star Max Battles",
+  "max_battle_3": "3 Star Max Battle",
+  "max_battle_3_plural": "3 Star Max Battles",
+  "max_battle_4": "4 Star Max Battle",
+  "max_battle_4_plural": "4 Star Max Battles",
+  "max_battle_5": "Legendary Max Battle",
+  "max_battle_5_plural": "Legendary Max Battles"
 }
