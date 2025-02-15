@@ -6993,6 +6993,7 @@
   "quest_title_quest_sewaddle_evolve_b_singular": "Evolusikan Sewaddle",
   "quest_title_quest_shelgon_evolve_b_plural": "Evolusikan %{amount_0} Shelgon",
   "quest_title_quest_shelgon_evolve_b_singular": "Evolusikan Shelgon",
+  "quest_title_quest_shelmet_karrablast_catch_b": "Tangkap %{amount_0} Shelmet atau Karrablast",
   "quest_title_quest_shint_catch_b": "Tangkap %{amount_0} Shinx",
   "quest_title_quest_shint_evolve_b": "Evolusikan %{amount_0} Shinx",
   "quest_title_quest_shint_evolve_s1": "Evolusikan %{amount_0} Luxio",
