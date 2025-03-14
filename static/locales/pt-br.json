@@ -6596,7 +6596,7 @@
   "quest_title_quest_field_research_plural": "Completar %{amount_0} tarefas de pesquisa de campo.",
   "quest_title_quest_field_research_singular": "Completar uma tarefa de pesquisa de campo",
   "quest_title_quest_fight_type_bug_plural": "Derrotar %{amount_0} Pokémon de tipo Inseto.",
-  "quest_title_quest_fight_type_dark_plural": "Derrotar %{amount_0} Pokémon do tipo Sombrio.",
+  "quest_title_quest_fight_type_dark_plural": "Derrotar %{amount_0} Pokémon de tipo Sombrio.",
   "quest_title_quest_fight_type_dark_steel_plural": "Derrotar %{amount_0} Pokémon de tipo Sombrio ou Aço.",
   "quest_title_quest_fight_type_dragon_plural": "Derrotar %{amount_0} Pokémon de tipo Dragão.",
   "quest_title_quest_fight_type_electric_plural": "Derrotar %{amount_0} Pokémon de tipo Elétrico.",
