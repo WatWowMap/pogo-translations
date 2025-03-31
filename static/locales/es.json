@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Derrota a un líder del Team GO Rocket %{amount_0} veces usando solo Pokémon con 3,000 PC o menos",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Derrota a un líder del Team GO Rocket %{amount_0} veces usando solo Pokémon con 3,500 PC o menos",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Derrota a un líder del Team GO Rocket %{amount_0} veces usando solo Pokémon con 4,000 PC o menos",
+  "quest_title_quest_win_shadow_raid_plural": "Gana %{amount_0} incursiones oscuras",
+  "quest_title_quest_win_shadow_raid_singular": "Gana una incursión oscura",
   "quest_title_quest_wooper_catch_b": "Captura %{amount_0} Wooper o Wooper de Paldea",
   "quest_title_quest_wooper_evolve_b": "Haz evolucionar a %{amount_0} Wooper o Wooper de Paldea",
   "quest_title_quest_wooper_snapshot_b": "Consigue una instantánea de %{amount_0} Wooper o Wooper de Paldea",

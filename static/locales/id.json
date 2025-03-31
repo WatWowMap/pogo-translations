@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Kalahkan Pemimpin Tim Roket GO %{amount_0} kali dengan hanya menggunakan Pokémon dengan 3.000 CP atau lebih rendah",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Kalahkan Pemimpin Tim Roket GO %{amount_0} kali dengan hanya menggunakan Pokémon dengan 3.500 CP atau lebih rendah",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Kalahkan Pemimpin Tim Roket GO %{amount_0} kali dengan hanya menggunakan Pokémon dengan 4.000 CP atau lebih rendah",
+  "quest_title_quest_win_shadow_raid_plural": "Win %{amount_0} Shadow Raids",
+  "quest_title_quest_win_shadow_raid_singular": "Win a Shadow Raid",
   "quest_title_quest_wooper_catch_b": "Tangkap %{amount_0} Wooper atau Paldean Wooper",
   "quest_title_quest_wooper_evolve_b": "Evolusikan %{amount_0} Wooper atau Paldean Wooper",
   "quest_title_quest_wooper_snapshot_b": "Ambil %{amount_0} foto Wooper atau Paldean Wooper",

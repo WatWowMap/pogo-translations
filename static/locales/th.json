@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "เอาชนะหัวหนาแกงโกร็อกเกตโดยใชเฉพาะโปเกมอนที่มี CP ต่ำกวา 3,000 จำนวน %{amount_0} ครั้ง",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "เอาชนะหัวหนาแกงโกร็อกเกตโดยใชเฉพาะโปเกมอนที่มี CP ต่ำกวา 3,500 จำนวน %{amount_0} ครั้ง",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "เอาชนะหัวหนาแกงโกร็อกเกตโดยใชเฉพาะโปเกมอนที่มี CP ต่ำกวา 4,000 จำนวน %{amount_0} ครั้ง",
+  "quest_title_quest_win_shadow_raid_plural": "ชนะตีบอสชาโดว %{amount_0} ครั้ง",
+  "quest_title_quest_win_shadow_raid_singular": "ชนะตีบอสชาโดว",
   "quest_title_quest_wooper_catch_b": "จับอูปาหรืออูปา (รางพัลเดีย) %{amount_0} ตัว",
   "quest_title_quest_wooper_evolve_b": "วิวัฒนาการอูปาหรืออูปา (รางพัลเดีย) %{amount_0} ตัว",
   "quest_title_quest_wooper_snapshot_b": "ถายภาพอูปาหรืออูปา (รางพัลเดีย) %{amount_0} ภาพ",

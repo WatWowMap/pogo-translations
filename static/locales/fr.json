@@ -8647,6 +8647,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Remporte %{amount_0} combats contre un chef de la Team GO Rocket en utilisant uniquement des Pokémon de 3 000 PC ou moins",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Remporte %{amount_0} combats contre un chef de la Team GO Rocket en utilisant uniquement des Pokémon de 3 500 PC ou moins",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Remporte %{amount_0} combats contre un chef de la Team GO Rocket en utilisant uniquement des Pokémon de 4 000 PC ou moins",
+  "quest_title_quest_win_shadow_raid_plural": "Gagne %{amount_0} Raids obscurs",
+  "quest_title_quest_win_shadow_raid_singular": "Gagne un Raid obscur",
   "quest_title_quest_wooper_catch_b": "Attrape %{amount_0} Axoloto ou Axoloto de Paldea",
   "quest_title_quest_wooper_evolve_b": "Fais évoluer %{amount_0} Axoloto ou Axoloto de Paldea",
   "quest_title_quest_wooper_snapshot_b": "Prends en photo %{amount_0} Axoloto ou Axoloto de Paldea",

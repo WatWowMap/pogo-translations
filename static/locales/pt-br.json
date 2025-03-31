@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Derrotar um Líder da Equipe GO Rocket %{amount_0} vezes usando apenas Pokémon com 3,000 PC ou menos",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Derrotar um Líder da Equipe GO Rocket %{amount_0} vezes usando apenas Pokémon com 3,500 PC ou menos",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Derrotar um Líder da Equipe GO Rocket %{amount_0} vezes usando apenas Pokémon com 4,000 PC ou menos",
+  "quest_title_quest_win_shadow_raid_plural": "Vencer %{amount_0} Reides Sombrosos.",
+  "quest_title_quest_win_shadow_raid_singular": "Vencer 1 Reide Sombroso.",
   "quest_title_quest_wooper_catch_b": "Pegar %{amount_0} Wooper ou Wooper de Paldea.",
   "quest_title_quest_wooper_evolve_b": "Evoluir %{amount_0} Wooper ou Wooper de Paldea.",
   "quest_title_quest_wooper_snapshot_b": "Tirar uma foto de %{amount_0} Wooper ou Wooper de Paldea.",

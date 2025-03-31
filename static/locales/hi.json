@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "सफ़ 3,000 CP या इससे कम क पोकमॉन का इतेमाल करक टम GO रॉकट लडर को %{amount_0} बार हराएं",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "सफ़ 3,500 CP या इससे कम क पोकमॉन का इतेमाल करक टम GO रॉकट लडर को %{amount_0} बार हराएं",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "सफ़ 4,000 CP या इससे कम क पोकमॉन का इतेमाल करक टम GO रॉकट लडर को %{amount_0} बार हराएं",
+  "quest_title_quest_win_shadow_raid_plural": "Win %{amount_0} Shadow Raids",
+  "quest_title_quest_win_shadow_raid_singular": "Win a Shadow Raid",
   "quest_title_quest_wooper_catch_b": "%{amount_0} वूपर या पैलडीया वूपर पकड़ें",
   "quest_title_quest_wooper_evolve_b": "%{amount_0} वूपर या पैलडीया वूपर वकसत करं",
   "quest_title_quest_wooper_snapshot_b": "%{amount_0} वूपर या पैलडीया वूपर क नैपशॉट लं",

@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Sconfiggi un leader del Team GO Rocket %{amount_0} volte usando solo Pokémon con un massimo di 3.000 PL",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Sconfiggi un leader del Team GO Rocket %{amount_0} volte usando solo Pokémon con un massimo di 3.500 PL",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Sconfiggi un leader del Team GO Rocket %{amount_0} volte usando solo Pokémon con un massimo di 4.000 PL",
+  "quest_title_quest_win_shadow_raid_plural": "Vinci %{amount_0} raid Ombra",
+  "quest_title_quest_win_shadow_raid_singular": "Vinci un raid Ombra",
   "quest_title_quest_wooper_catch_b": "Cattura %{amount_0} Wooper o Wooper di Paldea",
   "quest_title_quest_wooper_evolve_b": "Fai evolvere %{amount_0} Wooper o Wooper di Paldea",
   "quest_title_quest_wooper_snapshot_b": "Fa una foto a %{amount_0} Wooper o Wooper di Paldea",

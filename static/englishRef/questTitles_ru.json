@@ -1742,6 +1742,8 @@
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 3,000 CP or less": "Победи лидера Команды Ракета GO, используя только Покемонов с 3000 БC или меньше ×{{amount_0}} ",
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 3,500 CP or less": "Победи лидера Команды Ракета GO, используя только Покемонов с 3500 БC или меньше ×{{amount_0}} ",
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 4,000 CP or less": "Победи лидера Команды Ракета GO, используя только Покемонов с 4000 БC или меньше ×{{amount_0}} ",
+  "Win {{amount_0}} Shadow Raids": "Победи в теневых рейдах ×{{amount_0}}",
+  "Win a Shadow Raid": "Победи в теневом рейде",
   "Catch {{amount_0}} Wooper or Paldean Wooper": "Поймай Вуперов или Пальдейских Вуперов ×{{amount_0}}",
   "Evolve {{amount_0}} Wooper or Paldean Wooper": "Эволюционируй Вуперов или Пальдейских Вуперов ×{{amount_0}}",
   "Take a snapshot of {{amount_0}} Wooper or Paldean Wooper": "Сделай фото Вуперов или Пальдейских Вуперов ×{{amount_0}}",

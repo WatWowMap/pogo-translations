@@ -1742,6 +1742,8 @@
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 3,000 CP or less": "用CP低於3,000的寶可夢打敗GO火箭隊幹部 {{amount_0}} 次",
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 3,500 CP or less": "用CP低於3,500的寶可夢打敗GO火箭隊幹部 {{amount_0}} 次",
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 4,000 CP or less": "用CP低於4,000的寶可夢打敗GO火箭隊幹部 {{amount_0}} 次",
+  "Win {{amount_0}} Shadow Raids": "在暗影團體戰中獲勝{{amount_0}}次",
+  "Win a Shadow Raid": "在暗影團體戰中獲勝",
   "Catch {{amount_0}} Wooper or Paldean Wooper": "捕捉{{amount_0}}隻烏波",
   "Evolve {{amount_0}} Wooper or Paldean Wooper": "讓{{amount_0}}隻烏波進化",
   "Take a snapshot of {{amount_0}} Wooper or Paldean Wooper": "為烏波拍攝{{amount_0}}張GO Snapshot照片",

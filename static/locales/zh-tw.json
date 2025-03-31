@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "用CP低於3,000的寶可夢打敗GO火箭隊幹部 %{amount_0} 次",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "用CP低於3,500的寶可夢打敗GO火箭隊幹部 %{amount_0} 次",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "用CP低於4,000的寶可夢打敗GO火箭隊幹部 %{amount_0} 次",
+  "quest_title_quest_win_shadow_raid_plural": "在暗影團體戰中獲勝%{amount_0}次",
+  "quest_title_quest_win_shadow_raid_singular": "在暗影團體戰中獲勝",
   "quest_title_quest_wooper_catch_b": "捕捉%{amount_0}隻烏波",
   "quest_title_quest_wooper_evolve_b": "讓%{amount_0}隻烏波進化",
   "quest_title_quest_wooper_snapshot_b": "為烏波拍攝%{amount_0}張GO Snapshot照片",

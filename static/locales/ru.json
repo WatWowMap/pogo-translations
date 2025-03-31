@@ -9434,6 +9434,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Победи лидера Команды Ракета GO, используя только Покемонов с 3000 БC или меньше ×%{amount_0} ",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Победи лидера Команды Ракета GO, используя только Покемонов с 3500 БC или меньше ×%{amount_0} ",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Победи лидера Команды Ракета GO, используя только Покемонов с 4000 БC или меньше ×%{amount_0} ",
+  "quest_title_quest_win_shadow_raid_plural": "Победи в теневых рейдах ×%{amount_0}",
+  "quest_title_quest_win_shadow_raid_singular": "Победи в теневом рейде",
   "quest_title_quest_wooper_catch_b": "Поймай Вуперов или Пальдейских Вуперов ×%{amount_0}",
   "quest_title_quest_wooper_evolve_b": "Эволюционируй Вуперов или Пальдейских Вуперов ×%{amount_0}",
   "quest_title_quest_wooper_snapshot_b": "Сделай фото Вуперов или Пальдейских Вуперов ×%{amount_0}",

@@ -7374,6 +7374,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Defeat a Team GO Rocket Leader %{amount_0} times using only Pokémon with 3,000 CP or less",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Defeat a Team GO Rocket Leader %{amount_0} times using only Pokémon with 3,500 CP or less",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Defeat a Team GO Rocket Leader %{amount_0} times using only Pokémon with 4,000 CP or less",
+  "quest_title_quest_win_shadow_raid_plural": "Win %{amount_0} Shadow Raids",
+  "quest_title_quest_win_shadow_raid_singular": "Win a Shadow Raid",
   "quest_title_quest_wooper_catch_b": "Catch %{amount_0} Wooper or Paldean Wooper",
   "quest_title_quest_wooper_evolve_b": "Evolve %{amount_0} Wooper or Paldean Wooper",
   "quest_title_quest_wooper_snapshot_b": "Take a snapshot of %{amount_0} Wooper or Paldean Wooper",

@@ -1742,6 +1742,8 @@
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 3,000 CP or less": "เอาชนะหัวหนาแกงโกร็อกเกตโดยใชเฉพาะโปเกมอนที่มี CP ต่ำกวา 3,000 จำนวน {{amount_0}} ครั้ง",
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 3,500 CP or less": "เอาชนะหัวหนาแกงโกร็อกเกตโดยใชเฉพาะโปเกมอนที่มี CP ต่ำกวา 3,500 จำนวน {{amount_0}} ครั้ง",
   "Defeat a Team GO Rocket Leader {{amount_0}} times using only Pokémon with 4,000 CP or less": "เอาชนะหัวหนาแกงโกร็อกเกตโดยใชเฉพาะโปเกมอนที่มี CP ต่ำกวา 4,000 จำนวน {{amount_0}} ครั้ง",
+  "Win {{amount_0}} Shadow Raids": "ชนะตีบอสชาโดว {{amount_0}} ครั้ง",
+  "Win a Shadow Raid": "ชนะตีบอสชาโดว",
   "Catch {{amount_0}} Wooper or Paldean Wooper": "จับอูปาหรืออูปา (รางพัลเดีย) {{amount_0}} ตัว",
   "Evolve {{amount_0}} Wooper or Paldean Wooper": "วิวัฒนาการอูปาหรืออูปา (รางพัลเดีย) {{amount_0}} ตัว",
   "Take a snapshot of {{amount_0}} Wooper or Paldean Wooper": "ถายภาพอูปาหรืออูปา (รางพัลเดีย) {{amount_0}} ภาพ",

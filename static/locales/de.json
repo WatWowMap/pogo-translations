@@ -8647,6 +8647,8 @@
   "quest_title_quest_win_rocket_leader_less3000cp_plural": "Besiege %{amount_0}-mal einen Team GO Rocket-Boss nur mit Pokémon mit 3 000 WP oder weniger.",
   "quest_title_quest_win_rocket_leader_less3500cp_plural": "Besiege %{amount_0}-mal einen Team GO Rocket-Boss nur mit Pokémon mit 3 500 WP oder weniger.",
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "Besiege %{amount_0}-mal einen Team GO Rocket-Boss nur mit Pokémon mit 4 000 WP oder weniger.",
+  "quest_title_quest_win_shadow_raid_plural": "Gewinne %{amount_0} Crypto-Raids.",
+  "quest_title_quest_win_shadow_raid_singular": "Gewinne einen Crypto-Raid.",
   "quest_title_quest_wooper_catch_b": "Fange %{amount_0} Felino oder Paldea-Felino.",
   "quest_title_quest_wooper_evolve_b": "Entwickle %{amount_0} Felino oder Paldea-Felino.",
   "quest_title_quest_wooper_snapshot_b": "Mache einen Schnappschuss von %{amount_0} Felino oder Paldea-Felino.",
