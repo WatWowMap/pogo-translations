@@ -8949,7 +8949,7 @@
   "quest_title_quest_power_up_ice_rock": "Усиль Покемонов типов Лёд или Камень ×5",
   "quest_title_quest_power_up_legendary_plural": "Усиль Легендарных или Мифических Покемонов ×%{amount_0}",
   "quest_title_quest_power_up_legendary_singular": "Усиль 1 Легендарного или Мифического Покемона",
-  "quest_title_quest_power_up_machop_plural": "Power Up Machop %{amount_0} times",
+  "quest_title_quest_power_up_machop_plural": "Power up Machop %{amount_0} times",
   "quest_title_quest_power_up_max_plural": "Усиль %{amount_0} Покемонов до максимальной БС",
   "quest_title_quest_power_up_max_singular": "Усиль Покемона до максимальной БС",
   "quest_title_quest_power_up_plural": "Усиль Покемонов ×%{amount_0}",

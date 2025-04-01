@@ -6889,7 +6889,7 @@
   "quest_title_quest_power_up_ice_rock": "強化5次冰屬性或岩石屬性的寶可夢",
   "quest_title_quest_power_up_legendary_plural": "強化傳說的寶可夢或幻之寶可夢 %{amount_0}  次",
   "quest_title_quest_power_up_legendary_singular": "強化1隻傳說的寶可夢或幻之寶可夢",
-  "quest_title_quest_power_up_machop_plural": "Power Up Machop %{amount_0} times",
+  "quest_title_quest_power_up_machop_plural": "Power up Machop %{amount_0} times",
   "quest_title_quest_power_up_max_plural": "將 %{amount_0} 隻寶可夢的CP強化至上限",
   "quest_title_quest_power_up_max_singular": "將1隻寶可夢的CP強化至上限",
   "quest_title_quest_power_up_plural": "強化寶可夢 %{amount_0} 次",
