@@ -6089,6 +6089,7 @@
   "quest_title_quest_dec2022_catch_b": "捕捉 %{amount_0} 隻2022年社群日的主題寶可夢",
   "quest_title_quest_dec2023_catch_b": "捕捉%{amount_0}隻在2023年社群日登場的寶可夢",
   "quest_title_quest_dec2024_catch_b": "捕捉%{amount_0}隻在2024年社群日登場的寶可夢",
+  "quest_title_quest_defeat_dark_or_steel_type_raid": "戰勝%{amount_0}隻惡屬性或鋼屬性的頭目寶可夢",
   "quest_title_quest_defeat_jessie_james_plural": "打敗武藏或小次郎 %{amount_0} 次",
   "quest_title_quest_defeat_rocket": "打敗 %{amount_0} 個GO火箭隊成員",
   "quest_title_quest_defeat_rocket_leader_2500": "用CP低於2,500的寶可夢打敗GO火箭隊幹部 %{amount_0} 次",

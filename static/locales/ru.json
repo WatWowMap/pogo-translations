@@ -8149,6 +8149,7 @@
   "quest_title_quest_dec2022_catch_b": "Поймай %{amount_0} Покемонов, представленных в Декабрьском дне сообщества 2022",
   "quest_title_quest_dec2023_catch_b": "Поймай Покемонов, представленных в днях сообщества 2023 ×%{amount_0}",
   "quest_title_quest_dec2024_catch_b": "Поймай Покемонов, представленных в днях сообщества 2024 ×%{amount_0}",
+  "quest_title_quest_defeat_dark_or_steel_type_raid": "Победи рейдовых боссов типов Тёмный или Сталь ×%{amount_0}",
   "quest_title_quest_defeat_jessie_james_plural": "Победи Джесси или Джеймса ×%{amount_0}",
   "quest_title_quest_defeat_rocket": "Победи членов Команды Ракета GO ×%{amount_0}",
   "quest_title_quest_defeat_rocket_leader_2500": "Победи лидера Команды Ракета GO, используя только Покемонов с 2500 БC или меньше ×%{amount_0}",

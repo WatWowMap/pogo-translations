@@ -7369,6 +7369,7 @@
   "quest_title_quest_dec2022_catch_b": "コミュニティ・デイ2022期間にポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_dec2023_catch_b": "2023年のコミュニティ・デイに登場したポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_dec2024_catch_b": "2024年のコミュニティ・デイに登場したポケモンを%{amount_0}匹捕まえる",
+  "quest_title_quest_defeat_dark_or_steel_type_raid": "あくタイプかはがねタイプのボスポケモン%{amount_0}匹に勝つ",
   "quest_title_quest_defeat_jessie_james_plural": "ムサシかコジロウに%{amount_0}回勝つ ",
   "quest_title_quest_defeat_rocket": "GOロケット団員に%{amount_0}回勝つ",
   "quest_title_quest_defeat_rocket_leader_2500": "CP2500以下のポケモンのみを使いGOロケット団リーダーに%{amount_0}回勝つ",
