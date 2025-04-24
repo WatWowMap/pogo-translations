@@ -6824,6 +6824,7 @@
   "quest_condition_74": "Page Type",
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
+  "quest_defeat_dark_or_steel_type_raid": "あくタイプかはがねタイプのボスポケモン%{amount}匹に勝つ",
   "quest_fight_type_ghost_plural": "ゴーストタイプのポケモン%{amount}匹に勝つ",
   "quest_fight_type_ghost_psychic_plural": "エスパータイプかゴーストタイプのポケモン%{amount}匹に勝つ",
   "quest_fight_type_psychic_plural": "エスパータイプのポケモン%{amount}匹に勝つ",

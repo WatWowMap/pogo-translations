@@ -5544,6 +5544,7 @@
   "quest_condition_74": "Page Type",
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
+  "quest_defeat_dark_or_steel_type_raid": "Derrotar %{amount} Chefes de Reide de tipo Sombrio ou Aço.",
   "quest_fight_type_ghost_plural": "Derrotar %{amount} Pokémon de tipo Fantasma.",
   "quest_fight_type_ghost_psychic_plural": "Derrotar %{amount} Pokémon de tipo Psíquico ou Fantasma.",
   "quest_fight_type_psychic_plural": "Derrotar %{amount} Pokémon de tipo Psíquico.",

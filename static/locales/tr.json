@@ -5544,6 +5544,7 @@
   "quest_condition_74": "Page Type",
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
+  "quest_defeat_dark_or_steel_type_raid": "Karanlık ya da Çelik türünden %{amount} Akın Canavarı alt edin",
   "quest_fight_type_ghost_plural": "%{amount} Hayalet türü Pokémon alt edin",
   "quest_fight_type_ghost_psychic_plural": "Psişik ya da Hayalet türünden %{amount} Pokémon alt edin",
   "quest_fight_type_psychic_plural": "%{amount} Psişik tür Pokémon alt edin",
