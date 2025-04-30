@@ -8921,6 +8921,7 @@
   "quest_title_quest_party_catch_water_type_singular": "Играя в команде, поймай Покемонов типа Вода ×1",
   "quest_title_quest_party_challenge_plural": "Выполни испытания команды ×%{amount_0}",
   "quest_title_quest_party_challenge_singular": "Выполни испытание команды",
+  "quest_title_quest_pawmi_catch_b": "Поймай Поми ×%{amount_0}",
   "quest_title_quest_pin_postcard_plural": "Добавь открытку ×%{amount_0}",
   "quest_title_quest_pin_postcard_singular": "Добавь открытку",
   "quest_title_quest_platinum_johto_badge": "Заработай платиновую медаль Джото",

@@ -8141,6 +8141,7 @@
   "quest_title_quest_party_catch_water_type_singular": "チーム参加中みずタイプのポケモンを捕まえる",
   "quest_title_quest_party_challenge_plural": "チームチャレンジを%{amount_0}回達成する",
   "quest_title_quest_party_challenge_singular": "チームチャレンジを達成する",
+  "quest_title_quest_pawmi_catch_b": "パモを%{amount_0}匹捕まえる",
   "quest_title_quest_pin_postcard_plural": "ポストカード%{amount_0}枚をピンする",
   "quest_title_quest_pin_postcard_singular": "ポストカードをピンする",
   "quest_title_quest_platinum_johto_badge": "ジョウトメダルをプラチナにする",

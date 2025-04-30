@@ -6862,6 +6862,7 @@
   "quest_title_quest_party_catch_water_type_singular": "팀 참가 중 물타입 포켓몬을 1마리 잡는다",
   "quest_title_quest_party_challenge_plural": "팀 챌린지를 %{amount_0}건 완료 한다",
   "quest_title_quest_party_challenge_singular": "팀 챌린지를 1건 완료 한다",
+  "quest_title_quest_pawmi_catch_b": "빠모를 %{amount_0}마리 잡는다",
   "quest_title_quest_pin_postcard_plural": "엽서 %{amount_0}장을 핀 고정한다",
   "quest_title_quest_pin_postcard_singular": "엽서 1장을 핀 고정한다",
   "quest_title_quest_platinum_johto_badge": "성도 메달을 플래티넘으로 만든다",
