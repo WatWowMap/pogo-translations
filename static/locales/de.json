@@ -8532,6 +8532,7 @@
   "quest_title_quest_trainee_battle_team_rocket_singular": "Battle a Team GO Rocket member with your trainee in your battle party",
   "quest_title_quest_trainee_battle_trainer_or_team_leader_singular": "Battle another Trainer or team leader with your trainee in your battle party",
   "quest_title_quest_trainee_battle_ultra_win_plural": "Win %{amount_0} Trainer Battles in the Ultra League with your trainee as your buddy",
+  "quest_title_quest_trainee_battle_win_plural": "Win %{amount_0} Battles with your trainee in your Battle Party",
   "quest_title_quest_trainee_buddy_play_days_plural": "Play with your trainee as your buddy on %{amount_0} different days",
   "quest_title_quest_trainee_buddy_play_singular": "Play with your trainee as your buddy",
   "quest_title_quest_trainee_catch_pokemon_plural": "Catch %{amount_0} Pokémon with your trainee as your buddy",

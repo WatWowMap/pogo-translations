@@ -8532,6 +8532,7 @@
   "quest_title_quest_trainee_battle_team_rocket_singular": "Combats un membre de la Team GO Rocket avec ton apprenti dans ton équipe de combat",
   "quest_title_quest_trainee_battle_trainer_or_team_leader_singular": "Affronte un autre Dresseur ou Dresseuse ou un capitaine d’équipe avec ton apprenti dans ton équipe de combat",
   "quest_title_quest_trainee_battle_ultra_win_plural": "Win %{amount_0} Trainer Battles in the Ultra League with your trainee as your buddy",
+  "quest_title_quest_trainee_battle_win_plural": "Win %{amount_0} Battles with your trainee in your Battle Party",
   "quest_title_quest_trainee_buddy_play_days_plural": "Joue avec ton apprenti comme Copain pendant %{amount_0} jours différents",
   "quest_title_quest_trainee_buddy_play_singular": "Joue avec ton apprenti comme Copain",
   "quest_title_quest_trainee_catch_pokemon_plural": "Attrape %{amount_0} Pokémon avec ton apprenti comme Copain",
