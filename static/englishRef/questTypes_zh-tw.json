@@ -90,5 +90,7 @@
   "Feed Gym Pokemon": "Feed Gym Pokemon",
   "Use Star Piece": "Use Star Piece",
   "Pokemon Reach CP": "Pokemon Reach CP",
-  "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "戰勝{{amount}}隻惡屬性或鋼屬性的頭目寶可夢"
+  "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "戰勝{{amount}}隻惡屬性或鋼屬性的頭目寶可夢",
+  "Defeat {{amount}} Dark-type Pokémon in raids or Max Battles": "在團體戰或極巨對戰中戰勝{{amount}}隻惡屬性的寶可夢",
+  "Defeat {{amount}} Water-type Pokémon in raids or Max Battles": "在團體戰或極巨對戰中戰勝{{amount}}隻水屬性的寶可夢"
 }

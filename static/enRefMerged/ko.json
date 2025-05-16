@@ -4259,6 +4259,8 @@
   "Use Star Piece": "Use Star Piece",
   "Pokemon Reach CP": "Pokemon Reach CP",
   "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "악타입 또는 강철타입의 보스 포켓몬 {{amount}}마리에게 이긴다",
+  "Defeat {{amount}} Dark-type Pokémon in raids or Max Battles": "레이드배틀 또는 맥스배틀에서 악타입 포켓몬 {{amount}}마리에게 이긴다",
+  "Defeat {{amount}} Water-type Pokémon in raids or Max Battles": "레이드배틀 또는 맥스배틀에서 물타입 포켓몬 {{amount}}마리에게 이긴다",
   "Battle a team leader {{amount_0}} times": "팀 리더와의 대전을 {{amount_0}}번 한다",
   "Battle another Trainer": "트레이너와 대전한다",
   "Battle another Trainer {{amount_0}} times": "트레이너와의 대전을 {{amount_0}}번 한다",

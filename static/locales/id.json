@@ -5559,6 +5559,8 @@
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
   "quest_defeat_dark_or_steel_type_raid": "Kalahkan %{amount} Bos Raid tipe Kegelapan atau Logam",
+  "quest_defeat_dark_type_raid_and_max_battle": "Defeat %{amount} Dark-type Pokémon in raids or Max Battles",
+  "quest_defeat_water_type_raid_and_max_battle": "Defeat %{amount} Water-type Pokémon in raids or Max Battles",
   "quest_fight_type_ghost_plural": "Kalahkan %{amount} Pokémon tipe Hantu",
   "quest_fight_type_ghost_psychic_plural": "Kalahkan %{amount} Pokémon tipe Psychic atau Hantu",
   "quest_fight_type_psychic_plural": "Kalahkan %{amount} Pokémon tipe Psychic",

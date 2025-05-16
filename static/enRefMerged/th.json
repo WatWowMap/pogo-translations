@@ -4259,6 +4259,8 @@
   "Use Star Piece": "Use Star Piece",
   "Pokemon Reach CP": "Pokemon Reach CP",
   "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "เอาชนะบอสโปเกมอนประเภทความมืดหรือโลหะ {{amount}} ตัว",
+  "Defeat {{amount}} Dark-type Pokémon in raids or Max Battles": "เอาชนะโปเกมอนประเภทความมืด {{amount}} ตัว ในตีบอสหรือแบตเทิลแมกซ",
+  "Defeat {{amount}} Water-type Pokémon in raids or Max Battles": "เอาชนะโปเกมอนประเภทน้ำ {{amount}} ตัว ในตีบอสหรือแบตเทิลแมกซ",
   "Battle a team leader {{amount_0}} times": "แบตเทิลกับหัวหนาทีม {{amount_0}} ครั้ง",
   "Battle another Trainer": "แบตเทิลกับเทรนเนอรคนอื่น",
   "Battle another Trainer {{amount_0}} times": "แบตเทิลกับเทรนเนอรคนอื่น {{amount_0}} ครั้ง",

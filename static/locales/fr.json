@@ -6830,6 +6830,8 @@
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
   "quest_defeat_dark_or_steel_type_raid": "Remporte un combat contre %{amount} Boss de Raids de type Ténèbres ou Acier",
+  "quest_defeat_dark_type_raid_and_max_battle": "Remporte un combat contre %{amount} Pokémon de type Ténèbres dans des Raids ou des Combats Dynamax",
+  "quest_defeat_water_type_raid_and_max_battle": "Remporte un combat contre %{amount} Pokémon de type Eau dans des Raids ou des Combats Dynamax",
   "quest_fight_type_ghost_plural": "Remporte un combat contre %{amount} Pokémon de type Spectre",
   "quest_fight_type_ghost_psychic_plural": "Remporte un combat contre %{amount} Pokémon de type Psy ou Spectre",
   "quest_fight_type_psychic_plural": "Remporte un combat contre %{amount} Pokémon de type Psy",

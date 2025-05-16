@@ -6830,6 +6830,8 @@
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
   "quest_defeat_dark_or_steel_type_raid": "Besiege %{amount} Raid-Bosse vom Typ Unlicht oder Stahl.",
+  "quest_defeat_dark_type_raid_and_max_battle": "Besiege %{amount} Pokémon vom Typ Unlicht in Raids oder Dyna-Kämpfen.",
+  "quest_defeat_water_type_raid_and_max_battle": "Besiege %{amount} Pokémon vom Typ Wasser in Raids oder Dyna-Kämpfen.",
   "quest_fight_type_ghost_plural": "Besiege %{amount} Pokémon vom Typ Geist.",
   "quest_fight_type_ghost_psychic_plural": "Besiege %{amount} Pokémon vom Typ Psycho oder Geist.",
   "quest_fight_type_psychic_plural": "Besiege %{amount} Pokémon vom Typ Psycho.",

@@ -4259,6 +4259,8 @@
   "Use Star Piece": "Use Star Piece",
   "Pokemon Reach CP": "Pokemon Reach CP",
   "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "Karanlık ya da Çelik türünden {{amount}} Akın Canavarı alt edin",
+  "Defeat {{amount}} Dark-type Pokémon in raids or Max Battles": "Akınlarda veya Maksi Maçlarda {{amount}} Karanlık tür Pokémon alt edin",
+  "Defeat {{amount}} Water-type Pokémon in raids or Max Battles": "Akınlarda veya Maksi Maçlarda {{amount}} Su türü Pokémon alt edin",
   "Battle a team leader {{amount_0}} times": "Bir takım lideriyle {{amount_0}} kez maç yapın",
   "Battle another Trainer": "Başka Eğitmenlerle maç yapın",
   "Battle another Trainer {{amount_0}} times": "Başka Eğitmenlerle {{amount_0}} kez maç yapın",

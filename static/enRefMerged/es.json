@@ -4259,6 +4259,8 @@
   "Use Star Piece": "Use Star Piece",
   "Pokemon Reach CP": "Pokemon Reach CP",
   "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "Derrota a {{amount}} jefes de incursión de tipo Siniestro o Acero",
+  "Defeat {{amount}} Dark-type Pokémon in raids or Max Battles": "Derrota a {{amount}} Pokémon de tipo Siniestro en incursiones o Combates Max",
+  "Defeat {{amount}} Water-type Pokémon in raids or Max Battles": "Derrota a {{amount}} Pokémon de tipo Agua en incursiones o Combates Max",
   "Battle a team leader {{amount_0}} times": "Combate contra 1 líder de equipo {{amount_0}} veces",
   "Battle another Trainer": "Combate contra otro Entrenador",
   "Battle another Trainer {{amount_0}} times": "Combate contra otro Entrenador {{amount_0}} veces",
