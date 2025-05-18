@@ -90,5 +90,7 @@
   "Feed Gym Pokemon": "Feed Gym Pokemon",
   "Use Star Piece": "Use Star Piece",
   "Pokemon Reach CP": "Pokemon Reach CP",
-  "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "เอาชนะบอสโปเกมอนประเภทความมืดหรือโลหะ {{amount}} ตัว"
+  "Defeat {{amount}} Dark- or Steel-type Raid Bosses": "เอาชนะบอสโปเกมอนประเภทความมืดหรือโลหะ {{amount}} ตัว",
+  "Defeat {{amount}} Dark-type Pokémon in raids or Max Battles": "เอาชนะโปเกมอนประเภทความมืด {{amount}} ตัว ในตีบอสหรือแบตเทิลแมกซ",
+  "Defeat {{amount}} Water-type Pokémon in raids or Max Battles": "เอาชนะโปเกมอนประเภทน้ำ {{amount}} ตัว ในตีบอสหรือแบตเทิลแมกซ"
 }
