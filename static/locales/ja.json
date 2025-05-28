@@ -8563,7 +8563,7 @@
   "quest_title_quest_trainee_battle_trainer_singular": "Battle another Trainer with your trainee in your Battle Party",
   "quest_title_quest_trainee_battle_trainer_win_plural": "Win %{amount_0} Battles against another Trainer with your trainee in your Battle Party",
   "quest_title_quest_trainee_battle_ultra_win_plural": "Win %{amount_0} Trainer Battles in the Ultra League with your trainee as your buddy",
-  "quest_title_quest_trainee_battle_win_plural": "Win %{amount_0} Battles with your trainee in your Battle Party",
+  "quest_title_quest_trainee_battle_win_plural": "Win %{amount_0} battles with your trainee in your battle party",
   "quest_title_quest_trainee_buddy_play_days_plural": "鍛える相棒ポケモンと%{amount_0}日にわたって遊ぶ",
   "quest_title_quest_trainee_buddy_play_singular": "鍛える相棒ポケモンと遊ぶ",
   "quest_title_quest_trainee_catch_pokemon_plural": "鍛えるポケモンを相棒にしてポケモンを%{amount_0}匹捕まえる",
