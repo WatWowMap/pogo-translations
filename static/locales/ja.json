@@ -8265,6 +8265,7 @@
   "quest_title_quest_psychicspec_catch_abra_plural": "ケーシィかスリープを%{amount_0}匹捕まえる",
   "quest_title_quest_psychicspec_catch_type_psychic_plural": "エスパータイプのポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_psychicspec_evolve_plural": "タマタマかヤドンを%{amount_0}匹進化させる",
+  "quest_title_quest_quaxly_catch_b": "クワッスを%{amount_0}匹捕まえる",
   "quest_title_quest_quaxly_evolve_b": "クワッスを進化させる",
   "quest_title_quest_quaxwell_evolve_b": "ウェルカモを進化させる",
   "quest_title_quest_quilava_evolve_b_plural": "マグマラシを%{amount_0}匹進化させる",

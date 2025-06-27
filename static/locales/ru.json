@@ -9045,6 +9045,7 @@
   "quest_title_quest_psychicspec_catch_abra_plural": "Поймай %{amount_0} Абр или Драузи",
   "quest_title_quest_psychicspec_catch_type_psychic_plural": "Поймай Покемонов типа Психо ×%{amount_0}",
   "quest_title_quest_psychicspec_evolve_plural": "Эволюционируй Эксегкьюта или Слоупока: %{amount_0}",
+  "quest_title_quest_quaxly_catch_b": "Поймай Куаксли ×%{amount_0}",
   "quest_title_quest_quaxly_evolve_b": "Эволюционируй Куаксли",
   "quest_title_quest_quaxwell_evolve_b": "Эволюционируй Куаксвелла",
   "quest_title_quest_quilava_evolve_b_plural": "Эволюционируй Квилав ×%{amount_0}",
