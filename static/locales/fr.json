@@ -6836,6 +6836,7 @@
   "quest_condition_74": "Page Type",
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
+  "quest_condition_77": "Battle Opponent Pokemon",
   "quest_defeat_dark_or_steel_type_raid": "Remporte un combat contre %{amount} Boss de Raids de type Ténèbres ou Acier",
   "quest_defeat_dark_type_raid_and_max_battle": "Remporte un combat contre %{amount} Pokémon de type Ténèbres dans des Raids ou des Combats Dynamax",
   "quest_defeat_water_type_raid_and_max_battle": "Remporte un combat contre %{amount} Pokémon de type Eau dans des Raids ou des Combats Dynamax",

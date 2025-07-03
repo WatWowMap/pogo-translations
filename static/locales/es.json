@@ -5565,6 +5565,7 @@
   "quest_condition_74": "Page Type",
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
+  "quest_condition_77": "Battle Opponent Pokemon",
   "quest_defeat_dark_or_steel_type_raid": "Derrota a %{amount} jefes de incursión de tipo Siniestro o Acero",
   "quest_defeat_dark_type_raid_and_max_battle": "Derrota a %{amount} Pokémon de tipo Siniestro en incursiones o Combates Max",
   "quest_defeat_water_type_raid_and_max_battle": "Derrota a %{amount} Pokémon de tipo Agua en incursiones o Combates Max",

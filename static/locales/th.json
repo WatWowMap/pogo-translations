@@ -5565,6 +5565,7 @@
   "quest_condition_74": "Page Type",
   "quest_condition_75": "Max Pokemon",
   "quest_condition_76": "Trainee Pokemon Attributes",
+  "quest_condition_77": "Battle Opponent Pokemon",
   "quest_defeat_dark_or_steel_type_raid": "เอาชนะบอสโปเกมอนประเภทความมืดหรือโลหะ %{amount} ตัว",
   "quest_defeat_dark_type_raid_and_max_battle": "เอาชนะโปเกมอนประเภทความมืด %{amount} ตัว ในตีบอสหรือแบตเทิลแมกซ",
   "quest_defeat_water_type_raid_and_max_battle": "เอาชนะโปเกมอนประเภทน้ำ %{amount} ตัว ในตีบอสหรือแบตเทิลแมกซ",
