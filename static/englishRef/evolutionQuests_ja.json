@@ -12,5 +12,6 @@
   "Defeat {{amount}} Psychic-type Pokémon": "エスパータイプのポケモン{{amount}}匹に勝つ",
   "Use an Incense": "おこうを使う",
   "Make {{amount}} Excellent Throws": "エクセレントスローを{{amount}}回投げる",
-  "Win {{amount}} raids": "レイドバトルで{{amount}}回勝つ"
+  "Win {{amount}} raids": "レイドバトルで{{amount}}回勝つ",
+  "Win a raid": "レイドバトルで1回勝つ"
 }

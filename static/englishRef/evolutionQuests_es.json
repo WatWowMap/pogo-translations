@@ -12,5 +12,6 @@
   "Defeat {{amount}} Psychic-type Pokémon": "Derrota a {{amount}} Pokémon de tipo Psíquico",
   "Use an Incense": "Usa un Incienso",
   "Make {{amount}} Excellent Throws": "Haz {{amount}} lanzamientos excelentes",
-  "Win {{amount}} raids": "Gana en {{amount}} incursiones"
+  "Win {{amount}} raids": "Gana en {{amount}} incursiones",
+  "Win a raid": "Gana en 1 incursión"
 }

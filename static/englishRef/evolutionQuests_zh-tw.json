@@ -12,5 +12,6 @@
   "Defeat {{amount}} Psychic-type Pokémon": "戰勝{{amount}}隻超能力屬性的寶可夢",
   "Use an Incense": "使用薰香",
   "Make {{amount}} Excellent Throws": "投出 {{amount}} 次Excellent",
-  "Win {{amount}} raids": "在團體戰中獲勝 {{amount}} 次"
+  "Win {{amount}} raids": "在團體戰中獲勝 {{amount}} 次",
+  "Win a raid": "在團體戰中獲勝1次"
 }

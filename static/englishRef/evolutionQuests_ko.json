@@ -12,5 +12,6 @@
   "Defeat {{amount}} Psychic-type Pokémon": "에스퍼타입 포켓몬 {{amount}}마리에게 이긴다",
   "Use an Incense": "향로 1개를 사용한다",
   "Make {{amount}} Excellent Throws": "Excellent가 나오게 {{amount}}회 던진다",
-  "Win {{amount}} raids": "레이드배틀에서 {{amount}}번 이긴다"
+  "Win {{amount}} raids": "레이드배틀에서 {{amount}}번 이긴다",
+  "Win a raid": "레이드배틀에서 1회 이긴다"
 }
