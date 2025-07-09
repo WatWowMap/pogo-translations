@@ -8223,6 +8223,7 @@
   "quest_title_quest_power_up_machop_plural": "ワンリキーを%{amount_0}回強化する",
   "quest_title_quest_power_up_max_plural": "ポケモン%{amount_0}匹をCP上限まで強化する",
   "quest_title_quest_power_up_max_singular": "ポケモンをCP上限まで強化する",
+  "quest_title_quest_power_up_passimian_plural": "ナゲツケサルを%{amount_0}回強化する",
   "quest_title_quest_power_up_plural": "ポケモンを%{amount_0}回強化する",
   "quest_title_quest_power_up_plural_bug": "むしタイプのポケモンを%{amount_0}回強化する",
   "quest_title_quest_power_up_plural_dark": "あくタイプのポケモンを%{amount_0}回強化する",

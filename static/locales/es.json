@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "Da más poder a Machop %{amount_0} veces",
   "quest_title_quest_power_up_max_plural": "Da más poder a %{amount_0} Pokémon hasta que alcancen sus PC máximos",
   "quest_title_quest_power_up_max_singular": "Da más poder a un Pokémon hasta que alcance sus PC máximos",
+  "quest_title_quest_power_up_passimian_plural": "Da más poder a Passimian %{amount_0} veces",
   "quest_title_quest_power_up_plural": "Da más poder a un Pokémon %{amount_0} veces",
   "quest_title_quest_power_up_plural_bug": "Da más poder a Pokémon de tipo Bicho %{amount_0} veces",
   "quest_title_quest_power_up_plural_dark": "Da más poder a Pokémon de tipo Siniestro %{amount_0} veces",

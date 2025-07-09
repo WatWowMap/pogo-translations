@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "Potenzia Machop %{amount_0} volte",
   "quest_title_quest_power_up_max_plural": "Potenzia %{amount_0} Pokémon ai loro PL massimi",
   "quest_title_quest_power_up_max_singular": "Potenzia un Pokémon ai suoi PL massimi",
+  "quest_title_quest_power_up_passimian_plural": "Potenzia Passimian %{amount_0} volte",
   "quest_title_quest_power_up_plural": "Potenzia dei Pokémon %{amount_0} volte",
   "quest_title_quest_power_up_plural_bug": "Potenzia Pokémon di tipo Coleottero %{amount_0} volte",
   "quest_title_quest_power_up_plural_dark": "Potenzia Pokémon di tipo Buio %{amount_0} volte",

@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "Perkuat Machop %{amount_0} kali",
   "quest_title_quest_power_up_max_plural": "Perkuat %{amount_0} Pokémon ke CP maksimalnya",
   "quest_title_quest_power_up_max_singular": "Perkuat Pokémon ke CP maksimalnya",
+  "quest_title_quest_power_up_passimian_plural": "Power up Passimian %{amount_0} times",
   "quest_title_quest_power_up_plural": "Perkuat Pokémon %{amount_0} kali",
   "quest_title_quest_power_up_plural_bug": "Perkuat Pokémon tipe Serangga %{amount_0} kali",
   "quest_title_quest_power_up_plural_dark": "Perkuat Pokémon tipe Kegelapan %{amount_0} kali",

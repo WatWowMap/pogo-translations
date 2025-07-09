@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "알통몬을 %{amount_0}회 강화한다",
   "quest_title_quest_power_up_max_plural": "포켓몬 %{amount_0}마리를 최대 CP까지 강화한다.",
   "quest_title_quest_power_up_max_singular": "포켓몬을 최대 CP까지 강화한다.",
+  "quest_title_quest_power_up_passimian_plural": "내던숭이를 %{amount_0}회 강화한다",
   "quest_title_quest_power_up_plural": "포켓몬을 %{amount_0}회 강화한다",
   "quest_title_quest_power_up_plural_bug": "벌레타입 포켓몬을 %{amount_0}번 강화한다",
   "quest_title_quest_power_up_plural_dark": "악타입 포켓몬을 %{amount_0}번 강화한다",

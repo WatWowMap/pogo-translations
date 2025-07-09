@@ -6944,6 +6944,7 @@
   "quest_title_quest_power_up_machop_plural": "Verwende %{amount_0}-mal ein Power-up bei Machollo.",
   "quest_title_quest_power_up_max_plural": "Verwende Power-ups bei %{amount_0} Pokémon bis zu ihren maximalen WP",
   "quest_title_quest_power_up_max_singular": "Verwende Power-ups bei 1 Pokémon bis zu seinen maximalen WP",
+  "quest_title_quest_power_up_passimian_plural": "Verwende %{amount_0}-mal ein Power-up bei Quartermak.",
   "quest_title_quest_power_up_plural": "Verwende %{amount_0} Power-ups bei Pokémon.",
   "quest_title_quest_power_up_plural_bug": "Verwende %{amount_0}-mal ein Power-up bei Pokémon vom Typ Käfer.",
   "quest_title_quest_power_up_plural_dark": "Verwende %{amount_0}-mal ein Power-up bei Pokémon vom Typ Unlicht.",

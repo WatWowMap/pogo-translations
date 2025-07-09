@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "Power up Machop %{amount_0} times",
   "quest_title_quest_power_up_max_plural": "Power up %{amount_0} Pokémon to their max CP",
   "quest_title_quest_power_up_max_singular": "Power up a Pokémon to its max CP",
+  "quest_title_quest_power_up_passimian_plural": "Power up Passimian %{amount_0} times",
   "quest_title_quest_power_up_plural": "Power up Pokémon %{amount_0} times",
   "quest_title_quest_power_up_plural_bug": "Power up Bug-type Pokémon %{amount_0} times",
   "quest_title_quest_power_up_plural_dark": "Power up Dark-type Pokémon %{amount_0} times",

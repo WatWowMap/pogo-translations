@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "強化腕力%{amount_0}次",
   "quest_title_quest_power_up_max_plural": "將 %{amount_0} 隻寶可夢的CP強化至上限",
   "quest_title_quest_power_up_max_singular": "將1隻寶可夢的CP強化至上限",
+  "quest_title_quest_power_up_passimian_plural": "強化投擲猴%{amount_0}次",
   "quest_title_quest_power_up_plural": "強化寶可夢 %{amount_0} 次",
   "quest_title_quest_power_up_plural_bug": "強化蟲屬性的寶可夢%{amount_0}次",
   "quest_title_quest_power_up_plural_dark": "強化惡屬性的寶可夢%{amount_0}次",

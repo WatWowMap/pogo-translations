@@ -8216,6 +8216,7 @@
   "quest_title_quest_power_up_machop_plural": "Recharge Machoc %{amount_0} fois",
   "quest_title_quest_power_up_max_plural": "Augmente au maximum les PC de %{amount_0} Pokémon",
   "quest_title_quest_power_up_max_singular": "Augmente au maximum les PC d’un Pokémon",
+  "quest_title_quest_power_up_passimian_plural": "Recharge Quartermac %{amount_0} fois",
   "quest_title_quest_power_up_plural": "Recharge un Pokémon %{amount_0} fois",
   "quest_title_quest_power_up_plural_bug": "Recharge un Pokémon de type Insecte %{amount_0} fois",
   "quest_title_quest_power_up_plural_dark": "Recharge un Pokémon de type Ténèbres %{amount_0} fois",

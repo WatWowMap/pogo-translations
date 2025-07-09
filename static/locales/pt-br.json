@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "Fortalecer Machop %{amount_0} vezes.",
   "quest_title_quest_power_up_max_plural": "Fortalecer %{amount_0} Pokémon até o PC máximo deles.",
   "quest_title_quest_power_up_max_singular": "Fortalecer um Pokémon até o PC máximo dele.",
+  "quest_title_quest_power_up_passimian_plural": "Fortalecer Passimian %{amount_0} vezes.",
   "quest_title_quest_power_up_plural": "Fortalecer seus Pokémon %{amount_0} vezes.",
   "quest_title_quest_power_up_plural_bug": "Fortalecer Pokémon de tipo Inseto %{amount_0} vezes.",
   "quest_title_quest_power_up_plural_dark": "Fortalecer Pokémon de tipo Sombrio %{amount_0} vezes.",

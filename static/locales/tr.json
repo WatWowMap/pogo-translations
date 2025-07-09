@@ -6945,6 +6945,7 @@
   "quest_title_quest_power_up_machop_plural": "Machop’ı %{amount_0} kez güçlendirin",
   "quest_title_quest_power_up_max_plural": "%{amount_0} Pokémon'u maksimum DG'sine güçlendirin",
   "quest_title_quest_power_up_max_singular": "Bir Pokémon'u maksimum DG'sine güçlendirin",
+  "quest_title_quest_power_up_passimian_plural": "Passimian’ı %{amount_0} kez güçlendirin",
   "quest_title_quest_power_up_plural": "Pokémon'ları %{amount_0} kez güçlendirin",
   "quest_title_quest_power_up_plural_bug": "Böcek türü Pokémon’ları %{amount_0} kez güçlendirin",
   "quest_title_quest_power_up_plural_dark": "Karanlık tür Pokémon’ları %{amount_0} kez güçlendirin",
