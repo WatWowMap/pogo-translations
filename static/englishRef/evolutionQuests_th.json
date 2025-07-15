@@ -12,6 +12,5 @@
   "Defeat {{amount}} Psychic-type Pokémon": "เอาชนะโปเกมอนประเภทพลังจิต {{amount}} ตัว",
   "Use an Incense": "ใชเครื่องหอม",
   "Make {{amount}} Excellent Throws": "ทำการขวางไดสุดยอด {{amount}} ครั้ง",
-  "Win {{amount}} raids": "ชนะการตีบอส {{amount}} ครั้ง",
-  "Win a raid": "ชนะการตีบอส"
+  "Win {{amount}} raids": "ชนะการตีบอส {{amount}} ครั้ง"
 }

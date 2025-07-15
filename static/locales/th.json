@@ -7559,7 +7559,6 @@
   "quest_title_score_spin_pokestop_plural": "หมุนเสาโปเกสต็อป %{amount_0} ครั้ง",
   "quest_title_score_spin_pokestop_singular": "หมุนเสาโปเกสต็อป 1 ครั้ง",
   "quest_win_raid_plural": "ชนะการตีบอส %{amount} ครั้ง",
-  "quest_win_raid_singular": "ชนะการตีบอส",
   "raid_0": "Unset Raid",
   "raid_0_plural": "Unset Raids",
   "raid_1": "1 Star Raid",

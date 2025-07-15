@@ -8837,7 +8837,6 @@
   "quest_title_score_spin_pokestop_plural": "ポケストップ%{amount_0}個を回した",
   "quest_title_score_spin_pokestop_singular": "ポケストップ1個を回した",
   "quest_win_raid_plural": "レイドバトルで%{amount}回勝つ",
-  "quest_win_raid_singular": "レイドバトルで1回勝つ",
   "raid_0": "Unset Raid",
   "raid_0_plural": "Unset Raids",
   "raid_1": "1 Star Raid",

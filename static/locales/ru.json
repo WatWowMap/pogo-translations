@@ -9805,7 +9805,6 @@
   "quest_title_wt_evolve_kakuna": "Эволюционируй Какун: %{amount_0}",
   "quest_title_wt_evolve_weedle": "Эволюционировать Видлов: %{amount_0}",
   "quest_win_raid_plural": "Победи в %{amount} рейдах",
-  "quest_win_raid_singular": "Победи в рейде",
   "raid_0": "Unset Raid",
   "raid_0_plural": "Unset Raids",
   "raid_1": "Рейд 1 уровня",

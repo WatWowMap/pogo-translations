@@ -7559,7 +7559,6 @@
   "quest_title_score_spin_pokestop_plural": "포켓스톱을 %{amount_0}개 돌렸다",
   "quest_title_score_spin_pokestop_singular": "포켓스톱을 1개 돌렸다",
   "quest_win_raid_plural": "레이드배틀에서 %{amount}번 이긴다",
-  "quest_win_raid_singular": "레이드배틀에서 1회 이긴다",
   "raid_0": "Unset Raid",
   "raid_0_plural": "Unset Raids",
   "raid_1": "1 Star Raid",

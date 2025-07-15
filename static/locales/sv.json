@@ -7559,7 +7559,6 @@
   "quest_title_score_spin_pokestop_plural": "Spun %{amount_0} PokéStops",
   "quest_title_score_spin_pokestop_singular": "Spun 1 PokéStop",
   "quest_win_raid_plural": "Win %{amount} raids",
-  "quest_win_raid_singular": "Win a raid",
   "raid_0": "Unset Raid",
   "raid_0_plural": "Unset Raids",
   "raid_1": "1 Star Raid",
