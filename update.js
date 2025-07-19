@@ -82,6 +82,7 @@ const enRef = async (inMemory, available) => {
     moves: {},
     pokemon: {},
     pokemonCategories: {},
+    bonuses: {},
     questConditions: {},
     questRewardTypes: {},
     questTypes: {},
@@ -122,6 +123,8 @@ const enRef = async (inMemory, available) => {
         manualCategories.grunts[key] = value
       } else if (key.startsWith('character')) {
         manualCategories.characterCategories[key] = value
+      } else if (key.startsWith('spawn_')) {
+        manualCategories.bonuses[key] = value
       } else if (key.startsWith('weather')) {
         manualCategories.weather[key] = value
       } else if (key.startsWith('desc')) {
