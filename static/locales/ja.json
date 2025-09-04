@@ -7249,6 +7249,7 @@
   "quest_title_quest_catch_sinnoh_pokemon": "シンオウ地方で最初に発見されたポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_sinnoh_pokemon_singular": "シンオウ地方で最初に発見されたポケモンを捕まえる",
   "quest_title_quest_catch_snivy_tepig_oshawott": "ツタージャ、ポカブもしくはミジュマルを%{amount_0}匹捕まえる",
+  "quest_title_quest_catch_solrock_lunatone_plural": "ソルロックかルナトーンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_solrock_plural": "ソルロックを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_special_aerodactyl": "プテラを1匹捕まえる",
   "quest_title_quest_catch_special_bidoof": "ビッパを%{amount_0}匹捕まえる",

@@ -5971,6 +5971,7 @@
   "quest_title_quest_catch_sinnoh_pokemon": "Catch %{amount_0} Pokémon originally discovered in the Sinnoh region",
   "quest_title_quest_catch_sinnoh_pokemon_singular": "Catch a Pokémon originally discovered in the Sinnoh region",
   "quest_title_quest_catch_snivy_tepig_oshawott": "Catch %{amount_0} Snivy, Tepig, or Oshawott",
+  "quest_title_quest_catch_solrock_lunatone_plural": "Catch %{amount_0} Solrock or Lunatone",
   "quest_title_quest_catch_solrock_plural": "Catch %{amount_0} Solrock",
   "quest_title_quest_catch_special_aerodactyl": "Catch an Aerodactyl",
   "quest_title_quest_catch_special_bidoof": "Catch %{amount_0} Bidoof",

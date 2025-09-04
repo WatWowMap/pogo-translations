@@ -5971,6 +5971,7 @@
   "quest_title_quest_catch_sinnoh_pokemon": "Captura %{amount_0} Pokémon originalmente descubiertos en la región de Sinnoh",
   "quest_title_quest_catch_sinnoh_pokemon_singular": "Captura un Pokémon originalmente descubierto en la región de Sinnoh",
   "quest_title_quest_catch_snivy_tepig_oshawott": "Captura %{amount_0} Snivy, Tepig u Oshawott",
+  "quest_title_quest_catch_solrock_lunatone_plural": "Captura %{amount_0} Solrock o Lunatone",
   "quest_title_quest_catch_solrock_plural": "Captura %{amount_0} Solrock",
   "quest_title_quest_catch_special_aerodactyl": "Captura 1 Aerodactyl",
   "quest_title_quest_catch_special_bidoof": "Captura %{amount_0} Bidoof",
