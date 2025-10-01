@@ -5720,6 +5720,8 @@
   "quest_title_challenge_snapshot_pkmn_water_single": "Mache einen Schnappschuss von einem Pokémon vom Typ Wasser.",
   "quest_title_challenge_snapshot_wild_blitzle_singularchallenge_snapshot_wild_blitzle_singular": "Mache einen Schnappschuss von Elezeba im Freien.",
   "quest_title_challenge_snapshot_wild_glameow_singular": "Mache einen Schnappschuss von Charmian im Freien.",
+  "quest_title_dmax_battle_win_plural": "Gewinne %{amount_0} Dynamax-Kämpfe.",
+  "quest_title_dmax_battle_win_singular": "Gewinne einen Dynamax-Kampf.",
   "quest_title_geotarget_quest_description": "%{amount_0} scannen",
   "quest_title_quest_achieve_lvl_40": "Erreiche Level 40.",
   "quest_title_quest_adventure_effect_activate_plural": "Aktiviere %{amount_0}-mal einen Abenteuer-Effekt.",

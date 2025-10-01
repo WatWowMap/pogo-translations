@@ -410,6 +410,8 @@
   "quest_title_win_gmax_battle_singular": "Gewinne einen Gigadynamax-Kampf.",
   "quest_title_win_max_battle_plural": "Gewinne %{amount_0} Dyna-Kämpfe.",
   "quest_title_win_max_battle_singular": "Gewinne einen Dyna-Kampf.",
+  "quest_title_dmax_battle_win_plural": "Gewinne %{amount_0} Dynamax-Kämpfe.",
+  "quest_title_dmax_battle_win_singular": "Gewinne einen Dynamax-Kampf.",
   "alignment_1": "Crypto",
   "alignment_2": "Erlöst",
   "character_category_1": "Team Leiter",

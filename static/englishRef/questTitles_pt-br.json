@@ -78,6 +78,8 @@
   "Take a snapshot of a Water-type Pokémon": "Tirar uma foto de um Pokémon de tipo Água.",
   "Take a snapshot of Blitzle in the wild": "Tirar 1 foto de Blitzle selvagem.",
   "Take a snapshot of Glameow in the wild": "Tirar 1 foto de Glameow selvagem.",
+  "Win {{amount_0}} Dynamax Battles.": "Win {{amount_0}} Dynamax Battles.",
+  "Win a Dynamax Battle.": "Win a Dynamax Battle.",
   "Scan {{amount_0}}": "Escanear {{amount_0}}.",
   "Reach level 40": "Alcançar o nível 40.",
   "Activate an Adventure Effect {{amount_0}} times": "Ativar 1 Efeito de Aventura {{amount_0}} vezes.",
@@ -555,7 +557,7 @@
   "Evolve {{amount_0}} Deino or Zweilous": "Evoluir {{amount_0}} Deino ou Zweilous.",
   "Take {{amount_0}} snapshots of Deino": "Tirar 1 foto de {{amount_0}} Deino.",
   "Defeat Eternamax Eternatus in a Max Battle": "Derrote Eternatus Eternamax em uma Batalha Max",
-  "Win a Gigantamax Battle": "Win a Gigantamax Battle",
+  "Win a Gigantamax Battle": "Vencer 1 Batalha Gigamax.",
   "Win a one-star Dynamax Battle": "Vencer 1 Batalha Dinamax de uma estrela.",
   "Win a two- or three-star Dynamax Battle": "Vencer 1 Batalha Dinamax de duas ou três estrelas.",
   "Win a four- or five-star Dynamax Battle": "Vencer 1 Batalha Dinamax de quatro ou cinco estrelas.",
@@ -1963,7 +1965,8 @@
   "Spun 0 PokéStops": "Girou 0 fotodiscos de Poképaradas",
   "Spun {{amount_0}} PokéStops": "Girou {{amount_0}} fotodiscos de Poképaradas",
   "Spun 1 PokéStop": "Girou 1 fotodisco de Poképarada",
-  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
-  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
-  "Win a Max Battle": "Win a Max Battle"
+  "Win {{amount_0}} Gigantamax Battles.": "Win {{amount_0}} Gigantamax Battles.",
+  "Win a Gigantamax Battle.": "Win a Gigantamax Battle.",
+  "Win {{amount_0}} Max Battles.": "Win {{amount_0}} Max Battles.",
+  "Win a Max Battle.": "Win a Max Battle."
 }

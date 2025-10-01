@@ -78,6 +78,8 @@
   "Take a snapshot of a Water-type Pokémon": "Mache einen Schnappschuss von einem Pokémon vom Typ Wasser.",
   "Take a snapshot of Blitzle in the wild": "Mache einen Schnappschuss von Elezeba im Freien.",
   "Take a snapshot of Glameow in the wild": "Mache einen Schnappschuss von Charmian im Freien.",
+  "Win {{amount_0}} Dynamax Battles.": "Gewinne {{amount_0}} Dynamax-Kämpfe.",
+  "Win a Dynamax Battle.": "Gewinne einen Dynamax-Kampf.",
   "Scan {{amount_0}}": "{{amount_0}} scannen",
   "Reach level 40": "Erreiche Level 40.",
   "Activate an Adventure Effect {{amount_0}} times": "Aktiviere {{amount_0}}-mal einen Abenteuer-Effekt.",
@@ -1963,7 +1965,8 @@
   "Spun 0 PokéStops": "0 PokéStops gedreht",
   "Spun {{amount_0}} PokéStops": "{{amount_0}} PokéStops gedreht",
   "Spun 1 PokéStop": "1 PokéStop gedreht",
-  "Win {{amount_0}} Gigantamax Battles": "Gewinne {{amount_0}} Gigadynamax-Kämpfe.",
-  "Win {{amount_0}} Max Battles": "Gewinne {{amount_0}} Dyna-Kämpfe.",
-  "Win a Max Battle": "Gewinne einen Dyna-Kampf."
+  "Win {{amount_0}} Gigantamax Battles.": "Gewinne {{amount_0}} Gigadynamax-Kämpfe.",
+  "Win a Gigantamax Battle.": "Gewinne einen Gigadynamax-Kampf.",
+  "Win {{amount_0}} Max Battles.": "Gewinne {{amount_0}} Dyna-Kämpfe.",
+  "Win a Max Battle.": "Gewinne einen Dyna-Kampf."
 }
