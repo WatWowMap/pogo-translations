@@ -555,7 +555,7 @@
   "Evolve {{amount_0}} Deino or Zweilous": "{{amount_0}} Deino veya Zweilous evrimleştirin",
   "Take {{amount_0}} snapshots of Deino": "Deino’nun {{amount_0}} fotoğrafını çekin",
   "Defeat Eternamax Eternatus in a Max Battle": "Bir Maksi Maçta Eternamaks Eternatus’u alt edin",
-  "Win a Gigantamax Battle": "Bir Gigantamaks Maçı kazanın",
+  "Win a Gigantamax Battle": "Win a Gigantamax Battle",
   "Win a one-star Dynamax Battle": "Bir yıldızlı bir Dinamaks Maçı kazanın",
   "Win a two- or three-star Dynamax Battle": "İki veya üç yıldızlı bir Dinamaks Maçı kazanın",
   "Win a four- or five-star Dynamax Battle": "Dört veya beş yıldızlı bir Dinamaks Maçı kazanın",
@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "Arkadaşlarınıza 1 Hediye gönderdiniz",
   "Spun 0 PokéStops": "0 PokéDurak döndürdü",
   "Spun {{amount_0}} PokéStops": "{{amount_0}} PokéDurak döndürdü",
-  "Spun 1 PokéStop": "1 PokéDurak döndürdü"
+  "Spun 1 PokéStop": "1 PokéDurak döndürdü",
+  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
+  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
+  "Win a Max Battle": "Win a Max Battle"
 }

@@ -555,7 +555,7 @@
   "Evolve {{amount_0}} Deino or Zweilous": "วิวัฒนาการโมโนซึหรือจิเฮด {{amount_0}} ตัว",
   "Take {{amount_0}} snapshots of Deino": "ถายภาพโมโนซึ {{amount_0}} ภาพ",
   "Defeat Eternamax Eternatus in a Max Battle": "เอาชนะมุเก็นไดนา (มุเก็นไดแมกซ) ในแบตเทิลแมกซ",
-  "Win a Gigantamax Battle": "ชนะแบตเทิลกิกะแมกซ 1 ครั้ง",
+  "Win a Gigantamax Battle": "Win a Gigantamax Battle",
   "Win a one-star Dynamax Battle": "ชนะแบตเทิลไดแมกซหนึ่งดาว 1 ครั้ง",
   "Win a two- or three-star Dynamax Battle": "ชนะแบตเทิลไดแมกซสองดาวหรือสามดาว 1 ครั้ง",
   "Win a four- or five-star Dynamax Battle": "ชนะแบตเทิลไดแมกซสี่ดาวหรือหาดาว 1 ครั้ง",
@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "สงของขวัญใหเพื่อน 1 ครั้ง",
   "Spun 0 PokéStops": "หมุนเสาโปเกสต็อป 0 ครั้ง",
   "Spun {{amount_0}} PokéStops": "หมุนเสาโปเกสต็อป {{amount_0}} ครั้ง",
-  "Spun 1 PokéStop": "หมุนเสาโปเกสต็อป 1 ครั้ง"
+  "Spun 1 PokéStop": "หมุนเสาโปเกสต็อป 1 ครั้ง",
+  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
+  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
+  "Win a Max Battle": "Win a Max Battle"
 }

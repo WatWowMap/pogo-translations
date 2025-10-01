@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "Sent 1 Gift to a friend",
   "Spun 0 PokéStops": "Spun 0 PokéStops",
   "Spun {{amount_0}} PokéStops": "Spun {{amount_0}} PokéStops",
-  "Spun 1 PokéStop": "Spun 1 PokéStop"
+  "Spun 1 PokéStop": "Spun 1 PokéStop",
+  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
+  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
+  "Win a Max Battle": "Win a Max Battle"
 }

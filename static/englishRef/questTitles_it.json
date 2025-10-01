@@ -555,7 +555,7 @@
   "Evolve {{amount_0}} Deino or Zweilous": "Fai evolvere {{amount_0}} Deino o Zweilous",
   "Take {{amount_0}} snapshots of Deino": "Fai {{amount_0}} foto a Deino",
   "Defeat Eternamax Eternatus in a Max Battle": "Sconfiggi Eternatus nella sua forma Dynamax Infinito in una Lotta Dynamax",
-  "Win a Gigantamax Battle": "Vinci una Lotta G-Max",
+  "Win a Gigantamax Battle": "Win a Gigantamax Battle",
   "Win a one-star Dynamax Battle": "Vinci una Lotta D-Max di livello uno",
   "Win a two- or three-star Dynamax Battle": "Vinci una Lotta D-Max di livello due o tre",
   "Win a four- or five-star Dynamax Battle": "Vinci una Lotta D-Max di livello quattro o cinque",
@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "Pacchi amicizia inviati: 1",
   "Spun 0 PokéStops": "Hai fatto girare 0 Pokéstop",
   "Spun {{amount_0}} PokéStops": "Hai fatto girare {{amount_0}} Pokéstop",
-  "Spun 1 PokéStop": "Hai fatto girare 1 Pokéstop"
+  "Spun 1 PokéStop": "Hai fatto girare 1 Pokéstop",
+  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
+  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
+  "Win a Max Battle": "Win a Max Battle"
 }

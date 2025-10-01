@@ -555,7 +555,7 @@
   "Evolve {{amount_0}} Deino or Zweilous": "Evolusikan {{amount_0}} Deino atau Zweilous",
   "Take {{amount_0}} snapshots of Deino": "Ambil {{amount_0}} foto Deino",
   "Defeat Eternamax Eternatus in a Max Battle": "Kalahkan Eternatus Eternamax di Pertarungan Max",
-  "Win a Gigantamax Battle": "Menangkan Pertarungan Gigantamax",
+  "Win a Gigantamax Battle": "Win a Gigantamax Battle",
   "Win a one-star Dynamax Battle": "Menangkan Pertarungan Dynamax bintang satu",
   "Win a two- or three-star Dynamax Battle": "Menangkan Pertarungan Dynamax bintang dua atau tiga",
   "Win a four- or five-star Dynamax Battle": "Menangkan Pertarungan Dynamax bintang empat atau lima",
@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "Mengirimkan 1 Hadiah ke teman",
   "Spun 0 PokéStops": "Putar 0 PokéStop",
   "Spun {{amount_0}} PokéStops": "Putar {{amount_0}} PokéStop",
-  "Spun 1 PokéStop": "Putar 1 PokéStop"
+  "Spun 1 PokéStop": "Putar 1 PokéStop",
+  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
+  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
+  "Win a Max Battle": "Win a Max Battle"
 }

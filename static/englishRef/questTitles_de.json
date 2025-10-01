@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "1 Geschenk an einen Freund verschickt",
   "Spun 0 PokéStops": "0 PokéStops gedreht",
   "Spun {{amount_0}} PokéStops": "{{amount_0}} PokéStops gedreht",
-  "Spun 1 PokéStop": "1 PokéStop gedreht"
+  "Spun 1 PokéStop": "1 PokéStop gedreht",
+  "Win {{amount_0}} Gigantamax Battles": "Gewinne {{amount_0}} Gigadynamax-Kämpfe.",
+  "Win {{amount_0}} Max Battles": "Gewinne {{amount_0}} Dyna-Kämpfe.",
+  "Win a Max Battle": "Gewinne einen Dyna-Kampf."
 }

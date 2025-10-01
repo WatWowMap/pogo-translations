@@ -555,7 +555,7 @@
   "Evolve {{amount_0}} Deino or Zweilous": "모노두 또는 디헤드를 {{amount_0}}마리 진화시킨다",
   "Take {{amount_0}} snapshots of Deino": "모노두 GO스냅샷 사진을 {{amount_0}}장 찍는다",
   "Defeat Eternamax Eternatus in a Max Battle": "맥스배틀에서 무한다이노(무한다이맥스)를 쓰러뜨린다",
-  "Win a Gigantamax Battle": "거다이맥스 배틀에서 1회 이긴다",
+  "Win a Gigantamax Battle": "Win a Gigantamax Battle",
   "Win a one-star Dynamax Battle": "별1 다이맥스 배틀에서 1회 이긴다",
   "Win a two- or three-star Dynamax Battle": "별2 또는 별3 다이맥스 배틀에서 1회 이긴다",
   "Win a four- or five-star Dynamax Battle": "별4 또는 별5 다이맥스 배틀에서 1회 이긴다",
@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "프렌드에게 선물을 1개 보냈다",
   "Spun 0 PokéStops": "포켓스톱을 0개 돌렸다",
   "Spun {{amount_0}} PokéStops": "포켓스톱을 {{amount_0}}개 돌렸다",
-  "Spun 1 PokéStop": "포켓스톱을 1개 돌렸다"
+  "Spun 1 PokéStop": "포켓스톱을 1개 돌렸다",
+  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
+  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
+  "Win a Max Battle": "Win a Max Battle"
 }

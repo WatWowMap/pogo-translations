@@ -555,7 +555,7 @@
   "Evolve {{amount_0}} Deino or Zweilous": "モノズかジヘッドを{{amount_0}}匹進化させる",
   "Take {{amount_0}} snapshots of Deino": "モノズのGOスナップショット写真を{{amount_0}}枚撮る",
   "Defeat Eternamax Eternatus in a Max Battle": "マックスバトルでムゲンダイナ（ムゲンダイマックス）を倒す",
-  "Win a Gigantamax Battle": "キョダイマックスバトルで1回勝つ",
+  "Win a Gigantamax Battle": "Win a Gigantamax Battle",
   "Win a one-star Dynamax Battle": "1つ星ダイマックスバトルで1回勝つ",
   "Win a two- or three-star Dynamax Battle": "2つ星か3つ星ダイマックスバトルで1回勝つ",
   "Win a four- or five-star Dynamax Battle": "4つ星か5つ星ダイマックスバトルで1回勝つ",
@@ -1962,5 +1962,8 @@
   "Sent 1 Gift to a friend": "フレンドにギフトを1個贈った！",
   "Spun 0 PokéStops": "ポケストップ0個を回した",
   "Spun {{amount_0}} PokéStops": "ポケストップ{{amount_0}}個を回した",
-  "Spun 1 PokéStop": "ポケストップ1個を回した"
+  "Spun 1 PokéStop": "ポケストップ1個を回した",
+  "Win {{amount_0}} Gigantamax Battles": "Win {{amount_0}} Gigantamax Battles",
+  "Win {{amount_0}} Max Battles": "Win {{amount_0}} Max Battles",
+  "Win a Max Battle": "Win a Max Battle"
 }
