@@ -56,8 +56,8 @@
   "Timed Incubator": "Временный Инкубатор",
   "Incubator Special": "Incubator Special",
   "Pokémon Storage": "Хранилище Покемонов",
-  "Item Bag": "Рюкзак для предметов",
-  "Postcard Pages": "Страницы для открыток",
+  "Item Bag": "Рюкзак для Предметов",
+  "Postcard Pages": "Страницы для Открыток",
   "Sun Stone": "Солнечный камень",
   "King's Rock": "Королевский камень",
   "Metal Coat": "Металлопокрытие",
@@ -121,8 +121,5 @@
   "Event Ticket 10 To Gift": "Event Ticket 10 To Gift",
   "Pass Points": "Pass Points",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Pokemon Storage Upgrade Earned": "Pokemon Storage Upgrade Earned",
-  "Item Storage Upgrade Earned": "Item Storage Upgrade Earned",
-  "Postcard Storage Upgrade Earned": "Postcard Storage Upgrade Earned",
-  "Giftbox Storage Upgrade Earned": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "Хранилище Подарков"
 }

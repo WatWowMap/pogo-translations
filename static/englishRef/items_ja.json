@@ -55,8 +55,8 @@
   "Super Incubator": "スーパーふかそうち",
   "Timed Incubator": "ジゲンふかそうち",
   "Incubator Special": "Incubator Special",
-  "Pokémon Storage": "ポケモンボックス アップグレード",
-  "Item Bag": "バッグ アップグレード",
+  "Pokémon Storage": "ポケモンボックス",
+  "Item Bag": "道具バッグ",
   "Postcard Pages": "ポストカードのページ",
   "Sun Stone": "たいようのいし",
   "King's Rock": "おうじゃのしるし",
@@ -121,8 +121,5 @@
   "Event Ticket 10 To Gift": "Event Ticket 10 To Gift",
   "Pass Points": "Pass Points",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Pokemon Storage Upgrade Earned": "Pokemon Storage Upgrade Earned",
-  "Item Storage Upgrade Earned": "Item Storage Upgrade Earned",
-  "Postcard Storage Upgrade Earned": "Postcard Storage Upgrade Earned",
-  "Giftbox Storage Upgrade Earned": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "ギフトの保管スペース"
 }

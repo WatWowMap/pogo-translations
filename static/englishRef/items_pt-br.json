@@ -57,7 +57,7 @@
   "Incubator Special": "Incubator Special",
   "Pokémon Storage": "Estoque de Pokémon",
   "Item Bag": "Bolsa",
-  "Postcard Pages": "Páginas de Cartões-postais",
+  "Postcard Pages": "Página de Cartões-postais",
   "Sun Stone": "Pedra Solar",
   "King's Rock": "Pedra do Rei",
   "Metal Coat": "Revestimento Metálico",
@@ -121,8 +121,5 @@
   "Event Ticket 10 To Gift": "Event Ticket 10 To Gift",
   "Pass Points": "Pass Points",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Pokemon Storage Upgrade Earned": "Pokemon Storage Upgrade Earned",
-  "Item Storage Upgrade Earned": "Item Storage Upgrade Earned",
-  "Postcard Storage Upgrade Earned": "Postcard Storage Upgrade Earned",
-  "Giftbox Storage Upgrade Earned": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "Estoque de Presentes"
 }

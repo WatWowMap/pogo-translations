@@ -56,7 +56,7 @@
   "Timed Incubator": "Incubatrice a tempo",
   "Incubator Special": "Incubator Special",
   "Pokémon Storage": "Spazio Pokémon",
-  "Item Bag": "Spazio Borsa",
+  "Item Bag": "Spazio borsa",
   "Postcard Pages": "Pagine per le cartoline",
   "Sun Stone": "Pietrasolare",
   "King's Rock": "Roccia di Re",
@@ -121,8 +121,5 @@
   "Event Ticket 10 To Gift": "Event Ticket 10 To Gift",
   "Pass Points": "Pass Points",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Pokemon Storage Upgrade Earned": "Pokemon Storage Upgrade Earned",
-  "Item Storage Upgrade Earned": "Item Storage Upgrade Earned",
-  "Postcard Storage Upgrade Earned": "Postcard Storage Upgrade Earned",
-  "Giftbox Storage Upgrade Earned": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "Spazio pacchi amicizia"
 }

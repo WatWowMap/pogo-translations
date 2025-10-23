@@ -55,8 +55,8 @@
   "Super Incubator": "슈퍼 부화장치",
   "Timed Incubator": "시간제한 부화장치",
   "Incubator Special": "Incubator Special",
-  "Pokémon Storage": "포켓몬 박스 업그레이드",
-  "Item Bag": "가방 업그레이드",
+  "Pokémon Storage": "포켓몬 박스",
+  "Item Bag": "도구 가방",
   "Postcard Pages": "엽서 페이지",
   "Sun Stone": "태양의돌",
   "King's Rock": "왕의징표석",
@@ -121,8 +121,5 @@
   "Event Ticket 10 To Gift": "Event Ticket 10 To Gift",
   "Pass Points": "Pass Points",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Pokemon Storage Upgrade Earned": "Pokemon Storage Upgrade Earned",
-  "Item Storage Upgrade Earned": "Item Storage Upgrade Earned",
-  "Postcard Storage Upgrade Earned": "Postcard Storage Upgrade Earned",
-  "Giftbox Storage Upgrade Earned": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "선물 보관 공간"
 }
