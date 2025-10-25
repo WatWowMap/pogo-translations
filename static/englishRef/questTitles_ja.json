@@ -1,6 +1,6 @@
 {
   "One additional Candy for completing Max Battles": "マックスバトルでもらえるアメ1個追加",
-  "One additional Candy for completing Raid Battles": "One additional Candy for completing Raid Battles",
+  "One additional Candy from raids": "レイドでもらえるアメ1個追加",
   "One additional Candy XL for completing Max Battles": "マックスバトルでもらえるアメXL1個追加",
   "One additional Candy XL for completing Raid Battles": "レイドバトルでもらえるアメXL1個追加",
   "Would you like to exchange PokéCoins for the item in your cart?": "カート内のアイテムをポケコインと引き換えますか？",
@@ -475,7 +475,7 @@
   "Catch {{amount_0}} Golett": "ゴビットを{{amount_0}}匹捕まえる",
   "Catch {{amount_0}} Fire-, Grass-, or Ground-type Pokémon": "ほのお、くさ、じめん、いずれかのタイプのポケモンを{{amount_0}}匹捕まえる",
   "Catch {{amount_0}} Pokémon originally discovered in the Hoenn region": "ホウエン地方で最初に発見されたポケモンを{{amount_0}}匹捕まえる",
-  "Catch an Impidimp": "Catch an Impidimp",
+  "Catch an Impidimp": "ベロバーを捕まえる",
   "Catch {{amount_0}} Pokémon in a single day": "1日にポケモンを{{amount_0}}匹捕まえる",
   "Catch {{amount_0}} Groudon": "グラードンを{{amount_0}}匹捕まえる",
   "Catch {{amount_0}} Kyogre": "カイオーガを{{amount_0}}匹捕まえる",
