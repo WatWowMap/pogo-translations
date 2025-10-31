@@ -55,9 +55,9 @@
   "Super Incubator": "Superincubatrice",
   "Timed Incubator": "Incubatrice a tempo",
   "Incubator Special": "Incubator Special",
-  "Pokémon Storage": "Pokemon Storage Upgrade Earned",
-  "Item Bag": "Item Storage Upgrade Earned",
-  "Postcard Pages": "Postcard Storage Upgrade Earned",
+  "Pokémon Storage": "Spazio Pokémon",
+  "Item Bag": "Spazio borsa",
+  "Postcard Pages": "Pagine per le cartoline",
   "Sun Stone": "Pietrasolare",
   "King's Rock": "Roccia di Re",
   "Metal Coat": "Metalcoperta",
@@ -129,5 +129,5 @@
   "Event Pass Point Monthly 03": "Event Pass Point Monthly 03",
   "Event Pass Point Monthly 04": "Event Pass Point Monthly 04",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Gift Storage": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "Spazio pacchi amicizia"
 }
