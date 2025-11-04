@@ -6480,6 +6480,7 @@
   "quest_title_quest_catch_petilil_plural": "Tangkap %{amount_0} Petilil",
   "quest_title_quest_catch_pidove_plural": "Tangkap %{amount_0} Pidove",
   "quest_title_quest_catch_pikachu_plural": "Tangkap %{amount_0} Pikachu",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "Tangkap %{amount_0} spesies Pokémon yang berbeda",
   "quest_title_quest_catch_pokemon_dai_plural": "Gunakan Pewangi Harian untuk menangkap %{amount_0} Pokémon",
   "quest_title_quest_catch_pokemon_days": "Tangkap Pokémon selama %{amount_0} hari berbeda",

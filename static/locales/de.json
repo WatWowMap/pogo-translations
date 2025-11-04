@@ -6479,6 +6479,7 @@
   "quest_title_quest_catch_petilil_plural": "Fange %{amount_0} Lilminip.",
   "quest_title_quest_catch_pidove_plural": "Fange %{amount_0} Dusselgurr.",
   "quest_title_quest_catch_pikachu_plural": "Fange %{amount_0} Pikachu.",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "Fange %{amount_0} verschiedene Arten von Pokémon.",
   "quest_title_quest_catch_pokemon_dai_plural": "Verwende den Täglichen Abenteuerrauch, um %{amount_0} Pokémon zu fangen.",
   "quest_title_quest_catch_pokemon_days": "Fange an %{amount_0} verschiedenen Tagen ein Pokémon.",

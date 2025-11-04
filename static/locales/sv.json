@@ -6480,6 +6480,7 @@
   "quest_title_quest_catch_petilil_plural": "Catch %{amount_0} Petilil",
   "quest_title_quest_catch_pidove_plural": "Catch %{amount_0} Pidove",
   "quest_title_quest_catch_pikachu_plural": "Catch %{amount_0} Pikachu",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "Catch %{amount_0} different species of Pokémon",
   "quest_title_quest_catch_pokemon_dai_plural": "Use Daily Adventure Incense to help catch %{amount_0} Pokémon",
   "quest_title_quest_catch_pokemon_days": "Catch a Pokémon on %{amount_0} different days",

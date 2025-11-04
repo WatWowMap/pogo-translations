@@ -6480,6 +6480,7 @@
   "quest_title_quest_catch_petilil_plural": "%{amount_0} Petilil yakalayın",
   "quest_title_quest_catch_pidove_plural": "%{amount_0} Pidove yakalayın",
   "quest_title_quest_catch_pikachu_plural": "%{amount_0} Pikachu yakalayın",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "Farklı türden %{amount_0} Pokémon yakalayın",
   "quest_title_quest_catch_pokemon_dai_plural": "Günlük Macera Tütsüsü kullanırken %{amount_0} Pokémon yakalayın",
   "quest_title_quest_catch_pokemon_days": "%{amount_0} farklı gün bir Pokémon yakalayın",

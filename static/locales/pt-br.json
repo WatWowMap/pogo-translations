@@ -6480,6 +6480,7 @@
   "quest_title_quest_catch_petilil_plural": "Pegar %{amount_0} Petilil.",
   "quest_title_quest_catch_pidove_plural": "Pegar %{amount_0} Pidove.",
   "quest_title_quest_catch_pikachu_plural": "Pegar %{amount_0} Pikachu.",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "Pegar %{amount_0} espécies diferentes de Pokémon.",
   "quest_title_quest_catch_pokemon_dai_plural": "Usar Incenso de Aventura Diário para ajudar a pegar %{amount_0} Pokémon.",
   "quest_title_quest_catch_pokemon_days": "Pegar 1 Pokémon em %{amount_0} dias diferentes.",

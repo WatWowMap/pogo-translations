@@ -6480,6 +6480,7 @@
   "quest_title_quest_catch_petilil_plural": "Cattura %{amount_0} Petilil",
   "quest_title_quest_catch_pidove_plural": "Cattura %{amount_0} Pidove",
   "quest_title_quest_catch_pikachu_plural": "Cattura %{amount_0} Pikachu",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "Cattura %{amount_0} specie diverse di Pokémon",
   "quest_title_quest_catch_pokemon_dai_plural": "Usa degli aromi avventura giornaliera per catturare %{amount_0} Pokémon",
   "quest_title_quest_catch_pokemon_days": "Cattura un Pokémon in %{amount_0} giorni diversi",

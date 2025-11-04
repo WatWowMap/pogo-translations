@@ -6480,6 +6480,7 @@
   "quest_title_quest_catch_petilil_plural": "치릴리를 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_pidove_plural": "콩둘기를 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_pikachu_plural": "피카츄를 %{amount_0}마리 잡는다",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "포켓몬을 %{amount_0}종류 잡는다",
   "quest_title_quest_catch_pokemon_dai_plural": "산책향로로 이끌려 온 포켓몬을 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_pokemon_days": "포켓몬을 %{amount_0}일 잡는다",

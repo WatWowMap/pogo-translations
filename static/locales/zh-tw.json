@@ -6480,6 +6480,7 @@
   "quest_title_quest_catch_petilil_plural": "捕捉%{amount_0}隻百合根娃娃",
   "quest_title_quest_catch_pidove_plural": "捕捉%{amount_0}隻豆豆鴿",
   "quest_title_quest_catch_pikachu_plural": "捕捉 %{amount_0} 隻皮卡丘",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "捕捉 %{amount_0} 種不同的寶可夢",
   "quest_title_quest_catch_pokemon_dai_plural": "捕捉 %{amount_0} 隻用散步小薰香吸引來的寶可夢",
   "quest_title_quest_catch_pokemon_days": "捕捉寶可夢%{amount_0}天",

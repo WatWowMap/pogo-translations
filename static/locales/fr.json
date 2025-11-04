@@ -7751,6 +7751,7 @@
   "quest_title_quest_catch_petilil_plural": "Attrape %{amount_0} Chlorobule",
   "quest_title_quest_catch_pidove_plural": "Attrape %{amount_0} Poichigeon",
   "quest_title_quest_catch_pikachu_plural": "Attrape %{amount_0} Pikachu.",
+  "quest_title_quest_catch_pikachu_singular": "Catch a Pikachu",
   "quest_title_quest_catch_plural_unique": "Attrape %{amount_0} espèces différentes de Pokémon",
   "quest_title_quest_catch_pokemon_dai_plural": "Utilise des Encens d’aventure quotidienne pour attraper %{amount_0} Pokémon",
   "quest_title_quest_catch_pokemon_days": "Attrape un Pokémon pendant %{amount_0} jours différents",
