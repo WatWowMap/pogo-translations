@@ -2115,6 +2115,7 @@
   "Invite sent!": "已送出邀請！",
   "Invite Friend": "邀請朋友",
   "Earn 1 friendship point together to unlock a Remote Trade.": "獲得1朋友點數來解鎖遠距交換",
+  "{{amount_0}} requested this Pokémon:": "{{amount_0}} requested this Pokémon:",
   "You can trade this Pokémon remotely in {{amount_0}} days. This Pokémon will keep the Remote Trade tag.": "這隻寶可夢{{amount_0}}天後可以開放遠距交換。（標籤會保持附加狀態）",
   "You already reported this Route for this type of issue. You can report it again in 1 day.": "已使用相同理由檢舉此路線。如需再次檢舉，請於1天後再次操作。",
   "You explored this Route{{amount_0}} times!": "你探索了{{amount_0}}次這個路線！",

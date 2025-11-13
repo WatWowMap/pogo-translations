@@ -8161,6 +8161,7 @@
   "quest_title_remote_bread_battle_invite_sent_confirmation_singular": "已送出邀請！",
   "quest_title_remote_raid_friends_list_button_singular": "邀請朋友",
   "quest_title_remote_trade_locked_singular": "獲得1朋友點數來解鎖遠距交換",
+  "quest_title_remote_trade_receive_request_pokemon_header_singular": "%{amount_0} requested this Pokémon:",
   "quest_title_remote_trade_time_locked_message_singular": "這隻寶可夢%{amount_0}天後可以開放遠距交換。（標籤會保持附加狀態）",
   "quest_title_report_route_error_issue_type_max_singular": "已使用相同理由檢舉此路線。如需再次檢舉，請於1天後再次操作。",
   "quest_title_route_completion_explored_count_plural": "你探索了%{amount_0}次這個路線！",

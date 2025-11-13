@@ -2115,6 +2115,7 @@
   "Invite sent!": "招待を送りました！",
   "Invite Friend": "フレンド招待",
   "Earn 1 friendship point together to unlock a Remote Trade.": "1フレンドポイント獲得でリモート交換をアンロック",
+  "{{amount_0}} requested this Pokémon:": "{{amount_0}} requested this Pokémon:",
   "You can trade this Pokémon remotely in {{amount_0}} days. This Pokémon will keep the Remote Trade tag.": "このポケモンは{{amount_0}}日後にリモート交換に出すことが可能になります。（タグは付いた状態）",
   "You already reported this Route for this type of issue. You can report it again in 1 day.": "同じ理由でこのルートを報告しています。再報告する場合は、1日後に行ってください。",
   "You explored this Route{{amount_0}} times!": "このルートを{{amount_0}}回歩きました！",

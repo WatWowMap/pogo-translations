@@ -2115,6 +2115,7 @@
   "Invite sent!": "Einladungen gesendet!",
   "Invite Friend": "Freund einladen",
   "Earn 1 friendship point together to unlock a Remote Trade.": "Verdient gemeinsam 1 Freundschaftspunkt, um einen Fern-Tausch freizuschalten.",
+  "{{amount_0}} requested this Pokémon:": "{{amount_0}} requested this Pokémon:",
   "You can trade this Pokémon remotely in {{amount_0}} days. This Pokémon will keep the Remote Trade tag.": "Der Fern-Tausch dieses Pokémon ist in {{amount_0}} Tagen möglich. Dieses Pokémon behält sein Fern-Tausch-Tag.",
   "You already reported this Route for this type of issue. You can report it again in 1 day.": "Du hast diese Route bereits für diese Art von Problem gemeldet. Du kannst sie in einem Tag erneut melden.",
   "You explored this Route{{amount_0}} times!": "Du hast diese Route{{amount_0}}-mal erkundet!",

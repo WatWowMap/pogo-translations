@@ -8161,6 +8161,7 @@
   "quest_title_remote_bread_battle_invite_sent_confirmation_singular": "Invito spedito!",
   "quest_title_remote_raid_friends_list_button_singular": "Invita un amico",
   "quest_title_remote_trade_locked_singular": "Ottieni un punto amicizia insieme per sbloccare uno scambio da remoto.",
+  "quest_title_remote_trade_receive_request_pokemon_header_singular": "%{amount_0} requested this Pokémon:",
   "quest_title_remote_trade_time_locked_message_singular": "Puoi scambiare da remoto questo Pokémon tra %{amount_0} giorni. Questo Pokémon manterrà l’etichetta per scambio da remoto.",
   "quest_title_report_route_error_issue_type_max_singular": "Hai già segnalato questo percorso per questo tipo di problema. Lo puoi rifare tra un giorno.",
   "quest_title_route_completion_explored_count_plural": "Hai esplorato questo percorso%{amount_0} volte!",

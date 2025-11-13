@@ -2115,6 +2115,7 @@
   "Invite sent!": "Invite sent!",
   "Invite Friend": "Invite Friend",
   "Earn 1 friendship point together to unlock a Remote Trade.": "Earn 1 friendship point together to unlock a Remote Trade.",
+  "{{amount_0}} requested this Pokémon:": "{{amount_0}} requested this Pokémon:",
   "You can trade this Pokémon remotely in {{amount_0}} days. This Pokémon will keep the Remote Trade tag.": "You can trade this Pokémon remotely in {{amount_0}} days. This Pokémon will keep the Remote Trade tag.",
   "You already reported this Route for this type of issue. You can report it again in 1 day.": "You already reported this Route for this type of issue. You can report it again in 1 day.",
   "You explored this Route{{amount_0}} times!": "You explored this Route{{amount_0}} times!",

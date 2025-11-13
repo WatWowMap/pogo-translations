@@ -2115,6 +2115,7 @@
   "Invite sent!": "Приглашение отправлено!",
   "Invite Friend": "Пригласи друга",
   "Earn 1 friendship point together to unlock a Remote Trade.": "Чтобы получить доступ к Удалённому Обмену, заработайте очки дружбы (1) вместе.",
+  "{{amount_0}} requested this Pokémon:": "{{amount_0}} requested this Pokémon:",
   "You can trade this Pokémon remotely in {{amount_0}} days. This Pokémon will keep the Remote Trade tag.": "Ты сможешь обменять этого Покемона удалённо через {{amount_0}} д. У этого Покемона останется тег Удалённого Обмена.",
   "You already reported this Route for this type of issue. You can report it again in 1 day.": "Твоя жалоба по поводу этой проблемы уже была отправлена. Ты можешь снова пожаловаться на этот маршрут через 1 день.",
   "You explored this Route{{amount_0}} times!": "Количество прохождений этого маршрута: {{amount_0}}!",
