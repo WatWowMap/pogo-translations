@@ -55,9 +55,9 @@
   "Super Incubator": "Mesin Penetas Super",
   "Timed Incubator": "Mesin Penetas Berwaktu",
   "Incubator Special": "Incubator Special",
-  "Pokémon Storage": "Pokemon Storage Upgrade Earned",
-  "Item Bag": "Item Storage Upgrade Earned",
-  "Postcard Pages": "Postcard Storage Upgrade Earned",
+  "Pokémon Storage": "Penyimpanan Pokémon",
+  "Item Bag": "Tas Item",
+  "Postcard Pages": "Halaman Kartu Pos",
   "Sun Stone": "Batu Mentari",
   "King's Rock": "Simbol Penguasa",
   "Metal Coat": "Metal Coat",
@@ -129,5 +129,5 @@
   "Event Pass Point Monthly 03": "Event Pass Point Monthly 03",
   "Event Pass Point Monthly 04": "Event Pass Point Monthly 04",
   "Giftbox Storage Upgrade": "Giftbox Storage Upgrade",
-  "Gift Storage": "Giftbox Storage Upgrade Earned"
+  "Gift Storage": "Penyimpanan Hadiah"
 }
