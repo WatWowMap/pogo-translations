@@ -2218,7 +2218,7 @@
   "A friend has already met their daily limit of Remote Max Battles and Remote Raids. You can invite another friend!": "Seorang teman telah mencapai batas harian partisipasi Pertarungan Max Jarak Jauh dan Raid Jarak Jauh. Kamu dapat mengundang Teman yang lain.",
   "You’ve created {{amount_0}} Purified Gems!": "{{amount_0}} Permata Purifikasi terbentuk!",
   "Your {{amount_0}} are fully upgraded!": "{{amount_0}}-mu telah ditingkatkan sepenuhnya!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!": "{{amount_0}}-mu telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan dengan naik level!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Pelajari lebih lanjut tentang naik level di sini.</a>",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}}-mu telah ditingkatkan sepenuhnya! Dapatkan lebih banyak penyimpanan dengan naik level!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Pelajari lebih lanjut tentang naik level di sini.</a>",
   "{{amount_0}} going": "{{amount_0}} ikut",
   "You have {{amount_0}} Special Trades remaining.": "Kamu punya sisa {{amount_0}} Pertukaran Spesial.",
   "Up to {{amount_0}} Special Trades per day.": "Hingga {{amount_0}} Pertukaran Spesial per hari.",

@@ -2218,7 +2218,7 @@
   "A friend has already met their daily limit of Remote Max Battles and Remote Raids. You can invite another friend!": "Uno dei tuoi amici ha già raggiunto il limite giornaliero di Lotte Dynamax da remoto e raid da remoto. Puoi invitare un altro amico!",
   "You’ve created {{amount_0}} Purified Gems!": "Hai creato {{amount_0}} gemme purificate!",
   "Your {{amount_0}} are fully upgraded!": "{{amount_0}} già ampliate al massimo!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!": "{{amount_0}} già ampliate al massimo! Ottieni più spazio salendo di livello!",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}} già ampliate al massimo! Ottieni più spazio salendo di livello!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Scopri di più sugli aumenti di livello qui.</a>",
   "{{amount_0}} going": "{{amount_0}} Partecipanti: {{amount_0}}",
   "You have {{amount_0}} Special Trades remaining.": "Ti rimangono {{amount_0}} scambi speciali.",
   "Up to {{amount_0}} Special Trades per day.": "Fino a {{amount_0}} scambi speciali al giorno.",

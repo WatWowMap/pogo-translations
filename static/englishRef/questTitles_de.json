@@ -2218,7 +2218,7 @@
   "A friend has already met their daily limit of Remote Max Battles and Remote Raids. You can invite another friend!": "Ein Freund hat sein tägliches Limit an Fern-Dyna-Kämpfen und Fern-Raids bereits erreicht. Du kannst einen anderen Freund einladen!",
   "You’ve created {{amount_0}} Purified Gems!": "Du hast {{amount_0}} Erlöste Edelsteine erschaffen!",
   "Your {{amount_0}} are fully upgraded!": "{{amount_0}}-Aufbewahrung vollständig verbessert!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!": "Deine {{amount_0}}-Aufbewahrung ist vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Learn more about leveling up here.</a>": "Deine {{amount_0}}-Aufbewahrung ist vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!<a href=”https://niantic.helpshift.com/hc/de/6-pokemon-go/faq/3049-available-items-your-bag/”>Hier erfährst du mehr über das Aufleveln.</a>",
   "{{amount_0}} going": "{{amount_0}} kommen",
   "You have {{amount_0}} Special Trades remaining.": "Du hast {{amount_0}} verbleibende Spezial-Tausche.",
   "Up to {{amount_0}} Special Trades per day.": "Bis zu {{amount_0}} Spezial-Tausche pro Tag",

@@ -2218,7 +2218,7 @@
   "A friend has already met their daily limit of Remote Max Battles and Remote Raids. You can invite another friend!": "Bir arkadaşınız günlük uzak Maksi Maç ve uzak akın sınırına ulaşmış. Başka bir arkadaş davet edebilirsiniz!",
   "You’ve created {{amount_0}} Purified Gems!": "{{amount_0}} Arınmış Cevher oluşturdunuz!",
   "Your {{amount_0}} are fully upgraded!": "{{amount_0}} tamamen geliştirildi!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!": "{{amount_0}} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!<a href=”https://niantic.helpshift.com/hc/tr/6-pokemon-go/faq/3049-available-items-your-bag/”>Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>",
   "{{amount_0}} going": "{{amount_0}} katılacak",
   "You have {{amount_0}} Special Trades remaining.": "{{amount_0}} adet özel takas kaldı.",
   "Up to {{amount_0}} Special Trades per day.": "Her gün {{amount_0}} adede kadar özel takas fırsatı.",

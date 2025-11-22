@@ -2218,7 +2218,7 @@
   "A friend has already met their daily limit of Remote Max Battles and Remote Raids. You can invite another friend!": "एक दोत क रमोट मैस बैटल और रमोट रड क दैनक सीमा पहल ही पूर हो गई है। आप कसी और दोत को आमंित कर सकते हैं!",
   "You’ve created {{amount_0}} Purified Gems!": "आपने {{amount_0}} लाइट जेम बनाए हैं!",
   "Your {{amount_0}} are fully upgraded!": "आपक {{amount_0}} पूर अपेड हो चुक हैं!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!": "आपक {{amount_0}} पूर अपेड हो चुक हैं। लवल अप कर अधक टोरज पाएँ।<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>लवल अप करने क बार में यहाँ से जानें।</a>",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Learn more about leveling up here.</a>": "आपक {{amount_0}} पूर अपेड हो चुक हैं। लवल अप कर अधक टोरज पाएँ।<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>लवल अप करने क बार में यहाँ से जानें।</a>",
   "{{amount_0}} going": "{{amount_0}} जायेंगे",
   "You have {{amount_0}} Special Trades remaining.": "आपक पास {{amount_0}} पेशल टड बचे हैं।",
   "Up to {{amount_0}} Special Trades per day.": "हर दन अधकतम {{amount_0}} पेशल टड",

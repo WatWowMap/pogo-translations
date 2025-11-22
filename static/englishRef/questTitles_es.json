@@ -2218,7 +2218,7 @@
   "A friend has already met their daily limit of Remote Max Battles and Remote Raids. You can invite another friend!": "Una de tus amistades ha alcanzado el límite diario de Combates Max remotos e incursiones remotas. ¡Puedes invitar a otra persona!",
   "You’ve created {{amount_0}} Purified Gems!": "¡Has creado {{amount_0}} Gemas Purificadas!",
   "Your {{amount_0}} are fully upgraded!": "¡Tus {{amount_0}} se han mejorado al máximo!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!": "¡Tus {{amount_0}} se han mejorado al máximo! ¡Consigue más almacenamiento subiendo de nivel!",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Learn more about leveling up here.</a>": "¡Tus {{amount_0}} se han mejorado al máximo! ¡Consigue más almacenamiento subiendo de nivel!<a href=”https://niantic.helpshift.com/hc/es/6-pokemon-go/faq/3049-available-items-your-bag/”>Obtén más información sobre cómo subir de nivel aquí.</a>",
   "{{amount_0}} going": "Asistentes: {{amount_0}}",
   "You have {{amount_0}} Special Trades remaining.": "Te quedan {{amount_0}} intercambios especiales.",
   "Up to {{amount_0}} Special Trades per day.": "Hasta {{amount_0}} intercambios especiales al día.",

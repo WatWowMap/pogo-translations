@@ -2218,7 +2218,7 @@
   "A friend has already met their daily limit of Remote Max Battles and Remote Raids. You can invite another friend!": "1 位朋友已達到本日遠距極巨對戰和遠距團體戰參戰次數上限。請試著邀請其他朋友！",
   "You’ve created {{amount_0}} Purified Gems!": "你製造出了{{amount_0}}個淨化結晶！",
   "Your {{amount_0}} are fully upgraded!": "你的{{amount_0}}已升級至上限",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!": "你的{{amount_0}}已升級至上限。提升訓練家等級即可增加上限。",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>Learn more about leveling up here.</a>": "你的{{amount_0}}已升級至上限。提升訓練家等級即可增加上限。<a href=”https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3049-available-items-your-bag/”>確認更多關於升級的資訊。</a>",
   "{{amount_0}} going": "{{amount_0}}會參加",
   "You have {{amount_0}} Special Trades remaining.": "還可進行{{amount_0}}次特殊交換",
   "Up to {{amount_0}} Special Trades per day.": "一天最多可進行{{amount_0}}次特殊交換",
