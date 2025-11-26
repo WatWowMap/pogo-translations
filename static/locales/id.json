@@ -6416,6 +6416,7 @@
   "quest_title_quest_buddy_affection_poison_singular": "Dapatkan Hati dengan Pokémon Partner tipe Racun",
   "quest_title_quest_buddy_battle_trainer_adventuring_plural": "Bertarung melawan Pelatih lain bersama Pokémon Partnermu ketika bertualang bersama %{amount_0} kali",
   "quest_title_quest_buddy_battle_trainer_adventuring_single": "Bertarung melawan Pelatih lain bersama Pokémon Partnermu ketika bertualang bersama",
+  "quest_title_quest_buddy_play_days_plural": "Play with your buddy on %{amount_0} different days",
   "quest_title_quest_buddy_souvenir_plural": "Terima %{amount_0} Suvenir dari partnermu",
   "quest_title_quest_buddy_souvenir_singular": "Terima Suvenir dari partner",
   "quest_title_quest_buddy_treat_days": "Berikan camilan kepada partnermu selama %{amount_0} hari berbeda",

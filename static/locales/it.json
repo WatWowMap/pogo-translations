@@ -6416,6 +6416,7 @@
   "quest_title_quest_buddy_affection_poison_singular": "Guadagna un cuore con un compagno di tipo Veleno",
   "quest_title_quest_buddy_battle_trainer_adventuring_plural": "Sfida %{amount_0} Allenatori con il tuo Pokémon compagno in squadra, mentre è con te",
   "quest_title_quest_buddy_battle_trainer_adventuring_single": "Sfida un altro Allenatore con il tuo Pokémon compagno in squadra, mentre è con te",
+  "quest_title_quest_buddy_play_days_plural": "Gioca con il tuo compagno in %{amount_0} giorni diversi",
   "quest_title_quest_buddy_souvenir_plural": "Ricevi %{amount_0} souvenir dal tuo compagno",
   "quest_title_quest_buddy_souvenir_singular": "Ricevi un souvenir dal tuo compagno",
   "quest_title_quest_buddy_treat_days": "Dai uno snack al tuo compagno in %{amount_0} giorni diversi",

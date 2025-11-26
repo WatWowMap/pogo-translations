@@ -7694,6 +7694,7 @@
   "quest_title_quest_buddy_affection_poison_singular": "どくタイプ相棒ポケモンのハートを獲得する",
   "quest_title_quest_buddy_battle_trainer_adventuring_plural": "相棒が共にに歩いているときに一緒にトレーナー対戦を%{amount_0}回する",
   "quest_title_quest_buddy_battle_trainer_adventuring_single": "相棒が共に歩いているときに一緒にトレーナー対戦を行う",
+  "quest_title_quest_buddy_play_days_plural": "相棒ポケモンと%{amount_0}日にわたって遊ぶ",
   "quest_title_quest_buddy_souvenir_plural": "相棒のポケモンからおみやげを%{amount_0}個もらう",
   "quest_title_quest_buddy_souvenir_singular": "相棒のポケモンからおみやげをもらう",
   "quest_title_quest_buddy_treat_days": "相棒のポケモンにおやつを%{amount_0}日にわたってあげる",

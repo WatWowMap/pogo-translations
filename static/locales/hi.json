@@ -6416,6 +6416,7 @@
   "quest_title_quest_buddy_affection_poison_singular": "पॉइज़न टाइप पाटनर क साथ हाट ात करं",
   "quest_title_quest_buddy_battle_trainer_adventuring_plural": "जब आपका पाटनर पोकमॉन आपक साथ एडवेंचर में शामल हो, तो उसक साथ मलकर कसी और टनर क साथ %{amount_0} बार बैटल करं",
   "quest_title_quest_buddy_battle_trainer_adventuring_single": "जब आपका पाटनर पोकमॉन आपक साथ एडवेंचर में शामल हो, तो उसक साथ मलकर कसी और टनर क साथ बैटल करं",
+  "quest_title_quest_buddy_play_days_plural": "Play with your buddy on %{amount_0} different days",
   "quest_title_quest_buddy_souvenir_plural": "अपने पाटनर से %{amount_0} यादगार नशानयां पाएं",
   "quest_title_quest_buddy_souvenir_singular": "अपने पाटनर से यादगार नशानयां पाएं",
   "quest_title_quest_buddy_treat_days": "अपने पाटनर को %{amount_0} अलग-अलग दनों पर टीट दें",

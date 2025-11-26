@@ -7687,6 +7687,7 @@
   "quest_title_quest_buddy_affection_poison_singular": "Gagne un cœur avec ton copain de type Poison",
   "quest_title_quest_buddy_battle_trainer_adventuring_plural": "Combats un autre Dresseur aux côtés de ton Copain Pokémon au cours de vos aventures %{amount_0} fois",
   "quest_title_quest_buddy_battle_trainer_adventuring_single": "Combats un autre Dresseur aux côtés de ton Copain Pokémon au cours de vos aventures",
+  "quest_title_quest_buddy_play_days_plural": "Joue avec ton Copain pendant %{amount_0} jours différents",
   "quest_title_quest_buddy_souvenir_plural": "Reçois %{amount_0} Souvenirs de la part de ton copain",
   "quest_title_quest_buddy_souvenir_singular": "Reçois un Souvenir de la part de ton copain",
   "quest_title_quest_buddy_treat_days": "Donne une friandise à ton copain pendant %{amount_0} jours différents",
