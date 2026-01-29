@@ -6276,7 +6276,7 @@
   "quest_title_journal_caught_dropped_item_singular": "%{amount_0}(을)를 잡았을 때 에너지를 손에 넣었다!",
   "quest_title_levelup_max_move_plural": "맥스기술을 %{amount_0}번 레벨업 한다",
   "quest_title_levelup_max_move_singular": "맥스기술을 1번 레벨업하기",
-  "quest_title_lobby_mega_count_plural": "%{amount_0} Mega Pokemon in Lobby",
+  "quest_title_lobby_mega_count_plural": "%{amount_0} Mega-Evolved Pokémon in Lobby",
   "quest_title_lobby_mega_count_singular": "%{amount_0} Mega-Evolved Pokémon in lobby",
   "quest_title_lucky_charm_notification_body_hour_plural_min_plural": "<b>반짝이 참</b> 사용가능 시간은 앞으로 %{amount_0}시간 %{amount_1}분",
   "quest_title_lucky_charm_notification_body_hour_plural_min_singular": "<b>반짝이 참</b> 사용가능 시간은 앞으로 %{amount_0}시간 1분",

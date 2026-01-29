@@ -246,7 +246,7 @@
   "{{amount_0}} dropped an item when caught!": "{{amount_0}}(을)를 잡았을 때 에너지를 손에 넣었다!",
   "Level up a Max Move {{amount_0}} times": "맥스기술을 {{amount_0}}번 레벨업 한다",
   "Level up a Max Move": "맥스기술을 1번 레벨업하기",
-  "{{amount_0}} Mega Pokemon in Lobby": "{{amount_0}} Mega Pokemon in Lobby",
+  "{{amount_0}} Mega-Evolved Pokémon in Lobby": "{{amount_0}} Mega-Evolved Pokémon in Lobby",
   "{{amount_0}} Mega-Evolved Pokémon in lobby": "{{amount_0}} Mega-Evolved Pokémon in lobby",
   "You have {{amount_0}} hours and {{amount_1}} minutes left to use your <b>Lucky Trinket</b>!": "<b>반짝이 참</b> 사용가능 시간은 앞으로 {{amount_0}}시간 {{amount_1}}분",
   "You have {{amount_0}} hours and 1 minute left to use your <b>Lucky Trinket</b>!": "<b>반짝이 참</b> 사용가능 시간은 앞으로 {{amount_0}}시간 1분",

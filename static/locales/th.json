@@ -6276,7 +6276,7 @@
   "quest_title_journal_caught_dropped_item_singular": "ไดรับพลังงานจากการจับ%{amount_0}!",
   "quest_title_levelup_max_move_plural": "เลเวลอัปทาแมกซ %{amount_0} ครั้ง",
   "quest_title_levelup_max_move_singular": "เลเวลอัปทาแมกซ",
-  "quest_title_lobby_mega_count_plural": "%{amount_0} Mega Pokemon in Lobby",
+  "quest_title_lobby_mega_count_plural": "%{amount_0} Mega-Evolved Pokémon in Lobby",
   "quest_title_lobby_mega_count_singular": "%{amount_0} Mega-Evolved Pokémon in lobby",
   "quest_title_lucky_charm_notification_body_hour_plural_min_plural": "เหลือเวลา %{amount_0} ชั่วโมง %{amount_1} นาที ในการใช<b>เครื่องรางนำโชค</b>!",
   "quest_title_lucky_charm_notification_body_hour_plural_min_singular": "เหลือเวลา %{amount_0} ชั่วโมง 1 นาที ในการใช<b>เครื่องรางนำโชค</b>!",
