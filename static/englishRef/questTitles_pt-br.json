@@ -285,7 +285,7 @@
   "Remove this Postcard?": "Excluir este Cartão-postal?",
   "You received only 1 Primal Energy from this raid because you have reached the maximum of {{amount_0}}.": "Você recebeu apenas 1 Energia Primitiva deste Reide porque atingiu o número máximo de {{amount_0}}.",
   "Have {{amount_0}} undergo Primal Reversion {{amount_1}} more time to reach {{amount_2}}!": "Fazer com que {{amount_0}} passe por Reversão Primitiva mais {{amount_1}} vez para alcançar {{amount_2}}!",
-  "{{amount_0}}-day Primal Reversion rest period": "Período de espera da Reversão Primitiva: {{amount_0}} dia",
+  "{{amount_0}}-day Primal Reversion rest period": "Tempo de descanso da Reversão Primitiva: {{amount_0}} dia",
   "{{amount_0}} REMAINING": "RESTA: {{amount_0}}",
   "Reach level 40": "Alcançar o nível 40.",
   "Activate an Adventure Effect {{amount_0}} times": "Ativar 1 Efeito de Aventura {{amount_0}} vezes.",

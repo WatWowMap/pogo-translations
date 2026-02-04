@@ -6321,7 +6321,7 @@
   "quest_title_postcard_multi_delete_singular": "Excluir este Cartão-postal?",
   "quest_title_primal_energy_not_awarded_singular": "Você recebeu apenas 1 Energia Primitiva deste Reide porque atingiu o número máximo de %{amount_0}.",
   "quest_title_primal_level_requirement_message_singular": "Fazer com que %{amount_0} passe por Reversão Primitiva mais %{amount_1} vez para alcançar %{amount_2}!",
-  "quest_title_primal_perk_cooldown_days_singular": "Período de espera da Reversão Primitiva: %{amount_0} dia",
+  "quest_title_primal_perk_cooldown_days_singular": "Tempo de descanso da Reversão Primitiva: %{amount_0} dia",
   "quest_title_purchases_remaining_text_singular": "RESTA: %{amount_0}",
   "quest_title_quest_achieve_lvl_40": "Alcançar o nível 40.",
   "quest_title_quest_adventure_effect_activate_plural": "Ativar 1 Efeito de Aventura %{amount_0} vezes.",
