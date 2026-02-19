@@ -10519,7 +10519,7 @@
   "quest_title_sent_friend_error_info_plural": "Твои друзья (%{amount_0}) уже достигли дневного лимита на Удалённые Битвы Макс и Удалённые Рейды. Ты можешь пригласить других друзей!",
   "quest_title_sent_friend_error_info_singular": "1 из твоих друзей уже достиг дневного лимита на Удалённые Битвы Макс и Удалённые Рейды. Ты можешь пригласить другого друга!",
   "quest_title_shadow_gem_assembled_plural": "Созданы очищенные самоцветы: %{amount_0}!",
-  "quest_title_shop_enhanced_currency_description_plural": "You need %{amount_0} more Link Charges to enter this battle.",
+  "quest_title_shop_enhanced_currency_description_plural": "Чтобы участвовать в этой битве, потребуется ещё Зарядов Связи: %{amount_0}.",
   "quest_title_shop_enhanced_currency_description_singular": "Тебе потребуется ещё 1 Заряд Связи, чтобы участвовать в этой битве.",
   "quest_title_shop_fully_upgraded_plural": "%{amount_0}: улучшение произведено!",
   "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!<a href=”https://niantic.helpshift.com/hc/ru/6-pokemon-go/faq/3049-available-items-your-bag/”>Узнай больше о повышении уровня здесь.</a>",
