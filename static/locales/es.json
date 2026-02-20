@@ -6224,7 +6224,7 @@
   "quest_title_fairy_poi_spin_plural": "Da vueltas a %{amount_0} Poképaradas con temática de tipo Hada",
   "quest_title_fairy_poi_spin_singular": "Da vueltas a una Poképarada con temática de tipo Hada",
   "quest_title_field_effect_plural": "Efecto aventura",
-  "quest_title_fieldbook_summary_species_caught_text_singular": "You caught 1 Pokémon with a Portrait!",
+  "quest_title_fieldbook_summary_species_caught_text_singular": "¡Has capturado un Pokémon con retrato!",
   "quest_title_friend_opened_your_gift_singular": "%{amount_0} ha recibido 1 objeto de tu regalo.",
   "quest_title_friend_plural": "amigos",
   "quest_title_friend_singular": "amigo",
