@@ -8154,7 +8154,7 @@
   "quest_title_field_effect_plural": "Эффекты приключений",
   "quest_title_field_research_plural": "Выполни %{amount_0} заданий для полевых квестов. ",
   "quest_title_field_research_singular": "Выполни задание",
-  "quest_title_fieldbook_summary_species_caught_text_singular": "You caught 1 Pokémon with a Portrait!",
+  "quest_title_fieldbook_summary_species_caught_text_singular": "Пойман 1 Покемон с Портретом!",
   "quest_title_first_catch_of_the_day": "Первая поимка дня",
   "quest_title_first_pokestop_of_the_day": "Первый Покестоп дня",
   "quest_title_flett_catch_b": "Поймай Флетчлингов: %{amount_0}",
