@@ -6208,6 +6208,8 @@
   "quest_title_dmax_battle_win_singular": "Win a Dynamax Battle.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0}(이)가 %{amount_1}(을)를 %{amount_2}개 가지고 있었다!",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0}(이)가 %{amount_1}(을)를 가지고 있었다!",
+  "quest_title_event_ticket_time_article_plural": "",
+  "quest_title_event_ticket_time_article_singular": "",
   "quest_title_exchange_gift_mateo_plural": "마테오와 루트 끝나는 지점에서 선물을 %{amount_0}개 교환한다",
   "quest_title_exchange_gift_mateo_singular": "마테오와 루트 끝나는 지점에서 선물을 1개 교환한다",
   "quest_title_expire_notification_day_plural": "<b>%{amount_1}</b> 사용 가능한 것은 앞으로 %{amount_0}일!",

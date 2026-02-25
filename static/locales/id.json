@@ -6208,6 +6208,8 @@
   "quest_title_dmax_battle_win_singular": "Win a Dynamax Battle.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0} menjatuhkan %{amount_2} %{amount_1}!",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0} menjatuhkan 1 %{amount_1}!",
+  "quest_title_event_ticket_time_article_plural": "",
+  "quest_title_event_ticket_time_article_singular": "",
   "quest_title_exchange_gift_mateo_plural": "Tukar Hadiah dengan Mateo di titik akhir Rute %{amount_0} kali",
   "quest_title_exchange_gift_mateo_singular": "Tukar Hadiah dengan Mateo di titik akhir Rute",
   "quest_title_expire_notification_day_plural": "Kamu punya %{amount_0} hari lagi untuk menggunakan <b>%{amount_1}</b>mu!",

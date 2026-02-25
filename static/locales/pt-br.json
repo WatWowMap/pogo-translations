@@ -6208,6 +6208,8 @@
   "quest_title_dmax_battle_win_singular": "Win a Dynamax Battle.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0} deixou cair %{amount_2} %{amount_1}!",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0} deixou cair 1 %{amount_1}!",
+  "quest_title_event_ticket_time_article_plural": "às",
+  "quest_title_event_ticket_time_article_singular": "à",
   "quest_title_exchange_gift_mateo_plural": "Trocar 1 presente com Mateo no final de uma Rota %{amount_0} vezes.",
   "quest_title_exchange_gift_mateo_singular": "Trocar 1 presente com Mateo no final de uma Rota.",
   "quest_title_expire_notification_day_plural": "Você tem %{amount_0} dias restantes para usar seu <b>%{amount_1}</b>!",

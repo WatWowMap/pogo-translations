@@ -6208,6 +6208,8 @@
   "quest_title_dmax_battle_win_singular": "Win a Dynamax Battle.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0} %{amount_2} %{amount_1} düşürdü!",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0} 1 %{amount_1} düşürdü!",
+  "quest_title_event_ticket_time_article_plural": "",
+  "quest_title_event_ticket_time_article_singular": "",
   "quest_title_exchange_gift_mateo_plural": "Bir rotanın sonunda Mateo ile %{amount_0} kez Hediye takas edin",
   "quest_title_exchange_gift_mateo_singular": "Bir rotanın sonunda Mateo ile bir Hediye takas edin",
   "quest_title_expire_notification_day_plural": "<b>%{amount_1}</b> kullanmak için %{amount_0} gününüz var!",

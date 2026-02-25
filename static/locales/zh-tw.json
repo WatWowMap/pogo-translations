@@ -6208,6 +6208,8 @@
   "quest_title_dmax_battle_win_singular": "Win a Dynamax Battle.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0}掉落了%{amount_2}個%{amount_1}！",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0}掉落了%{amount_1}！",
+  "quest_title_event_ticket_time_article_plural": "",
+  "quest_title_event_ticket_time_article_singular": "",
   "quest_title_exchange_gift_mateo_plural": "在終點附近與馬戴奧交換%{amount_0}個友情禮物",
   "quest_title_exchange_gift_mateo_singular": "在終點附近與馬戴奧交換友情禮物",
   "quest_title_expire_notification_day_plural": "能使用<b>%{amount_1}</b>的時間還剩%{amount_0}天",

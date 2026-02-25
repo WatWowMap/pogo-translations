@@ -7479,6 +7479,8 @@
   "quest_title_dmax_battle_win_singular": "Win a Dynamax Battle.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0} a laissé tomber les objets suivants : %{amount_2} %{amount_1} !",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0} a laissé tomber l'objet suivant : %{amount_1} !",
+  "quest_title_event_ticket_time_article_plural": "",
+  "quest_title_event_ticket_time_article_singular": "",
   "quest_title_exchange_gift_mateo_plural": "Échange un Cadeau avec Mateo à la fin d’une Route %{amount_0} fois",
   "quest_title_exchange_gift_mateo_singular": "Échange un Cadeau avec Mateo à la fin d’une Route",
   "quest_title_expire_notification_day_plural": "Il te reste %{amount_0} jours pour utiliser : <b>%{amount_1}</b> !",

@@ -6207,6 +6207,8 @@
   "quest_title_dmax_battle_win_singular": "Gewinne einen Dynamax-Kampf.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0} hat %{amount_2}x %{amount_1} fallen lassen!",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0} hat 1 %{amount_1} fallen lassen!",
+  "quest_title_event_ticket_time_article_plural": "",
+  "quest_title_event_ticket_time_article_singular": "",
   "quest_title_exchange_gift_mateo_plural": "Tausche %{amount_0}-mal ein Geschenk mit Mateo am Ende einer Route.",
   "quest_title_exchange_gift_mateo_singular": "Tausche ein Geschenk mit Mateo am Ende einer Route.",
   "quest_title_expire_notification_day_plural": "Du hast noch %{amount_0} Tage Zeit, um dein <b>%{amount_1}</b> einzusetzen!",

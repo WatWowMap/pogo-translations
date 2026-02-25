@@ -6208,6 +6208,8 @@
   "quest_title_dmax_battle_win_singular": "Win a Dynamax Battle.",
   "quest_title_encounter_caught_pokemon_held_item_plural": "%{amount_0} ने %{amount_2} %{amount_1} डॉप कये!",
   "quest_title_encounter_caught_pokemon_held_item_singular": "%{amount_0} ने 1 %{amount_1} डॉप कया!",
+  "quest_title_event_ticket_time_article_plural": "",
+  "quest_title_event_ticket_time_article_singular": "",
   "quest_title_exchange_gift_mateo_plural": "मातेओ क साथ %{amount_0} गट एसचेंज करं",
   "quest_title_exchange_gift_mateo_singular": "मातेओ क साथ एक गट एसचेंज करं",
   "quest_title_expire_notification_day_plural": "आपक पास अपने <b>%{amount_1}</b> का उपयोग करने क लए %{amount_0} दन बचे हैं!",
