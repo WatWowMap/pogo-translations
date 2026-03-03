@@ -6228,7 +6228,7 @@
   "quest_title_fairy_poi_spin_plural": "페어리타입 테마 포켓스톱을 %{amount_0}개 돌린다",
   "quest_title_fairy_poi_spin_singular": "페어리타입 테마 포켓스톱을 1개 돌린다",
   "quest_title_field_effect_plural": "필드 효과",
-  "quest_title_fieldbook_summary_species_caught_text_singular": "You caught 1 Pokémon with a Portrait!",
+  "quest_title_fieldbook_summary_species_caught_text_singular": "포트레이트가 있는 포켓몬을 1마리 잡았다!",
   "quest_title_friend_opened_your_gift_singular": "%{amount_0}님이 선물을 열어서 아이템 1개 받았습니다!",
   "quest_title_friend_plural": "프렌드",
   "quest_title_friend_singular": "프렌드",
