@@ -9574,6 +9574,7 @@
   "quest_title_quest_win_rocket_leader_less4000cp_plural": "CP4,000以下のポケモンのみを使いGOロケット団リーダーに%{amount_0}回勝つ",
   "quest_title_quest_win_shadow_raid_plural": "シャドウレイドで%{amount_0}回勝つ",
   "quest_title_quest_win_shadow_raid_singular": "シャドウレイドで勝つ",
+  "quest_title_quest_win_super_mega_raid_plural": "Win %{amount_0} Super Mega Raids",
   "quest_title_quest_wooper_catch_b": "ウパーを%{amount_0}匹捕まえる",
   "quest_title_quest_wooper_evolve_b": "ウパーを%{amount_0}匹進化させる",
   "quest_title_quest_wooper_snapshot_b": "ウパーのGOスナップショット写真を%{amount_0}枚撮る",
