@@ -6905,6 +6905,8 @@
   "quest_title_quest_duskt_evolve_b": "Evolve %{amount_0} Duskull",
   "quest_title_quest_duskt_evolve_s1": "Evolve %{amount_0} Dusclops",
   "quest_title_quest_earn_buddy_ribbon_plural": "Earn %{amount_0} Best Buddy Ribbons with your Pokémon",
+  "quest_title_quest_earn_candy_any_pokemon": "Earn %{amount_0} Candy or Candy XL for any Pokémon",
+  "quest_title_quest_earn_candy_any_pokemon_plural": "Earn %{amount_0} Candy or Candy XL for any Pokémon",
   "quest_title_quest_eelektrik_evolve_b_plural": "Evolve %{amount_0} Eelektrik",
   "quest_title_quest_eelektrik_evolve_b_singular": "Evolve an Eelektrik",
   "quest_title_quest_eevee_evolve_plural": "Evolve Eevee into each of its unique Evolutions",

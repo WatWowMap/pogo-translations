@@ -6905,6 +6905,8 @@
   "quest_title_quest_duskt_evolve_b": "Evolusikan %{amount_0} Duskull",
   "quest_title_quest_duskt_evolve_s1": "Evolusikan %{amount_0} Dusclops",
   "quest_title_quest_earn_buddy_ribbon_plural": "Dapatkan %{amount_0} Pita Partner Terbaik dengan Pokémon milikmu",
+  "quest_title_quest_earn_candy_any_pokemon": "Earn %{amount_0} Candy or Candy XL for any Pokémon",
+  "quest_title_quest_earn_candy_any_pokemon_plural": "Earn %{amount_0} Candy or Candy XL for any Pokémon",
   "quest_title_quest_eelektrik_evolve_b_plural": "Evolusikan %{amount_0} Eelektrik",
   "quest_title_quest_eelektrik_evolve_b_singular": "Evolusikan Eelektrik",
   "quest_title_quest_eevee_evolve_plural": "Evolusikan Eevee ke setiap ragam Evolusinya",

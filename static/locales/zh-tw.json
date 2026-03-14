@@ -6905,6 +6905,8 @@
   "quest_title_quest_duskt_evolve_b": "讓 %{amount_0} 隻夜巡靈進化",
   "quest_title_quest_duskt_evolve_s1": "讓1隻彷徨夜靈進化",
   "quest_title_quest_earn_buddy_ribbon_plural": "為%{amount_0}隻寶可夢佩上正港好夥伴獎章",
+  "quest_title_quest_earn_candy_any_pokemon": "獲得%{amount_0}個寶可夢的糖果或糖果XL",
+  "quest_title_quest_earn_candy_any_pokemon_plural": "獲得%{amount_0}個寶可夢的糖果或糖果XL",
   "quest_title_quest_eelektrik_evolve_b_plural": "讓%{amount_0}隻麻麻鰻進化",
   "quest_title_quest_eelektrik_evolve_b_singular": "讓1隻麻麻鰻進化",
   "quest_title_quest_eevee_evolve_plural": "讓伊布完成所有形態的進化",

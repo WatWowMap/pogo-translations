@@ -6905,6 +6905,8 @@
   "quest_title_quest_duskt_evolve_b": "%{amount_0} डलॉस को वकसत करं",
   "quest_title_quest_duskt_evolve_s1": "%{amount_0} डलॉस को वकसत करं",
   "quest_title_quest_earn_buddy_ribbon_plural": "अपने पोकमॉन क साथ %{amount_0} सबसे अछे पाटनर का रबन जीतें",
+  "quest_title_quest_earn_candy_any_pokemon": "Earn %{amount_0} Candy or Candy XL for any Pokémon",
+  "quest_title_quest_earn_candy_any_pokemon_plural": "Earn %{amount_0} Candy or Candy XL for any Pokémon",
   "quest_title_quest_eelektrik_evolve_b_plural": "%{amount_0} ईलैटक को वकसत करं",
   "quest_title_quest_eelektrik_evolve_b_singular": "एक ईलैटक को वकसत करं",
   "quest_title_quest_eevee_evolve_plural": "ईवी को उसक हर यूनीक वकसत प में वकसत करं",

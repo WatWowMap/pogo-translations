@@ -6905,6 +6905,8 @@
   "quest_title_quest_duskt_evolve_b": "해골몽을 %{amount_0}마리 진화시킨다",
   "quest_title_quest_duskt_evolve_s1": "미라몽릏 %{amount_0}마리 진화시킨다",
   "quest_title_quest_earn_buddy_ribbon_plural": "베스트 파트너리본을 파트너 포켓몬 %{amount_0}마리에게 단다",
+  "quest_title_quest_earn_candy_any_pokemon": "포켓몬의 사탕, 사탕XL을 %{amount_0}개 손에 넣을 수 있다",
+  "quest_title_quest_earn_candy_any_pokemon_plural": "포켓몬의 사탕, 사탕XL을 %{amount_0}개 손에 넣을 수 있다",
   "quest_title_quest_eelektrik_evolve_b_plural": "저리릴을 %{amount_0}마리 진화시킨다",
   "quest_title_quest_eelektrik_evolve_b_singular": "저리릴을 1마리 진화시킨다",
   "quest_title_quest_eevee_evolve_plural": "이브이를 모두 다른 진화형으로 진화 시킨다",
