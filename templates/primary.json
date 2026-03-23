@@ -27,7 +27,8 @@
         "questRewardTypes": "quest_reward_",
         "questTitles": "quest_title_",
         "raidLevel": "raid_",
-        "eggLevel": "egg_"
+        "eggLevel": "egg_",
+        "gruntQuotes": "grunt_quote_"
       },
       "mergeCategories": true,
       "questVariables": {
@@ -61,6 +62,7 @@
       "items": true,
       "types": true,
       "characters": true,
+      "gruntQuotes": true,
       "weather": true,
       "misc": true,
       "pokemonCategories": true,
