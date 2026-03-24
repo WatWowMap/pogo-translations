@@ -76,6 +76,7 @@ const enRef = async (inMemory, available) => {
     evolutionQuests: {},
     forms: {},
     grunts: {},
+    gruntQuotes: {},
     items: {},
     lures: {},
     misc: {},
@@ -119,6 +120,8 @@ const enRef = async (inMemory, available) => {
         } else {
           manualCategories.questTypes[key] = newValue
         }
+      } else if (key.startsWith('grunt_quote_')) {
+        manualCategories.gruntQuotes[key] = value
       } else if (key.startsWith('grunt')) {
         manualCategories.grunts[key] = value
       } else if (key.startsWith('character')) {
