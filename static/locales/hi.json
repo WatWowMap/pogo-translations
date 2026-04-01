@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "अपने पाटनर क साथ खेलं",
   "quest_title_challenge_buddy_poi_plural": "अपने पाटनर ारा %{amount_0} बार बताई गई दलचप जगहें देखें",
   "quest_title_challenge_buddy_poi_single": "अपने पाटनर ारा बताई गई दलचप जगहें देखें",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Take a snapshot of your buddy on %{amount_0} different days",
   "quest_title_challenge_buddy_snapshot_plural": "अपने पाटनर क %{amount_0} नैपशॉट लं",
   "quest_title_challenge_buddy_snapshot_single": "अपने पाटनर का नैपशॉट लं",
   "quest_title_challenge_buddy_treat_plural": "अपने पाटनर को %{amount_0} टीट दें",

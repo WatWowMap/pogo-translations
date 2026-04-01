@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "Gioca con il tuo compagno",
   "quest_title_challenge_buddy_poi_plural": "Visita luoghi interessanti segnalati dal tuo compagno %{amount_0} volte",
   "quest_title_challenge_buddy_poi_single": "Visita un luogo interessante segnalato dal tuo compagno",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Fai una foto al tuo compagno in %{amount_0} giorni diversi",
   "quest_title_challenge_buddy_snapshot_plural": "Fai %{amount_0} foto al tuo compagno",
   "quest_title_challenge_buddy_snapshot_single": "Fai una foto al tuo compagno",
   "quest_title_challenge_buddy_treat_plural": "Dai %{amount_0} snack al tuo compagno",

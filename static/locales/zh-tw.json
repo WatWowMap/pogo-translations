@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "和夥伴一起玩",
   "quest_title_challenge_buddy_poi_plural": "拜訪 %{amount_0} 個夥伴告訴你的有趣地點",
   "quest_title_challenge_buddy_poi_single": "拜訪夥伴告訴你的有趣地點",
+  "quest_title_challenge_buddy_snapshot_days_plural": "為夥伴寶可夢拍攝GO Snapshot照片%{amount_0}天",
   "quest_title_challenge_buddy_snapshot_plural": "為夥伴拍攝 %{amount_0} 張GO Snapshot照片",
   "quest_title_challenge_buddy_snapshot_single": "為夥伴拍攝1張GO Snapshot照片",
   "quest_title_challenge_buddy_treat_plural": "餵夥伴吃 %{amount_0} 個點心",

@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "Juega con tu compañero",
   "quest_title_challenge_buddy_poi_plural": "Visita puntos de interés que te indique tu compañero %{amount_0} veces",
   "quest_title_challenge_buddy_poi_single": "Visita un punto de interés que te indique tu compañero",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Consigue una instantánea de tu compañero en %{amount_0} días diferentes",
   "quest_title_challenge_buddy_snapshot_plural": "Consigue %{amount_0} instantáneas de tu compañero",
   "quest_title_challenge_buddy_snapshot_single": "Consigue una instantánea de tu compañero",
   "quest_title_challenge_buddy_treat_plural": "Dale %{amount_0} golosinas a tu compañero",

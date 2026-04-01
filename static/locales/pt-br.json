@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "Brinque com seu companheiro",
   "quest_title_challenge_buddy_poi_plural": "Visitar um lugar interessante indicado pelo seu companheiro %{amount_0} vezes",
   "quest_title_challenge_buddy_poi_single": "Visitar um lugar interessante indicado pelo seu companheiro",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Tirar 1 foto do seu companheiro em %{amount_0} dias diferentes.",
   "quest_title_challenge_buddy_snapshot_plural": "Tirar %{amount_0} fotos de seu companheiro",
   "quest_title_challenge_buddy_snapshot_single": "Tirar 1 foto de seu companheiro",
   "quest_title_challenge_buddy_treat_plural": "Dar %{amount_0} guloseimas ao seu companheiro",

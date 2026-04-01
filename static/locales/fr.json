@@ -7798,6 +7798,7 @@
   "quest_title_challenge_buddy_play_single": "Joue avec ton copain",
   "quest_title_challenge_buddy_poi_plural": "Visite %{amount_0} fois un endroit intéressant que t’indique ton copain",
   "quest_title_challenge_buddy_poi_single": "Visite un endroit intéressant que t’indique ton copain",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Prends une photo de ton copain pendant %{amount_0} jours différents",
   "quest_title_challenge_buddy_snapshot_plural": "Prends %{amount_0} photos de ton copain",
   "quest_title_challenge_buddy_snapshot_single": "Prends une photo de ton copain",
   "quest_title_challenge_buddy_treat_plural": "Donne %{amount_0} friandises à ton copain",

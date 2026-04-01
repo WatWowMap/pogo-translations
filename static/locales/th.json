@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "เลนกับคูหูของคุณ",
   "quest_title_challenge_buddy_poi_plural": "ไปยังสถานที่ที่นาสนใจที่คูหูของคุณคนพบ %{amount_0} ครั้ง",
   "quest_title_challenge_buddy_poi_single": "ไปยังสถานที่ที่นาสนใจที่คูหูของคุณคนพบ",
+  "quest_title_challenge_buddy_snapshot_days_plural": "ถายภาพคูหูของคุณ %{amount_0} วัน",
   "quest_title_challenge_buddy_snapshot_plural": "ถายภาพคูหูของคุณ %{amount_0} ภาพ",
   "quest_title_challenge_buddy_snapshot_single": "ถายภาพคูหูของคุณ",
   "quest_title_challenge_buddy_treat_plural": "ปอนของวางใหคูหูของคุณ %{amount_0} ครั้ง",

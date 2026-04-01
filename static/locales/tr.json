@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "Dostunuzla oynayın",
   "quest_title_challenge_buddy_poi_plural": "%{amount_0} kez dostunuzun gösterdiği enteresan yerlere gidin",
   "quest_title_challenge_buddy_poi_single": "Dostunuzun gösterdiği enteresan bir yere gidin",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Dostunuzun %{amount_0} farklı gün fotoğrafını çekin",
   "quest_title_challenge_buddy_snapshot_plural": "Dostunuzun %{amount_0} adet fotoğrafını çekin",
   "quest_title_challenge_buddy_snapshot_single": "Dostunuzun fotoğrafını çekin",
   "quest_title_challenge_buddy_treat_plural": "Dostunuza %{amount_0} adet atıştırmalık verin",

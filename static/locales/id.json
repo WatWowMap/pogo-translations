@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "Bermain dengan partnermu",
   "quest_title_challenge_buddy_poi_plural": "Kunjungi lokasi menarik yang ditunjukkan oleh partnermu %{amount_0} kali",
   "quest_title_challenge_buddy_poi_single": "Kunjungi lokasi menarik yang ditunjukkan oleh partnermu",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Take a snapshot of your buddy on %{amount_0} different days",
   "quest_title_challenge_buddy_snapshot_plural": "Ambil %{amount_0} foto partnermu",
   "quest_title_challenge_buddy_snapshot_single": "Ambil foto partnermu",
   "quest_title_challenge_buddy_treat_plural": "Berikan %{amount_0} camilan ke partner",

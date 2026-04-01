@@ -6527,6 +6527,7 @@
   "quest_title_challenge_buddy_play_single": "Play with your buddy",
   "quest_title_challenge_buddy_poi_plural": "Visit interesting locations pointed out by your buddy %{amount_0} times",
   "quest_title_challenge_buddy_poi_single": "Visit an interesting location pointed out by your buddy",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Take a snapshot of your buddy on %{amount_0} different days",
   "quest_title_challenge_buddy_snapshot_plural": "Take %{amount_0} snapshots of your buddy",
   "quest_title_challenge_buddy_snapshot_single": "Take a snapshot of your buddy",
   "quest_title_challenge_buddy_treat_plural": "Give your buddy %{amount_0} treats",

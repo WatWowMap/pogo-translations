@@ -7805,6 +7805,7 @@
   "quest_title_challenge_buddy_play_single": "相棒をなでてあげる",
   "quest_title_challenge_buddy_poi_plural": "相棒が教えてくれた場所を%{amount_0}回訪れる",
   "quest_title_challenge_buddy_poi_single": "相棒が教えてくれた場所を訪れる",
+  "quest_title_challenge_buddy_snapshot_days_plural": "相棒ポケモンのGOスナップショット写真を%{amount_0}日にわたって撮る",
   "quest_title_challenge_buddy_snapshot_plural": "相棒の写真を%{amount_0}枚撮る",
   "quest_title_challenge_buddy_snapshot_single": "相棒の写真を撮る",
   "quest_title_challenge_buddy_treat_plural": "おやつを%{amount_0}個あげる",

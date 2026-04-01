@@ -6526,6 +6526,7 @@
   "quest_title_challenge_buddy_play_single": "Spiele mit deinem Kumpel.",
   "quest_title_challenge_buddy_poi_plural": "Besuche %{amount_0}-mal interessante Orte, die dein Kumpel entdeckt hat.",
   "quest_title_challenge_buddy_poi_single": "Besuche einen interessanten Ort, den dein Kumpel entdeckt hat.",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Mache an %{amount_0} verschiedenen Tagen einen Schnappschuss von deinem Kumpel.",
   "quest_title_challenge_buddy_snapshot_plural": "Mache %{amount_0} Schnappschüsse von deinem Kumpel.",
   "quest_title_challenge_buddy_snapshot_single": "Mache einen Schnappschuss von deinem Kumpel.",
   "quest_title_challenge_buddy_treat_plural": "Gib deinem Kumpel %{amount_0}-mal einen Snack.",

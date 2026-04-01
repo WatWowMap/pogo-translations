@@ -8027,6 +8027,7 @@
   "quest_title_challenge_buddy_play_single": "Поиграй со своим приятелем",
   "quest_title_challenge_buddy_poi_plural": "Посети интересные места, которые показал тебе приятель ×%{amount_0}",
   "quest_title_challenge_buddy_poi_single": "Посети интересное место, которое показал тебе приятель",
+  "quest_title_challenge_buddy_snapshot_days_plural": "Сделай фото своего приятеля в разные дни ×%{amount_0}",
   "quest_title_challenge_buddy_snapshot_plural": "Сделай %{amount_0} фото своего приятеля",
   "quest_title_challenge_buddy_snapshot_single": "Сделай фото своего приятеля",
   "quest_title_challenge_buddy_treat_plural": "Дай приятелю угощения: %{amount_0}",
