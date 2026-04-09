@@ -8001,6 +8001,7 @@
   "quest_title_quest_log_training_complete": "%{amount_0} menyelesaikan Latihan Luar Biasa.",
   "quest_title_quest_log_training_expired": "Latihan Luar Biasa %{amount_0} telah berakhir.",
   "quest_title_quest_log_training_task_complete": "%{amount_0} menyelesaikan Tugas Latihan Luar Biasa: %{amount_1}",
+  "quest_title_quest_log_welcome_back_rewards": "Claimed welcome rewards.",
   "quest_title_quest_lucky_plural": "Dapatkan %{amount_0} Pokémon Istimewa melalui pertukaran",
   "quest_title_quest_lucky_singular": "Dapatkan Pokémon Istimewa melalui pertukaran",
   "quest_title_quest_lunar19_friends_trade_plural": "Tukar %{amount_0} Pokémon dengan teman",

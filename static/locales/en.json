@@ -8001,6 +8001,7 @@
   "quest_title_quest_log_training_complete": "%{amount_0} completed Hyper Training.",
   "quest_title_quest_log_training_expired": "%{amount_0}’s Hyper Training ended.",
   "quest_title_quest_log_training_task_complete": "%{amount_0} completed a Hyper Training Task: %{amount_1}",
+  "quest_title_quest_log_welcome_back_rewards": "Claimed welcome rewards.",
   "quest_title_quest_lucky_plural": "Obtain %{amount_0} Lucky Pokémon in trades",
   "quest_title_quest_lucky_singular": "Obtain a Lucky Pokémon in a trade",
   "quest_title_quest_lunar19_friends_trade_plural": "Trade %{amount_0} Pokémon with a friend",

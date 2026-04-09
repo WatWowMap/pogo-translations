@@ -9279,6 +9279,7 @@
   "quest_title_quest_log_training_complete": "%{amount_0}がすごいとっくんを終えた！",
   "quest_title_quest_log_training_expired": "%{amount_0}のすごいとっくんが終了した",
   "quest_title_quest_log_training_task_complete": "%{amount_0}がすごいとっくんタスク：%{amount_1}、を完了した！",
+  "quest_title_quest_log_welcome_back_rewards": "Claimed welcome rewards.",
   "quest_title_quest_lucky_plural": "キラポケモンを%{amount_0}匹手に入れる",
   "quest_title_quest_lucky_singular": "キラポケモンを手に入れる",
   "quest_title_quest_lunar19_friends_trade_plural": "フレンドとポケモンを%{amount_0}回交換する",

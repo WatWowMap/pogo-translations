@@ -8001,6 +8001,7 @@
   "quest_title_quest_log_training_complete": "%{amount_0} ने हाइपर टनंग पूर क।",
   "quest_title_quest_log_training_expired": "%{amount_0} क हाइपर टनंग समात ई।",
   "quest_title_quest_log_training_task_complete": "%{amount_0} ने हाइपर टनंग टाक - %{amount_1} पूरा कया",
+  "quest_title_quest_log_welcome_back_rewards": "Claimed welcome rewards.",
   "quest_title_quest_lucky_plural": "टड में %{amount_0} लक पोकमॉन पाएं",
   "quest_title_quest_lucky_singular": "टड में लक पोकमॉन पाएं",
   "quest_title_quest_lunar19_friends_trade_plural": "कसी दोत क साथ %{amount_0} पोकमॉन टड करं",
