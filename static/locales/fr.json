@@ -10093,6 +10093,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "%{amount_0} objet reçu d’Arènes grâce au Gadget d’Exploration.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "%{amount_0} objet reçu de PokéStops grâce au Gadget d’Exploration.",
   "quest_title_soft_sfida_recap_description_singular": "attrapés avec ton Gadget d’Exploration.",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "Il te reste %{amount_0} Échanges spéciaux.",
   "quest_title_special_trade_per_day_plural": "Jusqu’à %{amount_0} Échanges spéciaux par jour.",
   "quest_title_squash_confirmation_plural": "Tu peux rejoindre %{amount_0} Combats Dynamax à distance ou Raids à distance de plus aujourd’hui. Un passe de Raid à distance sera utilisé au début du combat.",

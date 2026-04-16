@@ -6942,6 +6942,7 @@
   "Received {{amount_0}} item from Gyms using the Explorer Gadget.": "Received {{amount_0}} item from Gyms using the Explorer Gadget.",
   "Received {{amount_0}} item from PokéStops using the Explorer Gadget.": "Received {{amount_0}} item from PokéStops using the Explorer Gadget.",
   "caught with your Explorer Gadget.": "caught with your Explorer Gadget.",
+  "{{amount_0}} Pokémon": "{{amount_0}} Pokémon",
   "You have {{amount_0}} Special Trades remaining.": "앞으로 {{amount_0}}회 특별한 교환을 할 수 있습니다",
   "Up to {{amount_0}} Special Trades per day.": "하루에 가능한 특별한 교환 총 {{amount_0}}회.",
   "You can join {{amount_0}} more Remote Max Battles or Remote Raids today. A Remote Raid Pass will be used when the battle starts.": "오늘 앞으로 {{amount_0}}번 리모트 맥스배틀, 리모트 레이드에 참가할 수 있습니다. 리모트 레이드패스는 배틀 시작 후에 사용됩니다.",

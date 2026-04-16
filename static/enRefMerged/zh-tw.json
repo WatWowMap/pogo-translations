@@ -6942,6 +6942,7 @@
   "Received {{amount_0}} item from Gyms using the Explorer Gadget.": "使用出遊捕捉器時在道館獲得了{{amount_0}}個道具！",
   "Received {{amount_0}} item from PokéStops using the Explorer Gadget.": "使用出遊捕捉器時在寶可補給站獲得了{{amount_0}}個道具！",
   "caught with your Explorer Gadget.": "使用出遊捕捉器捉到",
+  "{{amount_0}} Pokémon": "{{amount_0}} Pokémon",
   "You have {{amount_0}} Special Trades remaining.": "還可進行{{amount_0}}次特殊交換",
   "Up to {{amount_0}} Special Trades per day.": "一天最多可進行{{amount_0}}次特殊交換",
   "You can join {{amount_0}} more Remote Max Battles or Remote Raids today. A Remote Raid Pass will be used when the battle starts.": "今天還可以再參加{{amount_0}}場遠距極巨對戰或遠距團體戰。對戰開打時，遠距團體戰入場券才會被收走。",

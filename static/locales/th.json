@@ -8822,6 +8822,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "ไดรับ %{amount_0} ไอเท็มจากยิมขณะใชเครื่องมือนักสำรวจ",
   "quest_title_soft_sfida_journal_entry_stop_singular": "ไดรับ %{amount_0} ไอเท็มจากเสาโปเกสต็อปขณะใชเครื่องมือนักสำรวจ",
   "quest_title_soft_sfida_recap_description_singular": "จับดวยเครื่องมือนักสำรวจ",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "แลกเปลี่ยนแบบพิเศษไดอีก %{amount_0} ครั้ง",
   "quest_title_special_trade_per_day_plural": "แลกเปลี่ยนแบบพิเศษได %{amount_0} ครั้งตอวัน",
   "quest_title_squash_confirmation_plural": "วันนี้คุณสามารถเขารวมตีบอสระยะไกลหรือแบตเทิลแมกซระยะไกลไดอีก %{amount_0} ครั้ง บัตรตีบอสระยะไกลจะถูกใชงานเมื่อแบตเทิลเริ่มขึ้น",

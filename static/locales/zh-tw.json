@@ -8822,6 +8822,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "使用出遊捕捉器時在道館獲得了%{amount_0}個道具！",
   "quest_title_soft_sfida_journal_entry_stop_singular": "使用出遊捕捉器時在寶可補給站獲得了%{amount_0}個道具！",
   "quest_title_soft_sfida_recap_description_singular": "使用出遊捕捉器捉到",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "還可進行%{amount_0}次特殊交換",
   "quest_title_special_trade_per_day_plural": "一天最多可進行%{amount_0}次特殊交換",
   "quest_title_squash_confirmation_plural": "今天還可以再參加%{amount_0}場遠距極巨對戰或遠距團體戰。對戰開打時，遠距團體戰入場券才會被收走。",

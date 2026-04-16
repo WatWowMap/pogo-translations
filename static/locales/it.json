@@ -8822,6 +8822,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Ricevuto %{amount_0} strumento dalle Palestre utilizzando il gadget di esplorazione.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Ricevuto %{amount_0} strumento dai Pokéstop utilizzando il gadget di esplorazione.",
   "quest_title_soft_sfida_recap_description_singular": "catturato con il gadget di esplorazione.",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "Ti rimangono %{amount_0} scambi speciali.",
   "quest_title_special_trade_per_day_plural": "Fino a %{amount_0} scambi speciali al giorno.",
   "quest_title_squash_confirmation_plural": "Puoi unirti a %{amount_0} Lotte Dynamax da remoto o raid da remoto oggi. Verrà utilizzato un biglietto raid da remoto all’inizio della lotta.",

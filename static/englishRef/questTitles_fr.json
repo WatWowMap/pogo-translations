@@ -2332,6 +2332,7 @@
   "Received {{amount_0}} item from Gyms using the Explorer Gadget.": "{{amount_0}} objet reçu d’Arènes grâce au Gadget d’Exploration.",
   "Received {{amount_0}} item from PokéStops using the Explorer Gadget.": "{{amount_0}} objet reçu de PokéStops grâce au Gadget d’Exploration.",
   "caught with your Explorer Gadget.": "attrapés avec ton Gadget d’Exploration.",
+  "{{amount_0}} Pokémon": "{{amount_0}} Pokémon",
   "You have {{amount_0}} Special Trades remaining.": "Il te reste {{amount_0}} Échanges spéciaux.",
   "Up to {{amount_0}} Special Trades per day.": "Jusqu’à {{amount_0}} Échanges spéciaux par jour.",
   "You can join {{amount_0}} more Remote Max Battles or Remote Raids today. A Remote Raid Pass will be used when the battle starts.": "Tu peux rejoindre {{amount_0}} Combats Dynamax à distance ou Raids à distance de plus aujourd’hui. Un passe de Raid à distance sera utilisé au début du combat.",

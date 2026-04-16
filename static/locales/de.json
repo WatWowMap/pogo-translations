@@ -8821,6 +8821,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "%{amount_0} Item von Arena mithilfe des Entdecker-Gadgets erhalten.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "%{amount_0} Item vom PokéStop mithilfe des Entdecker-Gadgets erhalten.",
   "quest_title_soft_sfida_recap_description_singular": "mit deinem Entdecker-Gadget gefangen",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "Du hast %{amount_0} verbleibende Spezial-Tausche.",
   "quest_title_special_trade_per_day_plural": "Bis zu %{amount_0} Spezial-Tausche pro Tag",
   "quest_title_squash_confirmation_plural": "Du kannst heute an %{amount_0} weiteren Fern-Dyna-Kämpfen oder Fern-Raids teilnehmen. Ein Fern-Raid-Pass wird eingesetzt, wenn der Kampf beginnt.",

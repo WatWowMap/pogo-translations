@@ -8822,6 +8822,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Received %{amount_0} item from Gyms using the Explorer Gadget.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Received %{amount_0} item from PokéStops using the Explorer Gadget.",
   "quest_title_soft_sfida_recap_description_singular": "caught with your Explorer Gadget.",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "You have %{amount_0} Special Trades remaining.",
   "quest_title_special_trade_per_day_plural": "Up to %{amount_0} Special Trades per day.",
   "quest_title_squash_confirmation_plural": "You can join %{amount_0} more Remote Max Battles or Remote Raids today. A Remote Raid Pass will be used when the battle starts.",

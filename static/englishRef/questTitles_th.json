@@ -2332,6 +2332,7 @@
   "Received {{amount_0}} item from Gyms using the Explorer Gadget.": "ไดรับ {{amount_0}} ไอเท็มจากยิมขณะใชเครื่องมือนักสำรวจ",
   "Received {{amount_0}} item from PokéStops using the Explorer Gadget.": "ไดรับ {{amount_0}} ไอเท็มจากเสาโปเกสต็อปขณะใชเครื่องมือนักสำรวจ",
   "caught with your Explorer Gadget.": "จับดวยเครื่องมือนักสำรวจ",
+  "{{amount_0}} Pokémon": "{{amount_0}} Pokémon",
   "You have {{amount_0}} Special Trades remaining.": "แลกเปลี่ยนแบบพิเศษไดอีก {{amount_0}} ครั้ง",
   "Up to {{amount_0}} Special Trades per day.": "แลกเปลี่ยนแบบพิเศษได {{amount_0}} ครั้งตอวัน",
   "You can join {{amount_0}} more Remote Max Battles or Remote Raids today. A Remote Raid Pass will be used when the battle starts.": "วันนี้คุณสามารถเขารวมตีบอสระยะไกลหรือแบตเทิลแมกซระยะไกลไดอีก {{amount_0}} ครั้ง บัตรตีบอสระยะไกลจะถูกใชงานเมื่อแบตเทิลเริ่มขึ้น",

@@ -8822,6 +8822,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Received %{amount_0} item from Gyms using the Explorer Gadget.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Received %{amount_0} item from PokéStops using the Explorer Gadget.",
   "quest_title_soft_sfida_recap_description_singular": "caught with your Explorer Gadget.",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "Kamu punya sisa %{amount_0} Pertukaran Spesial.",
   "quest_title_special_trade_per_day_plural": "Hingga %{amount_0} Pertukaran Spesial per hari.",
   "quest_title_squash_confirmation_plural": "Dapat mengikuti %{amount_0} Pertarungan Max Jarak Jauh atau Raid Jarak Jauh lagi hari ini. Tiket Raid Jarak Jauh akan digunakan ketika pertarungan dimulai.",

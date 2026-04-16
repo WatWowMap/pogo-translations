@@ -10100,6 +10100,7 @@
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Received %{amount_0} item from Gyms using the Explorer Gadget.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Received %{amount_0} item from PokéStops using the Explorer Gadget.",
   "quest_title_soft_sfida_recap_description_singular": "caught with your Explorer Gadget.",
+  "quest_title_soft_sfida_recap_header2_plural": "%{amount_0} Pokémon",
   "quest_title_special_trade_confirm_bonus_plural": "あと%{amount_0}回特別な交換ができます",
   "quest_title_special_trade_per_day_plural": "一日にできる特別な交換計%{amount_0}回",
   "quest_title_squash_confirmation_plural": "今日あと%{amount_0}回リモートマックス・レイドバトルに参加できます。リモートレイドパスはバトル開始時に消費されます。",
