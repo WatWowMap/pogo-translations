@@ -1,4 +1,5 @@
 {
+  "One additional Candy for evolving Pokémon": "Ein zusätzliches Bonbon für das Entwickeln von Pokémon",
   "One additional Candy for completing Max Battles": "Ein zusätzliches Bonbon für das Abschließen von Dyna-Kämpfen",
   "One additional Candy from raids": "Ein zusätzliches Bonbon für Raids",
   "One additional Candy XL for completing Max Battles": "Ein zusätzliches Bonbon XL für das Abschließen von Dyna-Kämpfen",
@@ -793,6 +794,7 @@
   "Use {{amount_0}} Charged Attacks while in a party": "Setze {{amount_0}} Lade-Attacken mit einem Team ein.",
   "Use a Charged Attack while in a party": "Setze eine Lade-Attacke mit einem Team ein.",
   "Use {{amount_0}} Charged Attacks": "Setze {{amount_0}} Lade-Attacken ein.",
+  "Use a Charged Attack": "Setze eine Lade-Attacke ein.",
   "Evolve {{amount_0}} Charjabug": "Entwickle {{amount_0}} Akkup.",
   "Catch {{amount_0}} Charmeleon": "Fange {{amount_0}} Glutexo.",
   "Evolve {{amount_0}} Charmander": "Entwickle {{amount_0}} Glumanda.",

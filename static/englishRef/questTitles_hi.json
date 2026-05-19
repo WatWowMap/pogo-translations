@@ -1,4 +1,5 @@
 {
+  "One additional Candy for evolving Pokémon": "One additional Candy for evolving Pokémon",
   "One additional Candy for completing Max Battles": "मैस बैटल पूरा करने पर एक अतरत कडी XL",
   "One additional Candy from raids": "रड से एक अतरत कडी",
   "One additional Candy XL for completing Max Battles": "मैस बैटल पूर करने पर एक अतरत कडी XL",
@@ -793,6 +794,7 @@
   "Use {{amount_0}} Charged Attacks while in a party": "टम में शामल हो कर {{amount_0}} चाज्ड अटैक का उपयोग करं",
   "Use a Charged Attack while in a party": "टम में शामल हो कर चाज्ड अटैक का उपयोग करं",
   "Use {{amount_0}} Charged Attacks": "{{amount_0}} चाज्ड अटैक इतेमाल करं",
+  "Use a Charged Attack": "Use a Charged Attack",
   "Evolve {{amount_0}} Charjabug": "{{amount_0}} चाजाबग वकसत करं",
   "Catch {{amount_0}} Charmeleon": "{{amount_0}} चामलयन पकड़ें",
   "Evolve {{amount_0}} Charmander": "{{amount_0}} चारमैंडर को वकसत करं",

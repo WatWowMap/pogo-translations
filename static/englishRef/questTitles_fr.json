@@ -1,4 +1,5 @@
 {
+  "One additional Candy for evolving Pokémon": "Un Bonbon supplémentaire pour chaque Pokémon que tu fais évoluer",
   "One additional Candy for completing Max Battles": "Un Bonbon supplémentaire après avoir remporté des Combats Dynamax",
   "One additional Candy from raids": "Un Bonbon supplémentaire pour chaque Raid remporté",
   "One additional Candy XL for completing Max Battles": "Un Bonbon L supplémentaire quand tu gagnes des Combats Dynamax",
@@ -793,6 +794,7 @@
   "Use {{amount_0}} Charged Attacks while in a party": "Utilise {{amount_0}} Attaques Chargées en équipe",
   "Use a Charged Attack while in a party": "Utilise une Attaque Chargée en équipe",
   "Use {{amount_0}} Charged Attacks": "Utilise {{amount_0}} Attaques Chargées",
+  "Use a Charged Attack": "Utilise une Attaque Chargée",
   "Evolve {{amount_0}} Charjabug": "Fais évoluer {{amount_0}} Chrysapile",
   "Catch {{amount_0}} Charmeleon": "Attrape {{amount_0}} Reptincel",
   "Evolve {{amount_0}} Charmander": "Fais évoluer {{amount_0}} Salamèche",
