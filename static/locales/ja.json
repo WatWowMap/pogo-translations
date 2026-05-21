@@ -8551,6 +8551,7 @@
   "quest_title_quest_defeat_dark_type_raid_and_max_battle": "レイドかマックスバトルであくタイプのポケモン%{amount_0}匹に勝つ",
   "quest_title_quest_defeat_fighting_type_raid_singular": "かくとうタイプのボスポケモンに勝つ",
   "quest_title_quest_defeat_jessie_james_plural": "ムサシかコジロウに%{amount_0}回勝つ ",
+  "quest_title_quest_defeat_mega_mewtwo": "Defeat Mega Mewtwo",
   "quest_title_quest_defeat_rocket": "GOロケット団員に%{amount_0}回勝つ",
   "quest_title_quest_defeat_rocket_leader_2500": "CP2500以下のポケモンのみを使いGOロケット団リーダーに%{amount_0}回勝つ",
   "quest_title_quest_defeat_rocket_singular": "GOロケット団員に勝つ",

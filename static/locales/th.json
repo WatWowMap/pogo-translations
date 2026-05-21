@@ -7273,6 +7273,7 @@
   "quest_title_quest_defeat_dark_type_raid_and_max_battle": "เอาชนะโปเกมอนประเภทความมืด %{amount_0} ตัว ในตีบอสหรือแบตเทิลแมกซ",
   "quest_title_quest_defeat_fighting_type_raid_singular": "เอาชนะบอสโปเกมอนประเภทต่อสู้",
   "quest_title_quest_defeat_jessie_james_plural": "เอาชนะมุซาชิและโคจิโร %{amount_0} ครั้ง",
+  "quest_title_quest_defeat_mega_mewtwo": "Defeat Mega Mewtwo",
   "quest_title_quest_defeat_rocket": "เอาชนะสมาชิกแกงโกร็อกเกต %{amount_0} คน",
   "quest_title_quest_defeat_rocket_leader_2500": "เอาชนะหัวหนาแกงโกร็อกเกตโดยใชเฉพาะโปเกมอนที่มี CP ต่ำกวา 2,500 จำนวน %{amount_0} ครั้ง",
   "quest_title_quest_defeat_rocket_singular": "เอาชนะสมาชิกแกงโกร็อกเกต",
