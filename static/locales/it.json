@@ -7273,7 +7273,7 @@
   "quest_title_quest_defeat_dark_type_raid_and_max_battle": "Sconfiggi %{amount_0} Pokémon di tipo Buio nei raid o nelle Lotte Dynamax",
   "quest_title_quest_defeat_fighting_type_raid_singular": "Sconfiggi un boss del raid di tipo Lotta",
   "quest_title_quest_defeat_jessie_james_plural": "Sconfiggi Jessie o James %{amount_0} volte",
-  "quest_title_quest_defeat_mega_mewtwo": "Defeat Mega Mewtwo",
+  "quest_title_quest_defeat_mega_mewtwo": "Defeat Mega Mewtwo X or Mega Mewtwo Y",
   "quest_title_quest_defeat_rocket": "Sconfiggi %{amount_0} membri del Team GO Rocket",
   "quest_title_quest_defeat_rocket_leader_2500": "Sconfiggi %{amount_0} leader del Team GO Rocket con Pokémon (max. 2.500 PL)",
   "quest_title_quest_defeat_rocket_singular": "Sconfiggi un membro del Team GO Rocket",

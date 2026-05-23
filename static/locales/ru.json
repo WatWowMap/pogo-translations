@@ -9332,7 +9332,7 @@
   "quest_title_quest_defeat_dark_type_raid_and_max_battle": "Победи в рейдах или в битвах макс Покемонов типа Тёмный ×%{amount_0}",
   "quest_title_quest_defeat_fighting_type_raid_singular": "Победи Рейдового Босса типа Боевой",
   "quest_title_quest_defeat_jessie_james_plural": "Победи Джесси или Джеймса ×%{amount_0}",
-  "quest_title_quest_defeat_mega_mewtwo": "Defeat Mega Mewtwo",
+  "quest_title_quest_defeat_mega_mewtwo": "Defeat Mega Mewtwo X or Mega Mewtwo Y",
   "quest_title_quest_defeat_rocket": "Победи членов Команды Ракета GO ×%{amount_0}",
   "quest_title_quest_defeat_rocket_leader_2500": "Победи лидера Команды Ракета GO, используя только Покемонов с 2500 БC или меньше ×%{amount_0}",
   "quest_title_quest_defeat_rocket_singular": "Победи члена Команды Ракета GO",
