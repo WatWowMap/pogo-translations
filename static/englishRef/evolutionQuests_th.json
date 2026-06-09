@@ -1,16 +1,16 @@
 {
   "Earn {{amount}} hearts with your buddy": "ได้รับหัวใจร่วมกันกับคู่หูของคุณ {{amount}} ดวง",
-  "Give your buddy {{amount}} treats": "ปอนของวางใหคูหูของคุณ {{amount}} ครั้ง",
-  "Walk {{amount}} km with your buddy": "เดินกับคูหูของคุณ {{amount}} กม.",
+  "Give your buddy {{amount}} treats": "ป้อนของว่างให้คู่หูของคุณ {{amount}} ครั้ง",
+  "Walk {{amount}} km with your buddy": "เดินกับคู่หูของคุณ {{amount}} กม.",
   "Catch {{amount}} Dark-type Pokémon": "จับโปเกมอนประเภทความมืด {{amount}} ตัว",
   "Catch {{amount}} Dragon-type Pokémon": "จับโปเกมอนประเภทมังกร {{amount}} ตัว",
-  "Catch {{amount}} Fighting-type Pokémon": "จับโปเกมอนประเภทตอสู {{amount}} ตัว",
+  "Catch {{amount}} Fighting-type Pokémon": "จับโปเกมอนประเภทต่อสู้ {{amount}} ตัว",
   "Catch {{amount}} Poison-type Pokémon": "จับโปเกมอนประเภทพิษ {{amount}} ตัว",
   "Catch {{amount}} Psychic-type Pokémon": "จับโปเกมอนประเภทพลังจิต {{amount}} ตัว",
   "Defeat {{amount}} Ghost-type Pokémon": "เอาชนะโปเกมอนประเภทผี {{amount}} ตัว",
   "Defeat {{amount}} Psychic- or Ghost-type Pokémon": "เอาชนะโปเกมอนประเภทพลังจิตหรือผี {{amount}} ตัว",
   "Defeat {{amount}} Psychic-type Pokémon": "เอาชนะโปเกมอนประเภทพลังจิต {{amount}} ตัว",
-  "Use an Incense": "ใชเครื่องหอม",
-  "Make {{amount}} Excellent Throws": "ทำการขวางไดสุดยอด {{amount}} ครั้ง",
+  "Use an Incense": "ใช้เครื่องหอม",
+  "Make {{amount}} Excellent Throws": "ทำการขว้างได้สุดยอด {{amount}} ครั้ง",
   "Win {{amount}} raids": "ชนะการตีบอส {{amount}} ครั้ง"
 }
