@@ -9486,6 +9486,7 @@
   "quest_title_quest_oshat_evolve_b": "ミジュマルを%{amount_0}匹進化させる",
   "quest_title_quest_oshat_evolve_s1": "フタチマルを進化させる",
   "quest_title_quest_partner_spin_rally_aeonmall": "イオンモールのポケストップ・ジム%{amount_0}個を回す",
+  "quest_title_quest_partner_spin_rally_mcdonalds": "マクドナルドのポケストップ・ジム%{amount_0}個を回す",
   "quest_title_quest_partner_spin_rally_softbank": "ソフトバンクのポケストップ・ジム%{amount_0}個を回す",
   "quest_title_quest_party_catch_electric_type_plural": "チーム参加中でんきタイプのポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_party_catch_electric_type_singular": "チーム参加中でんきタイプのポケモンを捕まえる",
