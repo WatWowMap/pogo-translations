@@ -376,8 +376,8 @@
   "Drum Beating": "ड्रम बीटिंग",
   "Pyro Ball": "पाइरो बॉल",
   "Gigaton Hammer": "गिगाटन हैमर",
-  "<<move_name_0246>>+": "Vm Move Temp Evolution Mega X V0150 Pokemon Mewtwo",
-  "<<move_name_0275>>+": "Vm Move Temp Evolution Mega Y V0150 Pokemon Mewtwo",
+  "<<move_name_0246>>+": "<<move_name_0246>>+",
+  "<<move_name_0275>>+": "<<move_name_0275>>+",
   "Plasma Fists": "प्लाज़्मा फ़िस्ट",
   "Vm Move Temp Evolution Mega V0003 Pokemon Venusaur": "Vm Move Temp Evolution Mega V0003 Pokemon Venusaur",
   "Vm Move Temp Evolution Mega X V0006 Pokemon Charizard": "Vm Move Temp Evolution Mega X V0006 Pokemon Charizard",
@@ -473,7 +473,7 @@
   "Vm Move Temp Evolution Primal V0383 Pokemon Groudon": "Vm Move Temp Evolution Primal V0383 Pokemon Groudon",
   "Glaive Rush": "ग्लेव रश",
   "Snipe Shot": "स्नाइप शॉट",
-  "Dive": "Dive",
+  "Dive": "डाइव",
   "Gulp Missile Gulping": "Gulp Missile Gulping",
   "Gulp Missile Gorging": "Gulp Missile Gorging"
 }
