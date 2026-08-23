@@ -2391,7 +2391,7 @@
   "You need {{amount_0}} more Link Charges to enter this battle.": "このバトルに参加するには{{amount_0}}リンクチャージ足りません",
   "You need 1 more Link Charge to enter this battle.": "このバトルに参加するには1リンクチャージ足りません",
   "Your {{amount_0}} are fully upgraded!": "{{amount_0}}はこれ以上アップグレードできません",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}}は上限までアップグレードされています。トレーナーレベルを上げると増やすことが可能です。",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}}は上限までアップグレードされています。トレーナーレベルを上げると増やすことが可能です。<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>レベルアップの詳細はこちら。</a>",
   "{{amount_0}} going": "{{amount_0}}さんが行く",
   "Received {{amount_0}} item from Gyms using the Explorer Gadget.": "おでかけキャッチャー使用中ジムで{{amount_0}}アイテム手に入れた！",
   "Received {{amount_0}} item from PokéStops using the Explorer Gadget.": "おでかけキャッチャー使用中ポケストップで{{amount_0}}アイテム手に入れた！",
