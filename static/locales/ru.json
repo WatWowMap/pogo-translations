@@ -11168,7 +11168,7 @@
   "quest_title_shop_enhanced_currency_description_plural": "Чтобы участвовать в этой битве, потребуется ещё Зарядов Связи: %{amount_0}.",
   "quest_title_shop_enhanced_currency_description_singular": "Тебе потребуется ещё 1 Заряд Связи, чтобы участвовать в этой битве.",
   "quest_title_shop_fully_upgraded_plural": "%{amount_0}: улучшение произведено!",
-  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!",
+  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Узнай больше о повышении уровня здесь.</a>",
   "quest_title_snapshot_bulbasaur": "Сделай фото Бульбазавра",
   "quest_title_snapshot_charmander": "Сделай фото Чармандера",
   "quest_title_snapshot_genesect": "Сделай %{amount_0} фото Дженесекта",
