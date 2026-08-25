@@ -9059,7 +9059,7 @@
   "quest_title_shop_enhanced_currency_description_plural": "Você precisa de mais %{amount_0} Cargas de Conexão para participar desta batalha.",
   "quest_title_shop_enhanced_currency_description_singular": "Você precisa de mais 1 Carga de Conexão para participar desta batalha.",
   "quest_title_shop_fully_upgraded_plural": "%{amount_0} atingiram a capacidade máxima!",
-  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0} atingiram a capacidade máxima! Consiga mais espaço subindo de nível!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Saiba mais sobre como subir de nível aqui.</a>",
+  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0} atingiram a capacidade máxima! Consiga mais espaço subindo de nível!",
   "quest_title_social_planner_timeslot_friend_attending_key_singular": "%{amount_0} vão participar",
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Recebeu %{amount_0} item de Ginásios usando o Dispositivo de Exploração.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Recebeu %{amount_0} item de Poképaradas usando o Dispositivo de Exploração.",
