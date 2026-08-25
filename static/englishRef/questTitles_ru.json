@@ -2391,7 +2391,7 @@
   "You need {{amount_0}} more Link Charges to enter this battle.": "Чтобы участвовать в этой битве, потребуется ещё Зарядов Связи: {{amount_0}}.",
   "You need 1 more Link Charge to enter this battle.": "Тебе потребуется ещё 1 Заряд Связи, чтобы участвовать в этой битве.",
   "Your {{amount_0}} are fully upgraded!": "{{amount_0}}: улучшение произведено!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Узнай больше о повышении уровня здесь.</a>",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}}: улучшение произведено! Получай больше места для хранения, повышая свой уровень!",
   "{{amount_0}} going": "Идёт: {{amount_0}}",
   "Received {{amount_0}} item from Gyms using the Explorer Gadget.": "Получен {{amount_0}} предмет в Гимах с использованием Гаджета Исследователя.",
   "Received {{amount_0}} item from PokéStops using the Explorer Gadget.": "Получен {{amount_0}} предмет на Покестопах с использованием Гаджета Исследователя.",

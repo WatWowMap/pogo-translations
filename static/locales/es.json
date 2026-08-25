@@ -9059,7 +9059,7 @@
   "quest_title_shop_enhanced_currency_description_plural": "Necesitas %{amount_0} Cargas Unión más para unirte a este combate.",
   "quest_title_shop_enhanced_currency_description_singular": "Necesitas 1 Carga Unión más para unirte a este combate.",
   "quest_title_shop_fully_upgraded_plural": "¡Tus %{amount_0} se han mejorado al máximo!",
-  "quest_title_shop_fully_upgraded_purchasable_plural": "¡Tus %{amount_0} se han mejorado al máximo! ¡Consigue más almacenamiento subiendo de nivel!",
+  "quest_title_shop_fully_upgraded_purchasable_plural": "¡Tus %{amount_0} se han mejorado al máximo! ¡Consigue más almacenamiento subiendo de nivel!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Obtén más información sobre cómo subir de nivel aquí.</a>",
   "quest_title_social_planner_timeslot_friend_attending_key_singular": "Asistentes: %{amount_0}",
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Has recibido %{amount_0} objeto en los Gimnasios usando el Artilugio de Exploración.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Has recibido %{amount_0} objeto en las Poképaradas usando el Artilugio de Exploración.",
