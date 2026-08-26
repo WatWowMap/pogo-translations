@@ -7153,7 +7153,7 @@
   "quest_title_quest_catch_kalos_pokemon": "Pegar %{amount_0} Pokémon originalmente descobertos na região de Kalos.",
   "quest_title_quest_catch_kalos_pokemon_singular": "Pegar 1 Pokémon originalmente descoberto na região de Kalos.",
   "quest_title_quest_catch_kanto_pokemon": "Pegar %{amount_0} Pokémon originalmente descobertos na região de Kanto.",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "Pegar Pokémon originalmente descobertos na região de Kanto em %{amount_0} dias diferentes.",
   "quest_title_quest_catch_kanto_starters_plural": "Pegar %{amount_0} Bulbasaur, Charmander, ou Squirtle.",
   "quest_title_quest_catch_kanto_starters_singular": "Pegar 1 Bulbasaur, Charmander, ou Squirtle.",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Pegar %{amount_0} Pokémon de tipo Água, Elétrico ou Inseto.",

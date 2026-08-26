@@ -9212,7 +9212,7 @@
   "quest_title_quest_catch_kalos_pokemon": "Поймай Покемонов, впервые обнаруженных в регионе Калос ×%{amount_0}",
   "quest_title_quest_catch_kalos_pokemon_singular": "Поймай 1 Покемона, впервые обнаруженного в регионе Калос",
   "quest_title_quest_catch_kanto_pokemon": "Поймай Покемонов, впервые обнаруженных в регионе Канто ×%{amount_0}",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "Поймай Покемонов, впервые обнаруженных в регионе Канто в разные дни ×%{amount_0}",
   "quest_title_quest_catch_kanto_starters_plural": "Поймай Бульбазавра, Чармандера или Сквиртла ×%{amount_0}",
   "quest_title_quest_catch_kanto_starters_singular": "Поймай Бульбазавра, Чармандера или Сквиртла",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Поймай Покемонов типов Вода, Электро или Насекомое ×%{amount_0}",

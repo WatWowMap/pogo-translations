@@ -7153,7 +7153,7 @@
   "quest_title_quest_catch_kalos_pokemon": "%{amount_0} पोकेमॉन पकड़ें जिनकी पहली खोज कालोस रीजन में हुई थी",
   "quest_title_quest_catch_kalos_pokemon_singular": "एक पोकेमॉन पकड़ें जिसकी पहली खोज कालोस रीजन में हुई थी",
   "quest_title_quest_catch_kanto_pokemon": "कांतो रीजन में सबसे पहले खोजे गए %{amount_0} पोकेमॉन पकड़ें",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "%{amount_0} अलग-अलग दिन, कांतो रीजन में सबसे पहले खोजे गए पोकेमॉन पकड़ें",
   "quest_title_quest_catch_kanto_starters_plural": "%{amount_0} बल्बासॉर, चारमैंडर या स्क्वर्टल पकड़ें",
   "quest_title_quest_catch_kanto_starters_singular": "एक बल्बासॉर, चारमैंडर या स्क्वर्टल पकड़ें",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "%{amount_0} वॉटर, इलेक्ट्रिक, या बग टाइप पोकेमॉन पकड़ें",

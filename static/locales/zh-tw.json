@@ -7153,7 +7153,7 @@
   "quest_title_quest_catch_kalos_pokemon": "捕捉%{amount_0}隻在卡洛斯地區首次被發現的寶可夢",
   "quest_title_quest_catch_kalos_pokemon_singular": "捕捉在卡洛斯地區首次被發現的寶可夢",
   "quest_title_quest_catch_kanto_pokemon": "捕捉%{amount_0}隻在關都地區首次被發現的寶可夢",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "捕捉在關都地區首次被發現的寶可夢%{amount_0}天",
   "quest_title_quest_catch_kanto_starters_plural": "捕捉%{amount_0}隻妙蛙種子、小火龍或傑尼龜",
   "quest_title_quest_catch_kanto_starters_singular": "捕捉1隻妙蛙種子、小火龍或傑尼龜",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "捕捉 %{amount_0} 隻水、電或蟲屬性的寶可夢",

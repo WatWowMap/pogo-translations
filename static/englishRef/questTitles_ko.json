@@ -559,7 +559,7 @@
   "Catch {{amount_0}} Pokémon originally discovered in the Kalos region": "칼로스지방에서 처음으로 발견된 포켓몬 {{amount_0}}마리를 잡는다",
   "Catch a Pokémon originally discovered in the Kalos region": "칼로스지방에서 처음으로 발견된 포켓몬 1마리를 잡는다",
   "Catch {{amount_0}} Pokémon originally discovered in the Kanto region": "관동지방에서 처음으로 발견된 포켓몬 {{amount_0}}마리를 잡는다",
-  "Catch Pokémon originally discovered in the Kanto region on {{amount_0}} different days": "Catch Pokémon originally discovered in the Kanto region on {{amount_0}} different days",
+  "Catch Pokémon originally discovered in the Kanto region on {{amount_0}} different days": "관동지방에서 처음 발견된 포켓몬을 {{amount_0}}일동안 잡는다",
   "Catch {{amount_0}} Bulbasaur, Charmander, or Squirtle": "이상해씨, 파이리, 꼬부기 중 하나를 {{amount_0}}마리 잡는다",
   "Catch a Bulbasaur, Charmander, or Squirtle": "이상해씨, 파이리, 꼬부기 중 1마리 잡는다",
   "Catch {{amount_0}} Water-, Electric-, or Bug-type Pokémon": "물, 전기, 벌레 중 한 가지 타입 포켓몬을 {{amount_0}}마리 잡는다",

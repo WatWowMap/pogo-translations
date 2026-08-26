@@ -8431,7 +8431,7 @@
   "quest_title_quest_catch_kalos_pokemon": "カロス地方で最初に発見されたポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_kalos_pokemon_singular": "カロス地方で最初に発見されたポケモンを捕まえる",
   "quest_title_quest_catch_kanto_pokemon": "カントー地方で最初に発見されたポケモンを%{amount_0}匹捕まえる",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "カントー地方で最初に発見されたポケモンを%{amount_0}日にわたり捕まえる",
   "quest_title_quest_catch_kanto_starters_plural": "フシギダネ、ヒトカゲ、もしくはゼニガメを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_kanto_starters_singular": "フシギダネ、ヒトカゲ、もしくはゼニガメを捕まえる",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "みず、でんき、むし、いずれかのタイプのポケモンを%{amount_0}匹捕まえる",

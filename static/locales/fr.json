@@ -8424,7 +8424,7 @@
   "quest_title_quest_catch_kalos_pokemon": "Attrape %{amount_0} Pokémon découverts dans la région de Kalos",
   "quest_title_quest_catch_kalos_pokemon_singular": "Attrape un Pokémon découvert dans la région de Kalos",
   "quest_title_quest_catch_kanto_pokemon": "Attrape %{amount_0} Pokémon découverts dans la région de Kanto",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "Attrape des Pokémon découverts dans la région de Kanto pendant %{amount_0} jours différents",
   "quest_title_quest_catch_kanto_starters_plural": "Attrape %{amount_0} Bulbizarre, Salamèche ou Carapuce",
   "quest_title_quest_catch_kanto_starters_singular": "Attrape un Bulbizarre, un Salamèche ou un Carapuce",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Attrape %{amount_0} Pokémon de type Eau, Électrik ou Insecte",

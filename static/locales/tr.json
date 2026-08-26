@@ -7153,7 +7153,7 @@
   "quest_title_quest_catch_kalos_pokemon": "İlk olarak Kalos bölgesinde keşfedilmiş %{amount_0} Pokémon yakalayın",
   "quest_title_quest_catch_kalos_pokemon_singular": "İlk olarak Kalos bölgesinde keşfedilmiş bir Pokémon yakalayın",
   "quest_title_quest_catch_kanto_pokemon": "İlk olarak Kanto bölgesinde keşfedilmiş %{amount_0} Pokémon yakalayın",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "%{amount_0} farklı gün ilk olarak Kanto bölgesinde keşfedilmiş Pokémon yakalayın",
   "quest_title_quest_catch_kanto_starters_plural": "%{amount_0} Bulbasaur, Charmander veya Squirtle yakalayın",
   "quest_title_quest_catch_kanto_starters_singular": "Bir Bulbasaur, Charmander veya Squirtle yakalayın",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "Su, Elektrik ya da Böcek türünden %{amount_0} Pokémon yakalayın",

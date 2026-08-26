@@ -7153,7 +7153,7 @@
   "quest_title_quest_catch_kalos_pokemon": "จับโปเกมอนที่ถูกค้นพบครั้งแรกในภูมิภาคคาลอส %{amount_0} ตัว",
   "quest_title_quest_catch_kalos_pokemon_singular": "จับโปเกมอนที่ถูกค้นพบครั้งแรกในภูมิภาคคาลอส",
   "quest_title_quest_catch_kanto_pokemon": "จับโปเกมอนที่ถูกค้นพบครั้งแรกในภูมิภาคคันโต %{amount_0} ตัว",
-  "quest_title_quest_catch_kanto_pokemon_days": "Catch Pokémon originally discovered in the Kanto region on %{amount_0} different days",
+  "quest_title_quest_catch_kanto_pokemon_days": "จับโปเกมอนที่ถูกค้นพบครั้งแรกในภูมิภาคคันโตรวม %{amount_0} วัน",
   "quest_title_quest_catch_kanto_starters_plural": "จับฟุชิกิดาเนะ, ฮิโตคาเงะ หรือเซนิกาเมะ %{amount_0} ตัว",
   "quest_title_quest_catch_kanto_starters_singular": "จับฟุชิกิดาเนะ, ฮิโตคาเงะ หรือเซนิกาเมะ",
   "quest_title_quest_catch_kyogre_primal_boosted_types": "จับโปเกมอนประเภทน้ำ ไฟฟ้า หรือแมลง %{amount_0} ตัว",
