@@ -9062,7 +9062,7 @@
   "quest_title_shop_enhanced_currency_description_plural": "Bu maça katılmak için %{amount_0} Bağlantı Şarjına daha ihtiyacınız var.",
   "quest_title_shop_enhanced_currency_description_singular": "Bu maça katılmak için 1 Bağlantı Şarjına daha ihtiyacınız var.",
   "quest_title_shop_fully_upgraded_plural": "%{amount_0} tamamen geliştirildi!",
-  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!",
+  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0} tamamen geliştirildi! Seviye atlayarak depo kapasitenizi daha da geliştirebilirsiniz!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Seviye atlama hakkındaki ayrıntıları buradan öğrenebilirsiniz.</a>",
   "quest_title_social_planner_timeslot_friend_attending_key_singular": "%{amount_0} katılacak",
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Kâşif Aygıtı kullanılarak spor salonlarından %{amount_0} eşya alındı.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Kâşif Aygıtı kullanılarak PokéDuraklardan %{amount_0} eşya alındı.",

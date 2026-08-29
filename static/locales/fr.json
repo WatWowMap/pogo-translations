@@ -10333,7 +10333,7 @@
   "quest_title_shop_enhanced_currency_description_plural": "Il te faut %{amount_0} Charges-Liens de plus pour rejoindre ce combat.",
   "quest_title_shop_enhanced_currency_description_singular": "Il te faut 1 Charge-Lien de plus pour rejoindre ce combat.",
   "quest_title_shop_fully_upgraded_plural": "Tes %{amount_0} ont atteint leur amélioration maximale !",
-  "quest_title_shop_fully_upgraded_purchasable_plural": "Tes %{amount_0} ont atteint leur amélioration maximale ! Agrandis ton stockage en montant de niveau !",
+  "quest_title_shop_fully_upgraded_purchasable_plural": "Tes %{amount_0} ont atteint leur amélioration maximale ! Agrandis ton stockage en montant de niveau !<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Obtiens davantage d’informations sur la montée de niveau ici.</a>",
   "quest_title_social_planner_timeslot_friend_attending_key_singular": "%{amount_0} participants",
   "quest_title_soft_sfida_journal_entry_gyms_singular": "%{amount_0} objet reçu d’Arènes grâce au Gadget d’Exploration.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "%{amount_0} objet reçu de PokéStops grâce au Gadget d’Exploration.",

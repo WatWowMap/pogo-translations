@@ -9062,7 +9062,7 @@
   "quest_title_shop_enhanced_currency_description_plural": "Hai bisogno di %{amount_0} cariche di connessione in più per partecipare a questa lotta.",
   "quest_title_shop_enhanced_currency_description_singular": "Hai bisogno di una carica di connessione in più per partecipare a questa lotta.",
   "quest_title_shop_fully_upgraded_plural": "%{amount_0} già ampliate al massimo!",
-  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0} già ampliate al massimo! Ottieni più spazio salendo di livello!",
+  "quest_title_shop_fully_upgraded_purchasable_plural": "%{amount_0} già ampliate al massimo! Ottieni più spazio salendo di livello!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Scopri di più sugli aumenti di livello qui.</a>",
   "quest_title_social_planner_timeslot_friend_attending_key_singular": "Partecipanti: %{amount_0}",
   "quest_title_soft_sfida_journal_entry_gyms_singular": "Ricevuto %{amount_0} strumento dalle Palestre utilizzando il gadget di esplorazione.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "Ricevuto %{amount_0} strumento dai Pokéstop utilizzando il gadget di esplorazione.",

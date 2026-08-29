@@ -2394,7 +2394,7 @@
   "You need {{amount_0}} more Link Charges to enter this battle.": "Hai bisogno di {{amount_0}} cariche di connessione in più per partecipare a questa lotta.",
   "You need 1 more Link Charge to enter this battle.": "Hai bisogno di una carica di connessione in più per partecipare a questa lotta.",
   "Your {{amount_0}} are fully upgraded!": "{{amount_0}} già ampliate al massimo!",
-  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}} già ampliate al massimo! Ottieni più spazio salendo di livello!",
+  "Your {{amount_0}} are fully upgraded! Earn more storage by leveling up!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Learn more about leveling up here.</a>": "{{amount_0}} già ampliate al massimo! Ottieni più spazio salendo di livello!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1432-available-items-your-bag/”>Scopri di più sugli aumenti di livello qui.</a>",
   "{{amount_0}} going": "Partecipanti: {{amount_0}}",
   "Received {{amount_0}} item from Gyms using the Explorer Gadget.": "Ricevuto {{amount_0}} strumento dalle Palestre utilizzando il gadget di esplorazione.",
   "Received {{amount_0}} item from PokéStops using the Explorer Gadget.": "Ricevuto {{amount_0}} strumento dai Pokéstop utilizzando il gadget di esplorazione.",
