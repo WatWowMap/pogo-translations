@@ -6976,6 +6976,7 @@
   "quest_title_quest_alodude_evolve_a": "Fai evolvere %{amount_0} Geodude di Alola",
   "quest_title_quest_alodude_evolve_b": "Fai evolvere %{amount_0} Graveler di Alola",
   "quest_title_quest_alodude_snap": "Fai %{amount_0} foto a Geodude di Alola",
+  "quest_title_quest_applin_catch_singular": "Cattura un Applin",
   "quest_title_quest_appraise_pokemon_plural": "Fai valutare %{amount_0} Pokémon",
   "quest_title_quest_appraise_pokemon_singular": "Fai valutare un Pokémon",
   "quest_title_quest_at_catch_a": "Cattura %{amount_0} Abra",
