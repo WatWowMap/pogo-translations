@@ -9141,7 +9141,7 @@
   "quest_title_shop_enhanced_currency_description_plural": "Du brauchst noch %{amount_0} Dyna-Partikel, um diesem Kampf beizutreten.",
   "quest_title_shop_enhanced_currency_description_singular": "Du brauchst noch 1 Dyna-Partikel, um diesem Kampf beizutreten.",
   "quest_title_shop_fully_upgraded_plural": "%{amount_0}-Aufbewahrung vollständig verbessert!",
-  "quest_title_shop_fully_upgraded_purchasable_plural": "Deine %{amount_0}-Aufbewahrung ist vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!<a href=”https://scopelyexplore.helpshift.com/hc/faq/1235-available-items-your-bag/”>Hier erfährst du mehr über das Aufleveln.</a>",
+  "quest_title_shop_fully_upgraded_purchasable_plural": "Deine %{amount_0}-Aufbewahrung ist vollständig verbessert! Erhalte mehr Aufbewahrung, indem du auflevelst!",
   "quest_title_social_planner_timeslot_friend_attending_key_singular": "%{amount_0} kommen",
   "quest_title_soft_sfida_journal_entry_gyms_singular": "%{amount_0} Item von Arena mithilfe des Entdecker-Gadgets erhalten.",
   "quest_title_soft_sfida_journal_entry_stop_singular": "%{amount_0} Item vom PokéStop mithilfe des Entdecker-Gadgets erhalten.",
