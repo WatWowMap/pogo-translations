@@ -8811,7 +8811,7 @@
   "quest_title_giblt_catch_b": "Поймай Гиблов: %{amount_0}",
   "quest_title_giblt_evolve_b": "Эволюционируй Гиблов: %{amount_0}",
   "quest_title_giblt_evolve_s1": "Эволюционируй Габайта: %{amount_0}",
-  "quest_title_gift_multi_delete_plural": "Discard these %{amount_0} Gifts?",
+  "quest_title_gift_multi_delete_plural": "Удалить эти Подарки: %{amount_0}?",
   "quest_title_gold_medal_plural": "Заработай золотые медали: %{amount_0} ",
   "quest_title_gold_medal_plural_five": "Заработай 5 золотых медалей",
   "quest_title_gold_medal_singular": "Заработай золотую медаль",
