@@ -9587,6 +9587,7 @@
   "quest_title_quest_catch_types_windy_singular": "Поймай 1 Покемона типа Летающий, Психо или Дракон",
   "quest_title_quest_catch_venipede_plural": "Поймай Венипидов ×%{amount_0}",
   "quest_title_quest_catch_water_fighting_plural": "Поймай Покемонов типов Вода или Боевой ×%{amount_0}",
+  "quest_title_quest_catch_water_or_grass_plural": "Поймай Покемонов типов Трава или Вода ×%{amount_0}",
   "quest_title_quest_catch_weather_boost_plural": "Поймай Покемонов при погодном усилении ×%{amount_0}",
   "quest_title_quest_catch_weather_boost_singular": "Поймай 1 Покемона при погодном усилении",
   "quest_title_quest_catch_whismur": "Поймай %{amount_0} Визмуров",

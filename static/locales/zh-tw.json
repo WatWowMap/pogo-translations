@@ -7528,6 +7528,7 @@
   "quest_title_quest_catch_types_windy_singular": "捕捉1隻飛行、龍或超能力屬性的寶可夢",
   "quest_title_quest_catch_venipede_plural": "捕捉%{amount_0}隻百足蜈蚣",
   "quest_title_quest_catch_water_fighting_plural": "捕捉%{amount_0}隻水屬性或格鬥屬性的寶可夢",
+  "quest_title_quest_catch_water_or_grass_plural": "捕捉%{amount_0}隻草屬性或水屬性的寶可夢",
   "quest_title_quest_catch_weather_boost_plural": "捕捉 %{amount_0} 隻擁有天氣優勢的寶可夢",
   "quest_title_quest_catch_weather_boost_singular": "捕捉1隻擁有天氣優勢的寶可夢",
   "quest_title_quest_catch_whismur": "捕捉 %{amount_0} 隻咕妞妞",

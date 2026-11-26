@@ -808,6 +808,7 @@
   "Catch a Flying-, Psychic-, or Dragon-type Pokémon": "ひこう、ドラゴン、エスパー、いずれかのタイプのポケモンを1匹捕まえる",
   "Catch {{amount_0}} Venipede": "フシデを{{amount_0}}匹捕まえる",
   "Catch {{amount_0}} Water- or Fighting-type Pokémon": "みずタイプか、かくとうタイプのポケモンを{{amount_0}}匹捕まえる",
+  "Catch {{amount_0}} Grass- or Water-type Pokémon": "くさタイプか、みずタイプのポケモンを{{amount_0}}匹捕まえる",
   "Catch {{amount_0}} Pokémon with Weather Boost": "天候ブーストを受けているポケモンを{{amount_0}}匹捕まえる",
   "Catch a Pokémon with Weather Boost": "天候ブーストを受けているポケモンを1匹捕まえる",
   "Catch {{amount_0}} Whismur": "ゴニョニョを{{amount_0}}匹捕まえる",

@@ -808,6 +808,7 @@
   "Catch a Flying-, Psychic-, or Dragon-type Pokémon": "Поймай 1 Покемона типа Летающий, Психо или Дракон",
   "Catch {{amount_0}} Venipede": "Поймай Венипидов ×{{amount_0}}",
   "Catch {{amount_0}} Water- or Fighting-type Pokémon": "Поймай Покемонов типов Вода или Боевой ×{{amount_0}}",
+  "Catch {{amount_0}} Grass- or Water-type Pokémon": "Поймай Покемонов типов Трава или Вода ×{{amount_0}}",
   "Catch {{amount_0}} Pokémon with Weather Boost": "Поймай Покемонов при погодном усилении ×{{amount_0}}",
   "Catch a Pokémon with Weather Boost": "Поймай 1 Покемона при погодном усилении",
   "Catch {{amount_0}} Whismur": "Поймай {{amount_0}} Визмуров",

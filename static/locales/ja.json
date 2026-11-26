@@ -8806,6 +8806,7 @@
   "quest_title_quest_catch_types_windy_singular": "ひこう、ドラゴン、エスパー、いずれかのタイプのポケモンを1匹捕まえる",
   "quest_title_quest_catch_venipede_plural": "フシデを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_water_fighting_plural": "みずタイプか、かくとうタイプのポケモンを%{amount_0}匹捕まえる",
+  "quest_title_quest_catch_water_or_grass_plural": "くさタイプか、みずタイプのポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_weather_boost_plural": "天候ブーストを受けているポケモンを%{amount_0}匹捕まえる",
   "quest_title_quest_catch_weather_boost_singular": "天候ブーストを受けているポケモンを1匹捕まえる",
   "quest_title_quest_catch_whismur": "ゴニョニョを%{amount_0}匹捕まえる",

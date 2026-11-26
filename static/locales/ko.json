@@ -7528,6 +7528,7 @@
   "quest_title_quest_catch_types_windy_singular": "비행, 드래곤, 에스퍼 중 한 타입 포켓몬을 1마리 잡는다",
   "quest_title_quest_catch_venipede_plural": "마디네를 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_water_fighting_plural": "물타입  또는 격투타입 포켓몬을 %{amount_0}마리 잡는다",
+  "quest_title_quest_catch_water_or_grass_plural": "풀타입 또는 물타입 포켓몬을 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_weather_boost_plural": "날씨 부스트를 받고 있는 포켓몬 %{amount_0}마리 잡는다",
   "quest_title_quest_catch_weather_boost_singular": "날씨 부스트를 받고 있는 포켓몬 1마리 잡는다",
   "quest_title_quest_catch_whismur": "소곤룡을 %{amount_0} 마리 잡는다",

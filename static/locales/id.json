@@ -7528,6 +7528,7 @@
   "quest_title_quest_catch_types_windy_singular": "Tangkap Pokémon tipe Terbang, Psychic, atau Naga",
   "quest_title_quest_catch_venipede_plural": "Tangkap %{amount_0} Venipede",
   "quest_title_quest_catch_water_fighting_plural": "Tangkap %{amount_0} Pokémon tipe Air atau Petarung",
+  "quest_title_quest_catch_water_or_grass_plural": "Tangkap %{amount_0} Pokémon tipe Daun atau Air",
   "quest_title_quest_catch_weather_boost_plural": "Tangkap %{amount_0} Pokémon dengan Pemacu Cuaca",
   "quest_title_quest_catch_weather_boost_singular": "Tangkap Pokémon dengan Pemacu Cuaca",
   "quest_title_quest_catch_whismur": "Tangkap %{amount_0} Whismur",

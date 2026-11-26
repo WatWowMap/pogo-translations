@@ -7528,6 +7528,7 @@
   "quest_title_quest_catch_types_windy_singular": "Captura 1 Pokémon de tipo Volador, Psíquico o Dragón.",
   "quest_title_quest_catch_venipede_plural": "Captura %{amount_0} Venipede",
   "quest_title_quest_catch_water_fighting_plural": "Captura %{amount_0} Pokémon de tipo Agua o Lucha",
+  "quest_title_quest_catch_water_or_grass_plural": "Captura %{amount_0} Pokémon de tipo Planta o Agua",
   "quest_title_quest_catch_weather_boost_plural": "Captura %{amount_0} Pokémon potenciados por el tiempo atmosférico",
   "quest_title_quest_catch_weather_boost_singular": "Captura 1 Pokémon potenciado por el tiempo atmosférico",
   "quest_title_quest_catch_whismur": "Captura %{amount_0} Whismur",

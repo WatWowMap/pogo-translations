@@ -7528,6 +7528,7 @@
   "quest_title_quest_catch_types_windy_singular": "จับโปเกมอนประเภทบิน พลังจิต หรือมังกร",
   "quest_title_quest_catch_venipede_plural": "จับฟูชิเดะ %{amount_0} ตัว",
   "quest_title_quest_catch_water_fighting_plural": "จับโปเกมอนประเภทน้ำหรือต่อสู้ %{amount_0} ตัว",
+  "quest_title_quest_catch_water_or_grass_plural": "จับโปเกมอนประเภทหญ้าหรือน้ำ %{amount_0} ตัว",
   "quest_title_quest_catch_weather_boost_plural": "จับโปเกมอนที่ได้รับบูสต์สภาพอากาศ %{amount_0} ตัว",
   "quest_title_quest_catch_weather_boost_singular": "จับโปเกมอนที่ได้รับบูสต์สภาพอากาศ",
   "quest_title_quest_catch_whismur": "จับโกเนียวเนียว %{amount_0} ตัว",

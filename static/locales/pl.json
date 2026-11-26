@@ -7528,6 +7528,7 @@
   "quest_title_quest_catch_types_windy_singular": "Catch a Flying-, Psychic-, or Dragon-type Pokémon",
   "quest_title_quest_catch_venipede_plural": "Catch %{amount_0} Venipede",
   "quest_title_quest_catch_water_fighting_plural": "Catch %{amount_0} Water- or Fighting-type Pokémon",
+  "quest_title_quest_catch_water_or_grass_plural": "Catch %{amount_0} Grass- or Water-type Pokémon",
   "quest_title_quest_catch_weather_boost_plural": "Catch %{amount_0} Pokémon with Weather Boost",
   "quest_title_quest_catch_weather_boost_singular": "Catch a Pokémon with Weather Boost",
   "quest_title_quest_catch_whismur": "Catch %{amount_0} Whismur",

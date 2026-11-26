@@ -8799,6 +8799,7 @@
   "quest_title_quest_catch_types_windy_singular": "Attrape un Pokémon de type Vol, Psy ou Dragon",
   "quest_title_quest_catch_venipede_plural": "Attrape %{amount_0} Venipatte",
   "quest_title_quest_catch_water_fighting_plural": "Attrape %{amount_0} Pokémon de type Eau ou de type Combat",
+  "quest_title_quest_catch_water_or_grass_plural": "Attrape %{amount_0} Pokémon de type Plante ou de type Eau",
   "quest_title_quest_catch_weather_boost_plural": "Attrape %{amount_0} Pokémon boostés par la météo",
   "quest_title_quest_catch_weather_boost_singular": "Attrape un Pokémon boosté par la météo",
   "quest_title_quest_catch_whismur": "Attrape %{amount_0} Chuchmur",

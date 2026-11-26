@@ -7527,6 +7527,7 @@
   "quest_title_quest_catch_types_windy_singular": "Fange ein Pokémon vom Typ Flug, Psycho oder Drache.",
   "quest_title_quest_catch_venipede_plural": "Fange %{amount_0} Toxiped.",
   "quest_title_quest_catch_water_fighting_plural": "Fange %{amount_0} Pokémon vom Typ Wasser oder Kampf.",
+  "quest_title_quest_catch_water_or_grass_plural": "Fange %{amount_0} Pokémon vom Typ Pflanze oder Wasser.",
   "quest_title_quest_catch_weather_boost_plural": "Fange %{amount_0} Pokémon mit Wetterverstärkung.",
   "quest_title_quest_catch_weather_boost_singular": "Fange ein Pokémon mit Wetterverstärkung.",
   "quest_title_quest_catch_whismur": "Fange %{amount_0} Flurmel.",
